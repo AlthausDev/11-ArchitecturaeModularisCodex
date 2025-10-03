@@ -1,111 +1,100 @@
-# Architecturae Modularis Codex (AMC) - Categories
-# Version: 1.0
-# Skyrim SE Runtime: 1.6.1170
-# Author: Sam Althaus
+0|AMC_Root|0
 
-00_Masters
-00a_CreationClub_Fixes
-00b_SKSE_Frameworks
-00c_EngineFixes
-00d_Patches_Core
+1|00_Foundations|0
+2|00a_Tools|1
+3|00b_Frameworks|1
+4|00c_Libraries|1
+5|00d_Utilities|1
 
-01_Foundations
-01a_Script_Extenders
-01b_Libraries_Frameworks
-01c_Utilities_Tools
+6|01_CoreSystems|0
+7|01a_EngineFixes|6
+8|01b_Compatibility|6
+9|01c_QoLFixes|6
 
-02_Gameplay_Core
-02a_Game_Mechanics
-02b_Combat_Overhauls
-02c_AI_Overhauls
-02d_Survival_Systems
-02e_NPC_Behavior_Frameworks
+10|02_Gameplay|0
+11|02a_Combat|10
+12|02b_Magic|10
+13|02c_Stealth|10
+14|02d_AI|10
+15|02e_Balance|10
+16|02f_Survival|10
+17|02g_Progression|10
 
-03_Leveling_Perk_Magic
-03a_Leveling_Scaling
-03b_Perk_Trees
-03c_Magic_Overhauls
-03d_Spell_Packs
-03e_Enchanting_Alchemy
-03f_Shamanism_Rituals_Custom
+18|03_Animation|0
+19|03a_Frameworks|18
+20|03b_CombatAnimations|18
+21|03c_Idle_Poses|18
+22|03d_CreatureAnimations|18
 
-04_Items_Loot
-04a_Crafting_Additions
-04b_LeveledLists_Loot
-04c_Economy_Overhauls
-04d_Armors_Weapons
-04e_Artifacts_Relics
-04f_Enchantments_Visuals
+23|04_Visuals|0
+24|04a_Lighting|23
+25|04b_Weather|23
+26|04c_Textures|23
+27|04d_Meshes|23
+28|04e_VFX|23
+29|04f_Performance|23
 
-05_NPC_AI_Immersion
-05a_NPC_AI_Packages
-05b_NPC_Overhauls
-05c_NPC_FaceReplacers
-05d_Followers_Frameworks
-05e_Followers_New
-05f_Creatures_Overhauls
-05g_Creatures_New
+30|05_Audio|0
+31|05a_Music|30
+32|05b_SFX|30
+33|05c_Voices|30
+34|05d_Ambience|30
 
-06_Visuals_Assets
-06a_Meshes_Fixes
-06b_Materials_Textures
-06c_Armors_Weapons_Textures
-06d_Bodies_Skins
-06e_Hair_Eyes_Beards
-06f_Blood_Effects
-06g_Visual_Effects_Fire_Sparks
+35|06_UI|0
+36|06a_HUD|35
+37|06b_Menus|35
+38|06c_MCM|35
+39|06d_Notifications|35
 
-07_Lighting_Weather_Audio
-07a_Weather_Climates
-07b_Lighting_Interiors
-07c_Lighting_Exteriors
-07d_Sounds_Effects
-07e_Music
-07f_Ambience
+40|07_Quests_Stories|0
+41|07a_NewQuests|40
+42|07b_QuestExpansions|40
+43|07c_QuestTweaks|40
 
-08_Animations_Skeletons
-08a_Skeleton_Frameworks
-08b_Adult_Frameworks
-08b1_OSex_And_OStim
-08b2_Adult_Addons_And_Expansions
-08b3_Adult_Animations
-08b4_Adult_UI_And_Camera
-08b5_Adult_Patches
-08c_Nemesis_Patches
-08d_DAR_Animations
-08e_AMR_Animations
-08f_Idles_Movement
-08g_Combat_Movesets
+44|08_Locations|0
+45|08a_NewWorldspaces|44
+46|08b_Dungeons|44
+47|08c_Cities|44
+48|08d_Towns|44
+49|08e_PlayerHomes|44
 
-09_Areas_Overhauls
-09a_Cities_Towns_Villages
-09b_Dungeons_Interiors
-09c_Landscape_Flora_Grass
-09d_Architecture
-09e_Places_New
-09f_Map_LOD
+50|09_NPCs_Creatures|0
+51|09a_Followers|50
+52|09b_Enemies|50
+53|09c_Citizens|50
+54|09d_Creatures|50
+55|09e_Population|50
 
-10_Quests_Followers
-10a_Vanilla_Quest_Fixes
-10b_New_Quests
-10c_New_Worldspaces
-10d_Guilds_Overhauls
-10e_Legacy_Collections
+56|10_Items_Equipment|0
+57|10a_Weapons|56
+58|10b_Armor|56
+59|10c_Artifacts|56
+60|10d_Crafting|56
+61|10e_Materials|56
+62|10f_Consumables|56
 
-11_Interface
-11a_MCM
-11b_HUD_Menus
-11c_Maps
-11d_Inventory
-11e_Cursor_Fonts
-11f_Icons_Hotkeys
+63|11_GameplayAdditions|0
+64|11a_NewMechanics|63
+65|11b_Features|63
+66|11c_Guilds_Factions|63
 
-12_Bottom
-12a_LOD_Generators
-12b_Bashed_Smashed_Patches
-12c_Merged_Patches
-12d_Custom_Patches
-12e_Test_Mods
+67|12_Adult|0
+68|12a_Frameworks|67
+69|12b_Animations|67
+70|12c_Addons|67
+71|12d_NSFWQuests|67
 
-_Disabled
-__Templates
+72|13_Patches_Merges|0
+73|13a_MergedPlugins|72
+74|13b_ConflictResolutions|72
+75|13c_LoadOrderFixes|72
+
+76|14_Overrides|0
+77|14a_LateFixes|76
+78|14b_CosmeticOverrides|76
+
+79|15_Testing_Debug|0
+80|15a_Experimental|79
+81|15b_Tools|79
+
+82|99_Unsorted|0
