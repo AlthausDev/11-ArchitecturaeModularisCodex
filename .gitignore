@@ -1,0 +1,9 @@
+01_Downloads/
+Skyrim_MO2_Portable/mods/*
+!Skyrim_MO2_Portable/mods/.keep
+Skyrim_MO2_Portable/overwrite/
+*.zip
+*.rar
+*.7z
+*.log
+*.tmp
