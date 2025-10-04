@@ -1,0 +1,9 @@
+{
+  "AllowDialogueMovement": true,
+  "BSFixedString": true,
+  "EquipBestAmmunition": true,
+  "MapMarker": true,
+  "SaveAddedSoundCategories": true,
+  "TrainAbilityActors": true,
+  "WeaponCharge": true
+}

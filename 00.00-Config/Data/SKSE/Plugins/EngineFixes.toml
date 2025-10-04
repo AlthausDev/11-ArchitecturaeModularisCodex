@@ -1,0 +1,10 @@
+# EngineFixes.toml — AMC baseline (AE 1.6.1170)
+[General]
+EnablePatches = true
+EnableAchievementsWithMods = true
+
+[Memory]
+ScaleformAllocator = true
+
+[Papyrus]
+EnableF4EEFixes = true
