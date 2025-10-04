@@ -1,9 +1,32 @@
-01_Downloads/
-Skyrim_MO2_Portable/mods/*
-!Skyrim_MO2_Portable/mods/.keep
-Skyrim_MO2_Portable/overwrite/
-*.zip
-*.rar
-*.7z
+# === AMC: Ignorar entorno runtime y binarios grandes ===
+
+# Fuera del repo (sube solo el cerebro, no el cuerpo)
+../00-Tools/
+../01-Downloads/
+../02-Archives/
+../03-Backups/
+../Skyrim-MO2-Portable/
+
+# Cachés/logs temporales
 *.log
 *.tmp
+*.bak
+Thumbs.db
+desktop.ini
+
+# MO2 ruido local (si el repo estuviera dentro del portable por error)
+webcache/
+downloads/
+overwrite/
+
+# Generadores pesados (no versionar outputs)
+mods/14.*-Generators-*/
+
+# Permitir todo lo del repo
+!/Docs/**
+!/Profiles/**
+!/Scripts/**
+!/00.00-Config/**
+!/ARCHITECTURE.md
+!/PORTABILITY.md
+!/README.md

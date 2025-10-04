@@ -1,0 +1,17 @@
+# === AMC: Normalización de finales de línea ===
+
+# Textos Unix (repos y docs)
+*.md   text eol=lf
+*.json text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.csv  text eol=lf
+
+# Config/Batch Windows
+*.ini  text eol=crlf
+*.toml text eol=crlf
+*.bat  text eol=crlf
+*.ps1  text eol=crlf
+
+# Fallback
+* text=auto
