@@ -9,7 +9,7 @@ ccQDRSSE001-SurvivalMode.esl
 ccBGSSSE037-Curios.esl
 ccBGSSSE025-AdvDSGS.esm
 _ResourcePack.esl
-FISS.esp
+TrueHUD.esl
 unofficial skyrim special edition patch.esp
 SkyUI_SE.esp
 MCMHelper.esp

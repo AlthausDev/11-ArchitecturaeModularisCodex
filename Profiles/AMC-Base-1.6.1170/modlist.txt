@@ -18,9 +18,11 @@
 -02.00-Gameplay_separator
 +01.10-Frameworks-UI - SkyUI
 +01.07-Frameworks-AnimationEvents - Payload
++01.06-Frameworks-UI-TrueHUD - HUD Additions
 +01.05-Frameworks-AMR
 +01.04-Frameworks-OAR
 +01.03-Frameworks-Nemesis
++01.02-Frameworks-Behavior-AnimationQueueFix
 +01.02-Frameworks-Behavior - Precision
 +01.02-Frameworks-Behavior - XPMSSE
 -01.00-Frameworks_separator
@@ -30,11 +32,11 @@
 +00.08-Core-BaseObjectSwapper
 +00.07-Core-Utilities - Achievements
 +00.06-Core-LibrariesPO3
-+00.05-Core-ScriptExtenders – FISSES
 +00.05-Core-ScriptExtenders – ConsoleUtil NG
 +00.05-Core-ScriptExtenders - MCMHelper
 +00.05-Core-ScriptExtenders - JContainers
 +00.05-Core-ScriptExtenders - PapyrusUtil
++00.04-Core-BugFixes-Bug Fixes SSE
 +00.04-Core-BugFixes – Mfg Fix
 +00.04-Core-BugFixes
 +00.03-Core-DisplayTweaks

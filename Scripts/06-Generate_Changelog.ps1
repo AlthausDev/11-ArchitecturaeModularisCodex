@@ -2,7 +2,7 @@
 $AMC = "G:\Skyrim Mods\11-ArchitecturaeModularisCodex"
 $MO2 = "G:\Skyrim Mods\Skyrim-MO2-Portable"
 $Profile = "AMC-Base-1.6.1170"
-$outDir = Join-Path $AMC "99.Output\Reports"
+$outDir = Join-Path $AMC "99.History\Chagelog"
 $outFile = Join-Path $outDir ("AMC-Core-Changelog_{0:yyyy-MM-dd_HH-mm}.md" -f (Get-Date))
 New-Item -ItemType Directory -Force -Path $outDir | Out-Null
 
