@@ -25,5 +25,6 @@ unofficial skyrim special edition patch - textures.bsa
 unofficial skyrim special edition patch.bsa
 MCMHelper.bsa
 SkyUI_SE.bsa
+Audio Overhaul Skyrim.bsa
 iWant Status Bars.bsa
 UIExtensions.bsa

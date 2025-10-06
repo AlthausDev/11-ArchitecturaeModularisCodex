@@ -21,3 +21,6 @@ iWant Status Bars.esp
 UIExtensions.esp
 IcePenguinWorldMap.esp
 ViewableFactionRanks.esp
+Immersive Sounds - Compendium.esp
+Reverb and Ambiance Overhaul - Skyrim.esp
+Audio Overhaul Skyrim.esp

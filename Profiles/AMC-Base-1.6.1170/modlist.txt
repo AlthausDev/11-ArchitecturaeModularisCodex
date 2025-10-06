@@ -21,6 +21,9 @@
 +06.01-Interface-HUD-UIExtensions
 +06.01-Interface-HUD-iWantStatusBars
 -06.00-Interface_separator
++05.03-Audio-SFX-AOS
++05.02-Audio-Ambience-ISC
++05.02-Audio-Ambience-RAO
 -05.00-Audio_separator
 -04.00-Visual_separator
 -03.00-Animation_separator
