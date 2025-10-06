@@ -17,3 +17,7 @@ XPMSE.esp
 Precision.esp
 FNIS.esp
 MenuMaid2.esp
+iWant Status Bars.esp
+UIExtensions.esp
+IcePenguinWorldMap.esp
+ViewableFactionRanks.esp

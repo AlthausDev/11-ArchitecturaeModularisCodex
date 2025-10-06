@@ -10,7 +10,16 @@
 -09.00-Items_separator
 -08.00-NPCs_separator
 -07.00-World_separator
-+06.02-Interface-Menus - MenuMaid2
++06.05-Interface-Maps-ViewableFactionRanks-Castellano
++06.05-Interface-Maps-ViewableFactionRanks
++06.05-Interface-Maps-QualityWorldMap
++06.04-Interface-MCM-WiderMCMMenu
++06.02-Interface-Menus -MenuMaid2
++06.02-Interface-Menus-ReCleanedMenu
++06.02-Interface-Menus-HideSkyUI
++06.01-Interface-HUD-UIExtensions-Castellano
++06.01-Interface-HUD-UIExtensions
++06.01-Interface-HUD-iWantStatusBars
 -06.00-Interface_separator
 -05.00-Audio_separator
 -04.00-Visual_separator
