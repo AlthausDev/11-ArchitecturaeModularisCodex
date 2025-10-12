@@ -11,6 +11,7 @@ ccBGSSSE025-AdvDSGS.esm
 _ResourcePack.esl
 TrueHUD.esl
 Night Eye Overhaul.esm
+SmoothCam.esl
 unofficial skyrim special edition patch.esp
 SkyUI_SE.esp
 MCMHelper.esp
@@ -31,16 +32,14 @@ Hothtrooper44_Armor_Ecksstra.esp
 waccf_armor and clothing extension.esp
 waccf_armor and clothing extension_spid.esp
 RUSTIC SOULGEMS - Unsorted.esp
-Wildcat - Combat of Skyrim.esp
-Wildcat - Realistic Damage Plugin.esp
 Smart_NPC_Potions.esp
 trade & barter.esp
 Andromeda - Unique Standing Stones of Skyrim.esp
 Imperious - Races of Skyrim.esp
 EWM_SunhelmSurvivalSE.esp
 SunHelmSurvival.esp
-SunHelmDiseases.esp
 SunHelmCampfireSkill.esp
+SunHelmDiseases.esp
 Smart_NPC_Potions_-_SunHelm_Patch.esp
 Sacrilege - Minimalistic Vampires of Skyrim.esp
 Sacrilege - Fishing Compatibility Patch.esp
@@ -50,3 +49,10 @@ NEO Longer Lasting Scrolls.esp
 Night Eye Overhaul.esp
 Sun Dispels Night Vision.esp
 CoverYourHead - Sacrilege.esp
+TrueDirectionalMovement.esp
+EVGConditionalIdles.esp
+Wildcat - Combat of Skyrim.esp
+Wildcat - Realistic Damage Plugin.esp
+Attack_MCO.esp
+MovementMCO.esp
+ValhallaCombat.esp
