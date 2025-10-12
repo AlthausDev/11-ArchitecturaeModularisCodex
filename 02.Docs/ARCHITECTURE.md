@@ -91,8 +91,3 @@ G:\Skyrim Mods\
 - **Ejecutable** en `00-Tools\Nemesis_Engine\...` con `Start In = ...\Skyrim Special Edition\Data`.
 - `Update Engine` → `Launch` → mover `overwrite` a `14.01-Generators-NemesisOutput`.
 
-## 7. Estado actual (0.0.1)
-- Estructura AMC y docs consolidados.
-- Address Library activo; Nemesis base instalado.
-- 00.00-Config OK (DisplayTweaks/EngineFixes/ScrambledBugs).
-- Listo para `0.1.0` (Core + Frameworks completos).

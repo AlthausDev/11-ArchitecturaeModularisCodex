@@ -42,6 +42,15 @@
 +02.12-Gameplay-StandingStones-Andromeda
 +02.10-Gameplay-Economy-TradeAndBarter-Castellano
 +02.10-Gameplay-Economy-TradeAndBarter
++02.07-Gameplay-Survival-SunHelm-Campfire-Castellano
++02.07-Gameplay-Survival-SunHelm-Castellano
++02.07-Gameplay-Survival-SunHelm
++02.07-Gameplay-Vampires - CoverYourHead
++02.07-Gameplay-Vampires - SunlightDispelsNight Eye
++02.07-Gameplay-Vampires - Night-Eye Overhaul
++02.07-Gameplay-Vampires - Sacrilege-Castellano
++02.07-Gameplay-Vampires - Sacrilege-Fishing
++02.07-Gameplay-Vampires - Sacrilege
 +02.01-Gameplay-Combat-SmartNPCPotions-Castellano
 +02.01-Gameplay-Combat-SmartNPCPotions
 +02.01-Gameplay-Combat-Wildcat-Castellano

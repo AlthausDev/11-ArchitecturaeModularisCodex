@@ -78,17 +78,3 @@ Crear `.gitattributes` en la raíz del repo:
 # Fallback
 * text=auto
 ```
-
-## 6) Checklist de migración
-- [ ] Perfil `AMC-Base-1.6.1170` visible en MO2.
-- [ ] Ejecutables configurados (xEdit/LOOT/Nemesis/BethINI).
-- [ ] `00.00-Config` activo.
-- [ ] Address Library detectado por dependientes.
-- [ ] Nemesis compila sin errores.
-
-## 7) Roadmap de versiones
-- `0.0.1` → Estructura base + docs + scripts.
-- `0.1.0` → Core + Frameworks cerrados (Engine Fixes, po3, SKSE).
-- `0.2.0` → Visual + LOD Tools.
-- `0.3.0` → Gameplay + CR inicial.
-- `1.0.0` → Build estable documentada.

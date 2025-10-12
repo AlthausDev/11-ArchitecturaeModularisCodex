@@ -27,6 +27,9 @@ MCMHelper.bsa
 SkyUI_SE.bsa
 Wildcat - Combat of Skyrim - Textures.bsa
 Wildcat - Combat of Skyrim.bsa
+Sacrilege - Minimalistic Vampires of Skyrim - Textures.bsa
+Sacrilege - Minimalistic Vampires of Skyrim.bsa
+SunHelmSurvival.bsa
 trade & barter.bsa
 Andromeda - Unique Standing Stones of Skyrim.bsa
 Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
