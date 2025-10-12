@@ -29,7 +29,7 @@ powershell -NoProfile -ExecutionPolicy Bypass ^
 
 echo.
 echo ✅ Inventario completo generado en:
-echo   99.History\ArchitectureTree\[fecha]\_TreeReport.txt / .csv
+echo   02.Docs\99.History\ArchitectureTree\[fecha]\_TreeReport.txt / .csv
 echo.
 pause
 endlocal

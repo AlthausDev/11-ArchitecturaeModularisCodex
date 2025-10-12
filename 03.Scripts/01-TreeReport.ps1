@@ -3,8 +3,8 @@
   Genera inventario de G:\Skyrim Mods en AMC, con salida en 99.History\ArchitectureTree\<fecha>\ o logs\tree\<fecha>\.
 
 .PARAMETER Kind
-  report (por defecto) => 11-ArchitecturaeModularisCodex\99.History\ArchitectureTree\<YYYY-MM-DD>\
-  log                   => 11-ArchitecturaeModularisCodex\99.History\ArchitectureTree\<YYYY-MM-DD>\
+  report (por defecto) => 11-ArchitecturaeModularisCodex\02.Docs\99.History\ArchitectureTree\<YYYY-MM-DD>\
+  log                   => 11-ArchitecturaeModularisCodex\02.Docs\99.History\ArchitectureTree\<YYYY-MM-DD>\
 
 .PARAMETER Csv
   Además del .txt, exporta _TreeReport.csv para comparación/datos.
