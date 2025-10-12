@@ -14,3 +14,15 @@
 *Immersive Sounds - Compendium.esp
 *Reverb and Ambiance Overhaul - Skyrim.esp
 *Audio Overhaul Skyrim.esp
+*Immersive Weapons.esp
+*Hothtrooper44_ArmorCompilation.esp
+*Hothtrooper44_Armor_Ecksstra.esp
+*waccf_armor and clothing extension.esp
+*waccf_armor and clothing extension_spid.esp
+*RUSTIC SOULGEMS - Unsorted.esp
+*Wildcat - Combat of Skyrim.esp
+*Wildcat - Realistic Damage Plugin.esp
+*Smart_NPC_Potions.esp
+*trade & barter.esp
+*Andromeda - Unique Standing Stones of Skyrim.esp
+*Imperious - Races of Skyrim.esp

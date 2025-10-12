@@ -25,6 +25,17 @@ unofficial skyrim special edition patch - textures.bsa
 unofficial skyrim special edition patch.bsa
 MCMHelper.bsa
 SkyUI_SE.bsa
+Wildcat - Combat of Skyrim - Textures.bsa
+Wildcat - Combat of Skyrim.bsa
+trade & barter.bsa
+Andromeda - Unique Standing Stones of Skyrim.bsa
+Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
+Imperious - Races of Skyrim.bsa
+Imperious - Races of Skyrim - Textures.bsa
 Audio Overhaul Skyrim.bsa
 iWant Status Bars.bsa
 UIExtensions.bsa
+Hothtrooper44_ArmorCompilation.bsa
+Hothtrooper44_Armor_Ecksstra.bsa
+waccf_armor and clothing extension - textures.bsa
+waccf_armor and clothing extension.bsa

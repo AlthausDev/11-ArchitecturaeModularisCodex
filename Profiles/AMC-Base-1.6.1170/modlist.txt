@@ -7,6 +7,15 @@
 -12.00-Patches_separator
 -11.00-Adult_separator
 -10.00-Quests_separator
++09.03-Items-Artifacts-RusticSoulGems-Castellano
++09.03-Items-Artifacts-RusticSoulGems
++09.02-Items-Armors-ACE-SPIDPatch
++09.02-Items-Armors-ACE
++09.02-Items-Armors-ImmersiveArmors-Castellano
++09.02-Items-Armors-ImmersiveArmors
++9.01-Items-Weapons-ImmersiveWeapons-Castellano
++9.01-Items-Weapons-ImmersiveWeapons
++09.01-Items-Weapons-BetterShapedWeapons
 -09.00-Items_separator
 -08.00-NPCs_separator
 -07.00-World_separator
@@ -27,6 +36,17 @@
 -05.00-Audio_separator
 -04.00-Visual_separator
 -03.00-Animation_separator
++02.14-Gameplay-Races-Imperious-Castellano
++02.14-Gameplay-Races-Imperious
++02.12-Gameplay-StandingStones-Andromeda-Castellano
++02.12-Gameplay-StandingStones-Andromeda
++02.10-Gameplay-Economy-TradeAndBarter-Castellano
++02.10-Gameplay-Economy-TradeAndBarter
++02.01-Gameplay-Combat-SmartNPCPotions-Castellano
++02.01-Gameplay-Combat-SmartNPCPotions
++02.01-Gameplay-Combat-Wildcat-Castellano
++02.01-Gameplay-Combat-Wildcat-Realistic
++02.01-Gameplay-Combat-Wildcat
 -02.00-Gameplay_separator
 +01.10-Frameworks-UI - SkyUI
 +01.07-Frameworks-AnimationEvents - Payload
