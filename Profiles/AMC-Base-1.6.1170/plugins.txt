@@ -4,6 +4,7 @@ SunHelmCampfireSkill.esp
 *TrueHUD.esl
 *Night Eye Overhaul.esm
 *SmoothCam.esl
+*Embers XD.esm
 *unofficial skyrim special edition patch.esp
 *SkyUI_SE.esp
 *MCMHelper.esp
@@ -47,3 +48,18 @@ SunHelmCampfireSkill.esp
 *Attack_MCO.esp
 *MovementMCO.esp
 *ValhallaCombat.esp
+*Dawn of Skyrim.esp
+*The Great Cities - Minor Cities and Towns.esp
+*Riften Docks Overhaul.esp
+*JK's Whiterun's Outskirts.esp
+*JK's Riverwood.esp
+*Embers XD.esp
+*Embers XD - Patch - SunHelm Survival.esp
+*Embers XD - Fire Magick Add-On.esp
+*Embers XD - Patch - Survival Mode.esp
+*SMIM-SE-Merged-All.esp
+*SMIM-SE-DragonbornTernFix.esp
+*SMIM-SE-FarmhouseFlickeringFix.esp
+*SMIM-SE-Merged-NoRiftenRopes.esp
+*SMIM-SE-Merged-NoRiftenRopes-NoSolitudeRopes.esp
+*SMIM-SE-Merged-NoSolitudeRopes.esp

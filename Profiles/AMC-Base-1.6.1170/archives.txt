@@ -25,19 +25,24 @@ unofficial skyrim special edition patch - textures.bsa
 unofficial skyrim special edition patch.bsa
 MCMHelper.bsa
 SkyUI_SE.bsa
-Wildcat - Combat of Skyrim - Textures.bsa
 Wildcat - Combat of Skyrim.bsa
-Sacrilege - Minimalistic Vampires of Skyrim - Textures.bsa
+Wildcat - Combat of Skyrim - Textures.bsa
 Sacrilege - Minimalistic Vampires of Skyrim.bsa
+Sacrilege - Minimalistic Vampires of Skyrim - Textures.bsa
 SunHelmSurvival.bsa
 trade & barter.bsa
-Andromeda - Unique Standing Stones of Skyrim.bsa
 Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
+Andromeda - Unique Standing Stones of Skyrim.bsa
 Imperious - Races of Skyrim.bsa
 Imperious - Races of Skyrim - Textures.bsa
 Audio Overhaul Skyrim.bsa
 iWant Status Bars.bsa
 UIExtensions.bsa
+Dawn of Skyrim.bsa
+Dawn of Skyrim - Textures.bsa
+Riften Docks Overhaul - Textures.bsa
+Riften Docks Overhaul.bsa
+JK's Whiterun's Outskirts.bsa
 Hothtrooper44_ArmorCompilation.bsa
 Hothtrooper44_Armor_Ecksstra.bsa
 waccf_armor and clothing extension - textures.bsa
