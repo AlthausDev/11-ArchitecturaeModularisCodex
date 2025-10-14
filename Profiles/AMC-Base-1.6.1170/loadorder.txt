@@ -4,71 +4,136 @@ Update.esm
 Dawnguard.esm
 HearthFires.esm
 Dragonborn.esm
-ccBGSSSE001-Fish.esm
-ccQDRSSE001-SurvivalMode.esl
-ccBGSSSE037-Curios.esl
-ccBGSSSE025-AdvDSGS.esm
+ccbgssse001-fish.esm
+ccqdrsse001-survivalmode.esl
+ccbgssse037-curios.esl
+ccbgssse025-advdsgs.esm
 _ResourcePack.esl
-TrueHUD.esl
+Falskaar.esm
+Lux - Master plugin.esm
+Wyrmstooth.esp
+Lanterns Of Skyrim II.esm
+Lux - Resources.esp
+Lux Orbis - Master plugin.esm
+Lux Via.esp
 Night Eye Overhaul.esm
+Obsidian Mountain Fogs.esm
 SmoothCam.esl
+TrueHUD.esl
 Embers XD.esm
 unofficial skyrim special edition patch.esp
+Water for ENB.esm
+Riften Docks Overhaul.esp
+LoS II - 3DNPC addon.esp
+LoS II - Campfire addon.esp
+BlendedRoads.esp
+Andromeda - Unique Standing Stones of Skyrim.esp
+Lux Via - plugin.esp
+Attack_MCO.esp
+MenuMaid2.esp
+Cathedral Landscapes.esp
+Audio Overhaul Skyrim.esp
+waccf_armor and clothing extension.esp
+iWant Status Bars.esp
+Dawn of Skyrim.esp
+Water for ENB (Shades of Skyrim).esp
+Water for ENB - Patch - Darker LOD Water.esp
+Skyrim Flora Overhaul.esp
+Wyrmstooth Hearthfire Compatibility Patch.esp
+Embers XD.esp
+Embers XD - Fire Magick Add-On.esp
+Embers XD - Patch - Survival Mode.esp
+ENB Light.esp
+Water for ENB - Patch - Falskaar.esp
+EVGConditionalIdles.esp
+GDOS - Splendid Mechanized Dwemer Door.esp
+GDOS - Glorious Solitude Door - Rotation Fix.esp
+EWM_SunhelmSurvivalSE.esp
+Wyrmstooth Dragonborn Compatibility Patch.esp
+FNIS.esp
+Hothtrooper44_Armor_Ecksstra.esp
+NightEyeENBFix.esp
+Hothtrooper44_ArmorCompilation.esp
+IcePenguinWorldMap.esp
+Immersive Sounds - Compendium.esp
+Immersive Weapons.esp
+Imperious - Races of Skyrim.esp
+JK's Riverwood.esp
+waccf_armor and clothing extension_spid.esp
+JK's Whiterun's Outskirts.esp
+LoS II - JKs Riverwood patch.esp
+LoS II - Lantern Workers.esp
+LoS II - USSEP patch.esp
+Lux Orbis.esp
+Lux Orbis - Dawn of Skyrim patch.esp
+Lux Orbis - USSEP patch.esp
+Lux Orbis - Saints and Seducers patch.esp
+Lux Orbis - CC Fish patch.esp
+Lux Orbis - Wyrmstooth.esp
+Lux Orbis - Riften Docks Overhaul patch.esp
+Lux Orbis - JK's Whiterun Outskirts patch.esp
+Lux Orbis - Embers XD patch.esp
+Lux Via - Blended Roads Bridges Texture sets.esp
+Lux.esp
+Lux - USSEP patch.esp
+MovementMCO.esp
+NEO Longer Lasting Potions.esp
+NEO Longer Lasting Scrolls.esp
+NEO Persistent Spell.esp
+Night Eye Overhaul.esp
+Obsidian Weathers.esp
+Obsidian Weathers - Patch - Rudy ENB.esp
+Particle Patch for ENB.esp
+Precision.esp
+Reverb and Ambiance Overhaul - Skyrim.esp
+RUSTIC SOULGEMS - Unsorted.esp
+Sacrilege - Minimalistic Vampires of Skyrim.esp
+Sacrilege - Fishing Compatibility Patch.esp
+CoverYourHead - Sacrilege.esp
 SkyUI_SE.esp
 MCMHelper.esp
-XPMSE.esp
-Precision.esp
-FNIS.esp
-MenuMaid2.esp
-iWant Status Bars.esp
-UIExtensions.esp
-IcePenguinWorldMap.esp
-ViewableFactionRanks.esp
-Immersive Sounds - Compendium.esp
-Reverb and Ambiance Overhaul - Skyrim.esp
-Audio Overhaul Skyrim.esp
-Immersive Weapons.esp
-Hothtrooper44_ArmorCompilation.esp
-Hothtrooper44_Armor_Ecksstra.esp
-waccf_armor and clothing extension.esp
-waccf_armor and clothing extension_spid.esp
-RUSTIC SOULGEMS - Unsorted.esp
 Smart_NPC_Potions.esp
-trade & barter.esp
-Andromeda - Unique Standing Stones of Skyrim.esp
-Imperious - Races of Skyrim.esp
-EWM_SunhelmSurvivalSE.esp
+SMIM-SE-DragonbornTernFix.esp
+SMIM-SE-FarmhouseFlickeringFix.esp
+SMIM-SE-Merged-All.esp
+LoS II - SMIM patch.esp
+SMIM-SE-Merged-NoRiftenRopes-NoSolitudeRopes.esp
+SMIM-SE-Merged-NoRiftenRopes.esp
+SMIM-SE-Merged-NoSolitudeRopes.esp
+StormLightning.esp
+Sun Dispels Night Vision.esp
 SunHelmSurvival.esp
 SunHelmCampfireSkill.esp
 SunHelmDiseases.esp
 Smart_NPC_Potions_-_SunHelm_Patch.esp
-Sacrilege - Minimalistic Vampires of Skyrim.esp
-Sacrilege - Fishing Compatibility Patch.esp
-NEO Persistent Spell.esp
-NEO Longer Lasting Potions.esp
-NEO Longer Lasting Scrolls.esp
-Night Eye Overhaul.esp
-Sun Dispels Night Vision.esp
-CoverYourHead - Sacrilege.esp
+Embers XD - Patch - SunHelm Survival.esp
+Supreme Fog for Castle Volkihar.esp
+Supreme Fog for Morthal Region.esp
+Supreme Weathers.esp
+Supreme Weathers - With Idles and Moving Objects.esp
+Supreme Weathers - Obsidian Weathers-Rudy ENB Patch.esp
+Supreme Weathers - Mists of Tamriel-Obsidian Weathers-Rudy ENB Patch.esp
+The Great Cities - Minor Cities and Towns.esp
+Lux Orbis - Great Cities and Minor Towns patch.esp
+trade & barter.esp
 TrueDirectionalMovement.esp
-EVGConditionalIdles.esp
+TrueStormsSE.esp
+True Storms - Obsidian Weathers - Patch .esp
+UIExtensions.esp
+ValhallaCombat.esp
+ViewableFactionRanks.esp
+Water for ENB - Patch - Wyrmstooth.esp
 Wildcat - Combat of Skyrim.esp
 Wildcat - Realistic Damage Plugin.esp
-Attack_MCO.esp
-MovementMCO.esp
-ValhallaCombat.esp
-Dawn of Skyrim.esp
-The Great Cities - Minor Cities and Towns.esp
-Riften Docks Overhaul.esp
-JK's Whiterun's Outskirts.esp
-JK's Riverwood.esp
-Embers XD.esp
-Embers XD - Patch - SunHelm Survival.esp
-Embers XD - Fire Magick Add-On.esp
-Embers XD - Patch - Survival Mode.esp
-SMIM-SE-Merged-All.esp
-SMIM-SE-DragonbornTernFix.esp
-SMIM-SE-FarmhouseFlickeringFix.esp
-SMIM-SE-Merged-NoRiftenRopes.esp
-SMIM-SE-Merged-NoRiftenRopes-NoSolitudeRopes.esp
-SMIM-SE-Merged-NoSolitudeRopes.esp
+XPMSE.esp
+MoreColorfulAuroras.esp
+CinematicFireFX.esp
+Folkvangr - Grass and Landscape Overhaul.esp
+FloraOrientalis.esp
+waterplants.esp
+dD - Enhanced Blood Main.esp
+Skyrim Food Expansion - Artichoke Plants.esp
+Skyrim Food Expansion.esp
+LuminousAtronachs.esp
+Book Covers Skyrim.esp
+JS Purses and Septims SE Patch.esp

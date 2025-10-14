@@ -16,33 +16,54 @@ Skyrim - Textures6.bsa
 Skyrim - Textures7.bsa
 Skyrim - Textures8.bsa
 Skyrim - Voices_en0.bsa
-ccQDRSSE001-SurvivalMode.bsa
-ccBGSSSE037-Curios.bsa
-ccBGSSSE025-AdvDSGS.bsa
-ccBGSSSE001-Fish.bsa
+ccqdrsse001-survivalmode.bsa
+ccbgssse037-curios.bsa
+ccbgssse025-advdsgs.bsa
+ccbgssse001-fish.bsa
 _ResourcePack.bsa
 unofficial skyrim special edition patch - textures.bsa
 unofficial skyrim special edition patch.bsa
 MCMHelper.bsa
 SkyUI_SE.bsa
-Wildcat - Combat of Skyrim.bsa
 Wildcat - Combat of Skyrim - Textures.bsa
+Wildcat - Combat of Skyrim.bsa
 Sacrilege - Minimalistic Vampires of Skyrim.bsa
 Sacrilege - Minimalistic Vampires of Skyrim - Textures.bsa
 SunHelmSurvival.bsa
 trade & barter.bsa
-Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
 Andromeda - Unique Standing Stones of Skyrim.bsa
-Imperious - Races of Skyrim.bsa
+Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
 Imperious - Races of Skyrim - Textures.bsa
+Imperious - Races of Skyrim.bsa
+Cathedral Landscapes.bsa
+Book Covers Skyrim.bsa
+Book Covers Skyrim - Textures.bsa
+Lux Via - Textures.bsa
+Lux Via.bsa
+Lux - Resources.bsa
+Lux - Resources - Textures.bsa
+TrueStormsSE - Textures.bsa
+TrueStormsSE.bsa
+Obsidian Weathers.bsa
+MoreColorfulAuroras.bsa
+MoreColorfulAuroras - Textures.bsa
+dD - Enhanced Blood Main.bsa
 Audio Overhaul Skyrim.bsa
 iWant Status Bars.bsa
 UIExtensions.bsa
 Dawn of Skyrim.bsa
 Dawn of Skyrim - Textures.bsa
-Riften Docks Overhaul - Textures.bsa
 Riften Docks Overhaul.bsa
+Riften Docks Overhaul - Textures.bsa
 JK's Whiterun's Outskirts.bsa
+LoS II - Lantern Workers.bsa
+LoS II - Lantern Workers - Textures.bsa
+Lanterns OF Skyrim II.bsa
+Lanterns Of Skyrim II - Textures.bsa
+Falskaar.bsa
+Falskaar - Textures.bsa
+Wyrmstooth - Textures.bsa
+Wyrmstooth.bsa
 Hothtrooper44_ArmorCompilation.bsa
 Hothtrooper44_Armor_Ecksstra.bsa
 waccf_armor and clothing extension - textures.bsa
