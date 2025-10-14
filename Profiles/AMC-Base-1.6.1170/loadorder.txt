@@ -12,19 +12,29 @@ _ResourcePack.esl
 Falskaar.esm
 Lux - Master plugin.esm
 Wyrmstooth.esp
-Lanterns Of Skyrim II.esm
 Lux - Resources.esp
+Lanterns Of Skyrim II.esm
 Lux Orbis - Master plugin.esm
 Lux Via.esp
 Night Eye Overhaul.esm
 Obsidian Mountain Fogs.esm
 SmoothCam.esl
-TrueHUD.esl
 Embers XD.esm
+Campfire.esm
+TrueHUD.esl
 unofficial skyrim special edition patch.esp
 Water for ENB.esm
 Riften Docks Overhaul.esp
+Smithing Perks Overhaul SE.esp
+RealRainSEVivid.esp
 LoS II - 3DNPC addon.esp
+ABT SE - Progressive Damage.esp
+ABT SE - Merchants Ammo.esp
+ABT SE - Increased Progressive Damage.esp
+ABT SE - Kevkas All-in-One.esp
+ABT SE - Faster Arrows Improved.esp
+ABT SE - Rebalanced Crafting.esp
+ABT SE - Loot Ammo.esp
 LoS II - Campfire addon.esp
 BlendedRoads.esp
 Andromeda - Unique Standing Stones of Skyrim.esp
@@ -137,3 +147,35 @@ Skyrim Food Expansion.esp
 LuminousAtronachs.esp
 Book Covers Skyrim.esp
 JS Purses and Septims SE Patch.esp
+Complete Alchemy & Cooking Overhaul.esp
+AshRocks-SE.esp
+DustEffectsSSE.esp
+Signs_of_Skyrim.esp
+WetFunction.esp
+ABT SE - Faster Bolts Improved.esp
+ABT SE - Increased Bolts Damage.esp
+ABT SE - Recover Ammo.esp
+AI Overhaul.esp
+BVLT - Human.esp
+DeadlyDragons.esp
+WaterfromWells.esp
+WfW HF Extended Patch.esp
+WfW - DoS Patch.esp
+Dynamic Things Alternative.esp
+Odin - Skyrim Magic Overhaul.esp
+CoinPurseIncrease.esp
+Dirt and Blood - Dynamic Visuals.esp
+MysticismMagic.esp
+Proper Aiming.esp
+MBW Dragon Souls to Perk Points - v3-2.esp
+MBW Dragon Souls to Perk Points - v3.esp
+Vokrii - Minimalistic Perks of Skyrim.esp
+Odin - Vokrii Compatibility Patch.esp
+Mysticism - Vokrii Compatibility Patch.esp
+StaminaBlock.esp
+SunAffectsNPCVampires.esp
+SunAffectsNPCVampires-Hooded.esp
+Wintersun - Faiths of Skyrim.esp
+Timescale8.esp
+BosmeriCuisine.esp
+BosmerDrinks.esp

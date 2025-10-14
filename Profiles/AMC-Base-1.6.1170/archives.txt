@@ -21,32 +21,40 @@ ccbgssse037-curios.bsa
 ccbgssse025-advdsgs.bsa
 ccbgssse001-fish.bsa
 _ResourcePack.bsa
-unofficial skyrim special edition patch - textures.bsa
 unofficial skyrim special edition patch.bsa
+unofficial skyrim special edition patch - textures.bsa
 MCMHelper.bsa
 SkyUI_SE.bsa
-Wildcat - Combat of Skyrim - Textures.bsa
 Wildcat - Combat of Skyrim.bsa
+Wildcat - Combat of Skyrim - Textures.bsa
+MysticismMagic.bsa
+Odin - Skyrim Magic Overhaul - Textures.bsa
+Odin - Skyrim Magic Overhaul.bsa
 Sacrilege - Minimalistic Vampires of Skyrim.bsa
 Sacrilege - Minimalistic Vampires of Skyrim - Textures.bsa
+Vokrii - Minimalistic Perks of Skyrim - Textures.bsa
+Vokrii - Minimalistic Perks of Skyrim.bsa
 SunHelmSurvival.bsa
+Complete Alchemy & Cooking Overhaul - Textures.bsa
+Complete Alchemy & Cooking Overhaul.bsa
 trade & barter.bsa
 Andromeda - Unique Standing Stones of Skyrim.bsa
 Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
 Imperious - Races of Skyrim - Textures.bsa
 Imperious - Races of Skyrim.bsa
 Cathedral Landscapes.bsa
-Book Covers Skyrim.bsa
 Book Covers Skyrim - Textures.bsa
+Book Covers Skyrim.bsa
 Lux Via - Textures.bsa
-Lux Via.bsa
 Lux - Resources.bsa
 Lux - Resources - Textures.bsa
+Lux Via.bsa
 TrueStormsSE - Textures.bsa
 TrueStormsSE.bsa
 Obsidian Weathers.bsa
 MoreColorfulAuroras.bsa
 MoreColorfulAuroras - Textures.bsa
+DustEffectsSSE.bsa
 dD - Enhanced Blood Main.bsa
 Audio Overhaul Skyrim.bsa
 iWant Status Bars.bsa
@@ -62,9 +70,9 @@ Lanterns OF Skyrim II.bsa
 Lanterns Of Skyrim II - Textures.bsa
 Falskaar.bsa
 Falskaar - Textures.bsa
-Wyrmstooth - Textures.bsa
 Wyrmstooth.bsa
+Wyrmstooth - Textures.bsa
 Hothtrooper44_ArmorCompilation.bsa
 Hothtrooper44_Armor_Ecksstra.bsa
-waccf_armor and clothing extension - textures.bsa
 waccf_armor and clothing extension.bsa
+waccf_armor and clothing extension - textures.bsa
