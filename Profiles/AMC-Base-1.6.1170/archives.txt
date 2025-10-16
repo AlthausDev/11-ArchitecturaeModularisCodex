@@ -21,12 +21,12 @@ ccbgssse037-curios.bsa
 ccbgssse025-advdsgs.bsa
 ccbgssse001-fish.bsa
 _ResourcePack.bsa
-unofficial skyrim special edition patch.bsa
 unofficial skyrim special edition patch - textures.bsa
+unofficial skyrim special edition patch.bsa
 MCMHelper.bsa
 SkyUI_SE.bsa
-Wildcat - Combat of Skyrim.bsa
 Wildcat - Combat of Skyrim - Textures.bsa
+Wildcat - Combat of Skyrim.bsa
 MysticismMagic.bsa
 Odin - Skyrim Magic Overhaul - Textures.bsa
 Odin - Skyrim Magic Overhaul.bsa
@@ -35,44 +35,49 @@ Sacrilege - Minimalistic Vampires of Skyrim - Textures.bsa
 Vokrii - Minimalistic Perks of Skyrim - Textures.bsa
 Vokrii - Minimalistic Perks of Skyrim.bsa
 SunHelmSurvival.bsa
-Complete Alchemy & Cooking Overhaul - Textures.bsa
+Campfire.bsa
 Complete Alchemy & Cooking Overhaul.bsa
+Complete Alchemy & Cooking Overhaul - Textures.bsa
 trade & barter.bsa
-Andromeda - Unique Standing Stones of Skyrim.bsa
 Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
+Andromeda - Unique Standing Stones of Skyrim.bsa
 Imperious - Races of Skyrim - Textures.bsa
 Imperious - Races of Skyrim.bsa
 Cathedral Landscapes.bsa
-Book Covers Skyrim - Textures.bsa
 Book Covers Skyrim.bsa
-Lux Via - Textures.bsa
-Lux - Resources.bsa
+Book Covers Skyrim - Textures.bsa
 Lux - Resources - Textures.bsa
 Lux Via.bsa
-TrueStormsSE - Textures.bsa
+Lux Via - Textures.bsa
+Lux - Resources.bsa
 TrueStormsSE.bsa
+TrueStormsSE - Textures.bsa
 Obsidian Weathers.bsa
-MoreColorfulAuroras.bsa
 MoreColorfulAuroras - Textures.bsa
+MoreColorfulAuroras.bsa
 DustEffectsSSE.bsa
 dD - Enhanced Blood Main.bsa
 Audio Overhaul Skyrim.bsa
 iWant Status Bars.bsa
 UIExtensions.bsa
-Dawn of Skyrim.bsa
 Dawn of Skyrim - Textures.bsa
-Riften Docks Overhaul.bsa
+Dawn of Skyrim.bsa
 Riften Docks Overhaul - Textures.bsa
+Riften Docks Overhaul.bsa
 JK's Whiterun's Outskirts.bsa
-LoS II - Lantern Workers.bsa
-LoS II - Lantern Workers - Textures.bsa
+Stendarr Rising.bsa
+Stendarr Rising - Textures.bsa
 Lanterns OF Skyrim II.bsa
 Lanterns Of Skyrim II - Textures.bsa
+LoS II - Lantern Workers - Textures.bsa
+LoS II - Lantern Workers.bsa
+MoreColorfulSceneryJars - Textures.bsa
+MoreColorfulSceneryJars.bsa
 Falskaar.bsa
 Falskaar - Textures.bsa
 Wyrmstooth.bsa
 Wyrmstooth - Textures.bsa
-Hothtrooper44_ArmorCompilation.bsa
 Hothtrooper44_Armor_Ecksstra.bsa
+Hothtrooper44_ArmorCompilation.bsa
 waccf_armor and clothing extension.bsa
 waccf_armor and clothing extension - textures.bsa
