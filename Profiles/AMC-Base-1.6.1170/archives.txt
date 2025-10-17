@@ -21,35 +21,35 @@ ccbgssse037-curios.bsa
 ccbgssse025-advdsgs.bsa
 ccbgssse001-fish.bsa
 _ResourcePack.bsa
-unofficial skyrim special edition patch - textures.bsa
 unofficial skyrim special edition patch.bsa
+unofficial skyrim special edition patch - textures.bsa
 MCMHelper.bsa
 SkyUI_SE.bsa
-Wildcat - Combat of Skyrim - Textures.bsa
 Wildcat - Combat of Skyrim.bsa
+Wildcat - Combat of Skyrim - Textures.bsa
 MysticismMagic.bsa
-Odin - Skyrim Magic Overhaul - Textures.bsa
 Odin - Skyrim Magic Overhaul.bsa
+Odin - Skyrim Magic Overhaul - Textures.bsa
 Sacrilege - Minimalistic Vampires of Skyrim.bsa
 Sacrilege - Minimalistic Vampires of Skyrim - Textures.bsa
-Vokrii - Minimalistic Perks of Skyrim - Textures.bsa
 Vokrii - Minimalistic Perks of Skyrim.bsa
+Vokrii - Minimalistic Perks of Skyrim - Textures.bsa
 SunHelmSurvival.bsa
 Campfire.bsa
-Complete Alchemy & Cooking Overhaul.bsa
 Complete Alchemy & Cooking Overhaul - Textures.bsa
+Complete Alchemy & Cooking Overhaul.bsa
 trade & barter.bsa
 Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
 Andromeda - Unique Standing Stones of Skyrim.bsa
-Imperious - Races of Skyrim - Textures.bsa
 Imperious - Races of Skyrim.bsa
+Imperious - Races of Skyrim - Textures.bsa
 Cathedral Landscapes.bsa
-Book Covers Skyrim.bsa
 Book Covers Skyrim - Textures.bsa
+Book Covers Skyrim.bsa
 Lux - Resources - Textures.bsa
-Lux Via.bsa
-Lux Via - Textures.bsa
 Lux - Resources.bsa
+Lux Via - Textures.bsa
+Lux Via.bsa
 TrueStormsSE.bsa
 TrueStormsSE - Textures.bsa
 Obsidian Weathers.bsa
@@ -67,16 +67,21 @@ Riften Docks Overhaul.bsa
 JK's Whiterun's Outskirts.bsa
 Stendarr Rising.bsa
 Stendarr Rising - Textures.bsa
-Lanterns OF Skyrim II.bsa
 Lanterns Of Skyrim II - Textures.bsa
-LoS II - Lantern Workers - Textures.bsa
 LoS II - Lantern Workers.bsa
-MoreColorfulSceneryJars - Textures.bsa
+LoS II - Lantern Workers - Textures.bsa
+Lanterns OF Skyrim II.bsa
 MoreColorfulSceneryJars.bsa
+MoreColorfulSceneryJars - Textures.bsa
+JK's Riverfall Cottage.bsa
 Falskaar.bsa
 Falskaar - Textures.bsa
 Wyrmstooth.bsa
 Wyrmstooth - Textures.bsa
+BSAssets - Textures.bsa
+BSAssets.bsa
+BSHeartland - Textures.bsa
+BSHeartland.bsa
 Hothtrooper44_Armor_Ecksstra.bsa
 Hothtrooper44_ArmorCompilation.bsa
 waccf_armor and clothing extension.bsa

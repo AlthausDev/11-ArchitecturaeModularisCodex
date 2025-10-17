@@ -23,18 +23,28 @@ Embers XD.esm
 Campfire.esm
 TrueHUD.esl
 unofficial skyrim special edition patch.esp
+BSAssets.esm
+arnima.esm
+BSHeartland.esm
+Enhanced Landscapes.esp
+BS_DLC_patch.esp
+HammetDungeon02.esm
+mannyBlackRock.esm
+HammetDungeon01.esm
+Forgotten DungeonsSSE.esm
 Water for ENB.esm
 Riften Docks Overhaul.esp
 Smithing Perks Overhaul SE.esp
 RealRainSEVivid.esp
 LoS II - 3DNPC addon.esp
+Environs - Greenwood Shack.esp
+ABT SE - Rebalanced Crafting.esp
 ABT SE - Progressive Damage.esp
 ABT SE - Merchants Ammo.esp
 ABT SE - Increased Progressive Damage.esp
 ABT SE - Kevkas All-in-One.esp
-ABT SE - Faster Arrows Improved.esp
-ABT SE - Rebalanced Crafting.esp
 ABT SE - Loot Ammo.esp
+ABT SE - Faster Arrows Improved.esp
 LoS II - Campfire addon.esp
 BlendedRoads.esp
 Andromeda - Unique Standing Stones of Skyrim.esp
@@ -191,7 +201,6 @@ Cultured Orc Furniture.esp
 Darkend.esp
 ForgottenArt.esp
 JK's Temple of Talos.esp
-Environs - Greenwood Shack.esp
 JK's High Hrothgar.esp
 JK's Angelines Aromatics.esp
 JK's Arcadia's Cauldron.esp
@@ -238,3 +247,14 @@ MoreColorfulSceneryJars.esp
 Stendarr Rising.esp
 Stendarr Rising - Los II patch.esp
 Stendarr Rising - CACO patch.esp
+AncientLand2.esp
+BSHeartland - No Custom Map Markers.esp
+Cathedral - 3D Pine Grass.esp
+Resources - The Great Cities.esp
+RiverwoodHuntingCabinSE.esp
+Ryn's Dragon Mounds AIO.esp
+Ryn's Mehrunes Dagon Shrine.esp
+The Great Village of Kynesgrove.esp
+soundsofskyrimcomplete.esp
+SoS_ObsidianTrueStorms_Patch.esp
+Ryn's Farms.esp
