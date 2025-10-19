@@ -86,7 +86,7 @@ Downloads="..\01-Downloads"
 └─ README.md
 
 ---
-
+```
 ## 4) Convención de categorías AMC
 **Formato:** `XX.YY-Parent-SubgroupPascal`
 
@@ -96,13 +96,11 @@ Downloads="..\01-Downloads"
 - `PascalCase` → legible y alineado con nombres de proyectos.
 
 **Ejemplos:**
-```
+
 00.01-Core-AddressLibrary
 01.03-Frameworks-Nemesis
 04.03-Visual-Lighting
 14.01-Generators-NemesisOutput
-```
-
 
 **Bloques (orden real de carga):**
 | Nº | Nombre | Descripción |
