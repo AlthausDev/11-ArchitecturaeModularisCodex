@@ -1,0 +1,202 @@
+Listado de rutas de carpetas para el volumen Normandy
+El n£mero de serie del volumen es 682A-7756
+G:.
+|   .gitattributes
+|   .gitignore
+|   AMC_Structure.txt
+|   
++---00.Config
+|   |   meta.ini
+|   |   
+|   \---Data
+|       \---SKSE
+|           |   SKSE.ini
+|           |   
+|           \---Plugins
+|                   EngineFixes.toml
+|                   ScrambledBugs.json
+|                   SSEDisplayTweaks.ini
+|                   
++---01.Staging
+|   \---EngineFixes
+|       \---Part2-Root
+|               d3dx9_42.dll
+|               
++---02.Docs
+|   +---00.Core
+|   +---01.Guides
+|   \---99.History
+|       +---00-Addenda
+|       +---01-Changelog
+|       |       AMC-Core-Changelog_2025-10-05_01-14.md
+|       |       AMC-Core-Changelog_2025-10-05_11-24.md
+|       |       AMC-Core-Changelog_2025-10-05_11-41.md
+|       |       AMC-Core-Changelog_2025-10-05_11-42.md
+|       |       AMC-Core-Changelog_2025-10-07_00-01.md
+|       |       AMC-Core-Changelog_2025-10-07_01-14.md
+|       |       AMC-Core-Changelog_2025-10-12_20-04.md
+|       |       AMC-Core-Changelog_2025-10-13_01-17.md
+|       |       AMC-Core-Changelog_2025-10-13_05-07.md
+|       |       AMC-Core-Changelog_2025-10-13_05-23.md
+|       |       AMC-Core-Changelog_2025-10-13_06-14.md
+|       |       AMC-Core-Changelog_2025-10-14_11-58.md
+|       |       AMC-Core-Changelog_2025-10-14_16-15.md
+|       |       AMC-Core-Changelog_2025-10-14_20-06.md
+|       |       AMC-Core-Changelog_2025-10-15_00-11.md
+|       |       AMC-Core-Changelog_2025-10-16_19-47.md
+|       |       AMC-Core-Changelog_2025-10-16_22-05.md
+|       |       AMC-Core-Changelog_2025-10-17_02-31.md
+|       |       AMC-Core-Changelog_2025-10-17_22-52.md
+|       |       
+|       +---02-Releases
+|       |       AMC_0.1.0.0.zip
+|       |       AMC_v0.2.1_Interface_Layer.zip
+|       |       AMC_v0.2.2_Audio_Layer.zip
+|       |       AMC_v0.2.5_GameplayLayer.zip
+|       |       AMC_v0.3.0_Animation_Naming.zip
+|       |       AMC_v0.4.0_WorldLayer_Final.zip
+|       |       AMC_v0.5.1_DoctrineAesthetica.zip
+|       |       
+|       +---03-ArchitectureTree
+|       |   +---2025-10-05
+|       |   |       _TreeReport.csv
+|       |   |       _TreeReport.txt
+|       |   |       
+|       |   +---2025-10-12
+|       |   |       _TreeReport.csv
+|       |   |       _TreeReport.txt
+|       |   |       
+|       |   \---2025-10-13
+|       |           _TreeReport.csv
+|       |           _TreeReport.txt
+|       |           
+|       \---04-Logs
++---03.Scripts
+|   |   01-TreeReport.bat
+|   |   01-TreeReport.ps1
+|   |   02-Deploy-Config.bat
+|   |   03-Export-Profile.bat
+|   |   04-Deploy_EngineFixes_Root.bat
+|   |   05-GitQuickPush.bat
+|   |   06-Generate_Changelog.bat
+|   |   06-Generate_Changelog.ps1
+|   |   AMC_Scripts_Manual_v0.0.2.md
+|   |   
+|   +---Nueva carpeta
+|   \---Nueva carpeta (2)
+|           01-TreeReport.bat
+|           01-TreeReport.ps1
+|           02-Deploy-Config.bat
+|           03-Export-Profile.bat
+|           04-Deploy_EngineFixes_Root.bat
+|           05-GitQuickPush.bat
+|           06-Generate_Changelog.bat
+|           06-Generate_Changelog.ps1
+|           
++---Nueva carpeta
+|       AMC_Addendum_0.1.0.0.md
+|       AMC_Addendum_0.2.0.0.md
+|       AMC_Addendum_0.2.5.0.md
+|       AMC_Addendum_0.3.0.md
+|       AMC_Addendum_0.4.0.md
+|       AMC_Documentation_Guide.md
+|       ARCHITECTURE.md
+|       PORTABILITY.md
+|       README.md
+|       
+\---Profiles
+    \---AMC-Base-1.6.1170
+        |   archives.txt
+        |   categories.dat
+        |   initweaks.ini
+        |   loadorder.txt
+        |   lockedorder.txt
+        |   modlist.txt
+        |   plugins - copia.txt
+        |   plugins.txt
+        |   settings.ini
+        |   skyrim.ini
+        |   skyrimcustom.ini
+        |   skyrimprefs.ini
+        |   
+        \---saves
+                Autosave1_D99C886C_0_4A554A49_Tamriel_000008_20251004191823_1_1.skse
+                Autosave1_D99C886C_0_4A554A49_Tamriel_000014_20251014083547_1_1.ess
+                Autosave1_D99C886C_0_4A554A49_Tamriel_000014_20251014083547_1_1.skse
+                Autosave1_D99C886C_0_4A554A49_Tamriel_000029_20251012193256_1_1.skse
+                Autosave1_D99C886C_0_4A554A49_WhiterunWorld_000052_20251014064822_1_1.skse
+                Autosave1_D99C886C_0_4A554A49_WhiterunWorld_000053_20251014070758_1_1.skse
+                Autosave1_D99C886C_0_4A554A49_WhiterunWorld_000056_20251014071941_1_1.skse
+                Autosave1_D99C886C_0_4A554A49_WhiterunWorld_000102_20251014083141_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_HelgenKeep01_000012_20251004192249_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000015_20251014083736_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000021_20251014185221_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000026_20251014065216_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000027_20251012193102_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000027_20251016214602_1_1.ess
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000027_20251016214602_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000028_20251014065515_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000029_20251014065826_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000030_20251012193349_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000032_20251014070634_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000049_20251014055723_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000049_20251014064036_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000052_20251014064426_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000053_20251014064724_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_Tamriel_000054_20251013052745_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_WhiterunBanneredMare_000102_20251014083215_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_WhiterunWorld_000050_20251013030454_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_WhiterunWorld_000054_20251014070835_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_WhiterunWorld_000055_20251014071659_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_WhiterunWorld_000056_20251014071947_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_WhiterunWorld_000059_20251014081241_1_1.skse
+                Autosave2_D99C886C_0_4A554A49_WhiterunWorld_000059_20251014082421_1_1.skse
+                Autosave3_D99C886C_0_4A554A49_Tamriel_000016_20251014083951_1_1.ess
+                Autosave3_D99C886C_0_4A554A49_Tamriel_000016_20251014083951_1_1.skse
+                Autosave3_D99C886C_0_4A554A49_Tamriel_000027_20251012193137_1_1.skse
+                Autosave3_D99C886C_0_4A554A49_Tamriel_000027_20251014065303_1_1.skse
+                Autosave3_D99C886C_0_4A554A49_Tamriel_000028_20251014065525_1_1.skse
+                Autosave3_D99C886C_0_4A554A49_Tamriel_000051_20251014064244_1_1.skse
+                Autosave3_D99C886C_0_4A554A49_Tamriel_000053_20251014064730_1_1.skse
+                Autosave3_D99C886C_0_4A554A49_WhiterunJorrvaskr_000055_20251014071913_1_1.skse
+                Autosave3_D99C886C_0_4A554A49_WhiterunWorld_000053_20251014070753_1_1.skse
+                Autosave3_D99C886C_0_4A554A49_WhiterunWorld_000054_20251014070850_1_1.skse
+                Autosave3_D99C886C_0_4A554A49_WhiterunWorld_000056_20251014072005_1_1.skse
+                Autosave3_D99C886C_0_4A554A49_WhiterunWorld_000101_20251014082745_1_1.skse
+                Autosave3_D99C886C_0_4A554A49_WhiterunWorld_000102_20251014083221_1_1.skse
+                Quicksave0_D99C886C_0_4A554A49_Tamriel_000015_20251014083755_1_1.skse
+                Quicksave0_D99C886C_0_4A554A49_Tamriel_000022_20251014185308_1_1.skse
+                Quicksave0_D99C886C_0_4A554A49_Tamriel_000029_20251016214749_1_1.ess
+                Quicksave0_D99C886C_0_4A554A49_Tamriel_000029_20251016214749_1_1.skse
+                Quicksave0_D99C886C_0_4A554A49_Tamriel_000051_20251014064230_1_1.skse
+                Quicksave0_D99C886C_0_4A554A49_WhiterunWorld_000052_20251014064856_1_1.skse
+                Quicksave0_D99C886C_0_4A554A49_WhiterunWorld_000053_20251014070750_1_1.skse
+                Save10_D99C886C_0_4A554A49_Tamriel_000029_20251014065643_1_1.ess
+                Save10_D99C886C_0_4A554A49_Tamriel_000029_20251014065643_1_1.skse
+                Save11_D99C886C_0_4A554A49_Tamriel_000015_20251014083747_1_1.ess
+                Save11_D99C886C_0_4A554A49_Tamriel_000015_20251014083747_1_1.skse
+                Save12_D99C886C_0_4A554A49_Tamriel_000016_20251014083959_1_1.ess
+                Save12_D99C886C_0_4A554A49_Tamriel_000016_20251014083959_1_1.skse
+                Save13_D99C886C_0_4A554A49_Tamriel_000022_20251014185315_1_1.ess
+                Save13_D99C886C_0_4A554A49_Tamriel_000022_20251014185315_1_1.skse
+                Save1_8C242C2A_0_50726973696F6E65726F_Tamriel_000005_20251004191514_1_1.ess
+                Save1_8C242C2A_0_50726973696F6E65726F_Tamriel_000005_20251004191514_1_1.skse
+                Save1_D99C886C_0_4A554A49_Tamriel_000013_20251004192402_1_1.ess
+                Save1_D99C886C_0_4A554A49_Tamriel_000013_20251004192402_1_1.skse
+                Save2_D99C886C_0_4A554A49_Tamriel_000015_20251004210035_1_1.ess
+                Save2_D99C886C_0_4A554A49_Tamriel_000015_20251004210035_1_1.skse
+                Save3_D99C886C_0_4A554A49_Tamriel_000018_20251007003829_1_1.ess
+                Save3_D99C886C_0_4A554A49_Tamriel_000018_20251007003829_1_1.skse
+                Save4_D99C886C_0_4A554A49_Tamriel_000026_20251012192112_1_1.ess
+                Save4_D99C886C_0_4A554A49_Tamriel_000026_20251012192112_1_1.skse
+                Save5_D99C886C_0_4A554A49_Tamriel_000032_20251012223034_1_1.ess
+                Save5_D99C886C_0_4A554A49_Tamriel_000032_20251012223034_1_1.skse
+                Save6_D99C886C_0_4A554A49_Tamriel_000037_20251012223507_1_1.ess
+                Save6_D99C886C_0_4A554A49_Tamriel_000037_20251012223507_1_1.skse
+                Save7_D99C886C_0_4A554A49_Tamriel_000046_20251012231224_1_1.ess
+                Save7_D99C886C_0_4A554A49_Tamriel_000046_20251012231224_1_1.skse
+                Save8_D99C886C_0_4A554A49_WhiterunWorld_000051_20251013030544_1_1.ess
+                Save8_D99C886C_0_4A554A49_WhiterunWorld_000051_20251013030544_1_1.skse
+                Save9_D99C886C_0_4A554A49_Tamriel_000050_20251014064115_1_1.ess
+                Save9_D99C886C_0_4A554A49_Tamriel_000050_20251014064115_1_1.skse
+                

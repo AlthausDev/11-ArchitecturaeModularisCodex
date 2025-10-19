@@ -1,0 +1,37 @@
+Listado de rutas de carpetas para el volumen Normandy
+El n£mero de serie del volumen es 682A-7756
+G:.
++---00.Config
+|   \---Data
+|       \---SKSE
+|           \---Plugins
++---01.Staging
+|   \---EngineFixes
+|       \---Part2-Root
++---02.Docs
+|   +---00.Core
+|   +---01.Guides
+|   \---99.History
+|       +---00.Addenda
+|       +---01.Changelog
+|       +---02.Releases
+|       +---03.ArchitectureTree
+|       |   +---2025-10-05
+|       |   +---2025-10-12
+|       |   +---2025-10-13
+|       |   \---2025-10-18
+|       \---04.Logs
++---03.Scripts
+|   +---01.Reporting
+|   +---02.Deploy
+|   +---03.Profile
+|   +---04.Changelog
+|   +---05.Git
+|   \---_Archive
+|       \---2025-10-18_23-02
+|           +---Nueva carpeta
+|           \---Nueva carpeta (2)
++---Nueva carpeta
+\---Profiles
+    \---AMC-Base-1.6.1170
+        \---saves

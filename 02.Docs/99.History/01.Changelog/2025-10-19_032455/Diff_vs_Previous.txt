@@ -1,0 +1,10 @@
+=== Diff de mods HABILITADOS vs snapshot anterior ===
+Actual : 2025-10-19_032455
+Previo : 2025-10-19_032455
+
+ADD (2)
+  + 
+  + 
+
+REM (0)
+
