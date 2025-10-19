@@ -1,0 +1,65 @@
+Listado de rutas de carpetas para el volumen Normandy
+El n£mero de serie del volumen es 682A-7756
+G:.
+|   tree.txt
+|   
++---00.Core
+|       ARCHITECTURE_v0.1.1.md
+|       PORTABILITY_v0.1.1.md
+|       
++---01.Guides
+\---99.History
+    +---00.Addenda
+    +---01.Changelog
+    |   +---2025-10-19_032336
+    |   |       AMC-Core-Changelog_2025-10-19_032336.md
+    |   |       Diff_vs_Previous.txt
+    |   |       EnabledMods.csv
+    |   |       EnabledMods.txt
+    |   |       
+    |   \---2025-10-19_032455
+    |           AMC-Core-Changelog_2025-10-19_032455.md
+    |           Diff_vs_Previous.txt
+    |           EnabledMods.csv
+    |           EnabledMods.txt
+    |           
+    +---02.Releases
+    |       AMC_0.1.0.0.zip
+    |       AMC_v0.2.1_Interface_Layer.zip
+    |       AMC_v0.2.2_Audio_Layer.zip
+    |       AMC_v0.2.5_GameplayLayer.zip
+    |       AMC_v0.3.0_Animation_Naming.zip
+    |       AMC_v0.4.0_WorldLayer_Final.zip
+    |       AMC_v0.5.1_DoctrineAesthetica.zip
+    |       
+    +---03.ArchitectureTree
+    |   +---2025-10-05
+    |   |       _TreeReport.csv
+    |   |       _TreeReport.txt
+    |   |       
+    |   +---2025-10-12
+    |   |       _TreeReport.csv
+    |   |       _TreeReport.txt
+    |   |       
+    |   +---2025-10-13
+    |   |       _TreeReport.csv
+    |   |       _TreeReport.txt
+    |   |       
+    |   \---2025-10-19
+    |           Tree_AMC.csv
+    |           Tree_AMC.txt
+    |           Tree_MO2Portable.csv
+    |           Tree_MO2Portable.txt
+    |           Tree_SkyrimMods.csv
+    |           Tree_SkyrimMods.txt
+    |           
+    \---04.Logs
+            Deploy_Config_2025-10-19_022004.log
+            Deploy_Config_2025-10-19_022220.log
+            Deploy_Config_2025-10-19_022719.log
+            Deploy_Config_2025-10-19_022758.log
+            Deploy_Config_2025-10-19_023819.log
+            Deploy_Config_2025-10-19_024122.log
+            TreeReport_2025-10-19_014309.log
+            TreeReport_2025-10-19_015645.log
+            

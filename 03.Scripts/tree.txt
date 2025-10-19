@@ -1,0 +1,26 @@
+Listado de rutas de carpetas para el volumen Normandy
+El n£mero de serie del volumen es 682A-7756
+G:.
+|   README.md
+|   tree.txt
+|   
++---01.Reporting
+|       01-TreeReport.bat
+|       01-TreeReport.ps1
+|       
++---02.Deploy
+|       02-Deploy-Config.bat
+|       04-Deploy-EngineFixesRoot-Rel.bat
+|       04-Deploy-EngineFixesRoot.bat
+|       
++---03.Profile
+|       03-Export-Profile.bat
+|       
++---04.Changelog
+|       06-Generate-Changelog.bat
+|       06-Generate-Changelog.ps1
+|       
++---05.Git
+|       05-GitQuickPush.bat
+|       
+\---_Archive
