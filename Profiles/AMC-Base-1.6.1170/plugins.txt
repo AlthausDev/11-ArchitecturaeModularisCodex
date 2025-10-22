@@ -9,20 +9,22 @@
 *Night Eye Overhaul.esm
 *Obsidian Mountain Fogs.esm
 *SmoothCam.esl
-*Embers XD.esm
 *Campfire.esm
+*Embers XD.esm
 *TrueHUD.esl
+*Water for ENB.esm
 *unofficial skyrim special edition patch.esp
 *BSAssets.esm
-arnima.esm
+*arnima.esm
 *BSHeartland.esm
-*Enhanced Landscapes.esp
 BS_DLC_patch.esp
-HammetDungeon02.esm
 mannyBlackRock.esm
+DynDOLOD.esm
+*Enhanced Landscapes.esp
+HammetDungeon02.esm
 HammetDungeon01.esm
 Forgotten DungeonsSSE.esm
-*Water for ENB.esm
+*Expressive Facegen Morphs.esl
 *Riften Docks Overhaul.esp
 Smithing Perks Overhaul SE.esp
 RealRainSEVivid.esp
@@ -31,8 +33,8 @@ Environs - Greenwood Shack.esp
 ABT SE - Rebalanced Crafting.esp
 ABT SE - Progressive Damage.esp
 ABT SE - Merchants Ammo.esp
-ABT SE - Increased Progressive Damage.esp
 ABT SE - Kevkas All-in-One.esp
+ABT SE - Increased Progressive Damage.esp
 ABT SE - Loot Ammo.esp
 ABT SE - Faster Arrows Improved.esp
 LoS II - Campfire addon.esp
@@ -64,7 +66,6 @@ LoS II - Campfire addon.esp
 *Hothtrooper44_Armor_Ecksstra.esp
 *NightEyeENBFix.esp
 *Hothtrooper44_ArmorCompilation.esp
-*IcePenguinWorldMap.esp
 *Immersive Sounds - Compendium.esp
 *Immersive Weapons.esp
 *Imperious - Races of Skyrim.esp
@@ -159,8 +160,8 @@ WetFunction.esp
 *BVLT - Human.esp
 DeadlyDragons.esp
 WaterfromWells.esp
-WfW HF Extended Patch.esp
 WfW - DoS Patch.esp
+WfW HF Extended Patch.esp
 Dynamic Things Alternative.esp
 *Odin - Skyrim Magic Overhaul.esp
 *CoinPurseIncrease.esp
@@ -178,7 +179,6 @@ Dirt and Blood - Dynamic Visuals.esp
 Wintersun - Faiths of Skyrim.esp
 *Timescale8.esp
 *BosmeriCuisine.esp
-*BosmerDrinks.esp
 JK's Thieves Guild.esp
 JK's SkyHaven Forge.esp
 JK's The Pawned Prawn.esp
@@ -248,3 +248,27 @@ The Great Village of Kynesgrove.esp
 *soundsofskyrimcomplete.esp
 *SoS_ObsidianTrueStorms_Patch.esp
 *Ryn's Farms.esp
+*CraftGrayfox.esp
+*MoreFalmerStatues.esp
+*MoreNocturnalStatues.esp
+*MoreSovgardeStatues.esp
+*New Vaermina Statue.esp
+PsBoss's Statuettes Crafting.esp
+BosmeriDrinksSSE.esp
+*IcePenguinWorldMap.esp
+DynDOLOD.esp
+Occlusion.esp
+*3BBB.esp
+*SOSPhysicsManager.esp
+*FSMPM - The FSMP MCM.esp
+*OBody.esp
+*KS Hairdo's.esp
+*12FemaleBrows.esp
+*Beards.esp
+*Improved Eyes Skyrim.esp
+*Improved Eyes Skyrim - Serana.esp
+*Improved Eyes Skyrim - Vamp.esp
+*RaceMenu.esp
+*RaceMenuPlugin.esp
+*RaceMenuSpanish.esp
+RaceMenuMorphsCBBE.esp

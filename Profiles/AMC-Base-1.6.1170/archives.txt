@@ -24,6 +24,7 @@ _ResourcePack.bsa
 unofficial skyrim special edition patch.bsa
 unofficial skyrim special edition patch - textures.bsa
 MCMHelper.bsa
+RaceMenu.bsa
 SkyUI_SE.bsa
 Wildcat - Combat of Skyrim.bsa
 Wildcat - Combat of Skyrim - Textures.bsa
@@ -41,15 +42,15 @@ Complete Alchemy & Cooking Overhaul.bsa
 trade & barter.bsa
 Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
 Andromeda - Unique Standing Stones of Skyrim.bsa
-Imperious - Races of Skyrim.bsa
 Imperious - Races of Skyrim - Textures.bsa
+Imperious - Races of Skyrim.bsa
 Cathedral Landscapes.bsa
 Book Covers Skyrim - Textures.bsa
 Book Covers Skyrim.bsa
-Lux - Resources - Textures.bsa
-Lux - Resources.bsa
-Lux Via - Textures.bsa
 Lux Via.bsa
+Lux Via - Textures.bsa
+Lux - Resources.bsa
+Lux - Resources - Textures.bsa
 TrueStormsSE.bsa
 TrueStormsSE - Textures.bsa
 Obsidian Weathers.bsa
@@ -60,29 +61,31 @@ dD - Enhanced Blood Main.bsa
 Audio Overhaul Skyrim.bsa
 iWant Status Bars.bsa
 UIExtensions.bsa
-Dawn of Skyrim - Textures.bsa
 Dawn of Skyrim.bsa
+Dawn of Skyrim - Textures.bsa
 Riften Docks Overhaul - Textures.bsa
 Riften Docks Overhaul.bsa
 JK's Whiterun's Outskirts.bsa
 Stendarr Rising.bsa
 Stendarr Rising - Textures.bsa
-Lanterns Of Skyrim II - Textures.bsa
-LoS II - Lantern Workers.bsa
 LoS II - Lantern Workers - Textures.bsa
+LoS II - Lantern Workers.bsa
 Lanterns OF Skyrim II.bsa
-MoreColorfulSceneryJars.bsa
+Lanterns Of Skyrim II - Textures.bsa
 MoreColorfulSceneryJars - Textures.bsa
+MoreColorfulSceneryJars.bsa
 JK's Riverfall Cottage.bsa
-Falskaar.bsa
 Falskaar - Textures.bsa
+Falskaar.bsa
 Wyrmstooth.bsa
 Wyrmstooth - Textures.bsa
-BSAssets - Textures.bsa
 BSAssets.bsa
+BSAssets - Textures.bsa
+arnima.bsa
+arnima - Textures.bsa
 BSHeartland - Textures.bsa
 BSHeartland.bsa
 Hothtrooper44_Armor_Ecksstra.bsa
 Hothtrooper44_ArmorCompilation.bsa
-waccf_armor and clothing extension.bsa
 waccf_armor and clothing extension - textures.bsa
+waccf_armor and clothing extension.bsa
