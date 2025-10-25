@@ -1,0 +1,215 @@
+Perfecto, Sam.
+Con el núcleo estable que ya tienes (**00, 01, 04, 05, 06, 07 completados**), el proyecto AMC está en una fase madura: todo lo que queda depende de afinación fina, integración orgánica y cierre técnico.
+
+Voy a organizar los **bloques pendientes** por **orden de dificultad real**, **dependencias estructurales** y **estrategia de aproximación**, para que el avance sea limpio, sin rehacer ni saturar el entorno.
+
+---
+
+# 🧩 Visión general – Bloques pendientes AMC v0.6.x
+
+| Bloque            | Dificultad    | Dependencias directas | Naturaleza             | Tipo de trabajo                                                               |
+| :---------------- | :------------ | :-------------------- | :--------------------- | :---------------------------------------------------------------------------- |
+| **08.NPCs**       | 🔴 Alta       | 04.10 / 04.11 / 12    | Creativa y técnica     | Overhauls humanos y criaturas, SPID, AI, distribuciones, coherencia estética. |
+| **04.10 / 04.11** | 🔶 Media–alta | 03 / 11 / 08          | Técnica y visual       | Cuerpos, ojos, pelo: definir la base biológica.                               |
+| **11.Adult**      | 🔴 Alta       | 03 / 04.10 / 08       | Técnica avanzada       | Frameworks físicos y de interacción, física, outfits, expresividad.           |
+| **12.Patches**    | 🔶 Media      | Todos (04–11)         | Técnica pura           | Parcheo de navmesh, luz, leveled lists, conflictos menores.                   |
+| **14.Generators** | 🔹 Baja       | 12 / 07 / 04          | Técnica automatizada   | TexGen, DynDOLOD, Nemesis rebuild.                                            |
+| **09.Items**      | 🔸 Media      | 08 / 12               | Contenido y equilibrio | Sustituciones, distribuciones SPID, coherencia económica.                     |
+| **15.DevTools**   | 🟢 Baja       | —                     | Técnica utilitaria     | Interfaz C#, automatización de scripts.                                       |
+| **02.Gameplay**   | 🔸 Media      | 01 / 03               | Mecánica               | Ajustes finos de balance (combate, IA, progresión).                           |
+| **03.Animation**  | 🔸 Media      | 01 / 08 / 11          | Técnica                | Nuevas animaciones DAR/OAR y precisión física.                                |
+
+---
+
+# ⚙️ Orden lógico de trabajo (por dependencias)
+
+## 🧱 1️⃣ Bloque 04.10 / 04.11 – *Base orgánica*
+
+**Razón:** sin cuerpos ni ojos/pelo definidos, no se puede iniciar 08.NPCs ni 11.Adult.
+
+### 🔹 Objetivo
+
+Definir los **modelos biológicos base** de todos los personajes.
+
+### 🔧 Aproximación
+
+* Seleccionar **cuerpos base:**
+
+  * *Opción estable*: CBBE (fem) + HIMBO (masc).
+  * *Opción ligera*: Vanilla bodies retextured.
+* Instalar texturas, normalmaps y tintmasks coherentes con Rudy ENB (no glossy).
+* Pelo y ojos: KS Hairdos + Natural Eyes (sin physics, por ahora).
+* Dejar espacio para física futura (CBPC/SMP).
+
+### ⏱️ Duración estimada
+
+2–3 sesiones de pruebas visuales.
+
+---
+
+## 🧠 2️⃣ Bloque 08.NPCs – *Ecosistema humanoide*
+
+**Razón:** pilar central del mundo orgánico; define la “vida visible” del juego.
+Depende de 04.10/11 y aporta contexto a 09 y 11.
+
+### 🔹 Objetivo
+
+Introducir **población coherente, rostros realistas, IA social y enemigos**.
+
+### 🔧 Aproximación
+
+1. **Humanos / Races**
+
+   * *Overhauls*:
+
+     * Pandorable NPCs (lightweight)
+     * Bijin Series (individuals)
+     * High Poly NPC Overhaul
+   * *SPID distribution*: filtros por facción / género / rango.
+2. **Enemigos / criaturas**
+
+   * Mantener PsBoss pack como base.
+   * Añadir AI packages ligeros (no invasivos).
+3. **IA y rutina**
+
+   * Complementar AI Overhaul con pequeños add-ons (Idle Behavior, Better Follower AI).
+4. **Compatibilidad**
+
+   * Asegurar *Lux Orbis + ENBLight* en interiores → parches en 12.
+
+### ⏱️ Duración estimada
+
+5–7 sesiones, pruebas cruzadas con LUX y TrueHUD.
+
+---
+
+## 🧬 3️⃣ Bloque 11.Adult – *Expresividad física*
+
+**Razón:** requiere 04.10/11 y 08 listos; se basa en la infraestructura de animación existente (03).
+
+### 🔹 Objetivo
+
+Integrar **frameworks expresivos y físicos** (OStim, OBody, OpenAnimationRe, etc.), no solo por contenido adulto, sino por motor de expresividad y poses.
+
+### 🔧 Aproximación
+
+* Instalar OStim NG + OBody NG + OpenAnimationRe.
+* Configurar física (CBPC/SMP) solo después de verificar estabilidad.
+* Integrar animaciones expresivas, props y MCM.
+* Evitar anim packs masivos al principio (solo core + test).
+
+### ⏱️ Duración estimada
+
+4–6 sesiones de configuración.
+
+---
+
+## 🧩 4️⃣ Bloque 09.Items – *Ecosistema tangible*
+
+**Razón:** mantiene la economía, crafteo y equipamiento coherente con los NPCs ya generados.
+
+### 🔹 Objetivo
+
+Actualizar el contenido tangible sin reventar leveled lists.
+
+### 🔧 Aproximación
+
+* Sustituir *Immersive Weapons / Armors* → *Skyrim Weapons Expansion* + *NordWarUA Expanded Armors*.
+* Mantener ACE + SPID Patch.
+* Integrar SPID distribution final (tras 08).
+* Balancear valores de venta y peso (Trade & Barter + CoinPurse ya activos).
+
+### ⏱️ Duración estimada
+
+2 sesiones.
+
+---
+
+## 🧮 5️⃣ Bloque 12.Patches – *Consolidación técnica*
+
+**Razón:** cierra conflictos de los bloques 04–09 y optimiza carga de scripts.
+
+### 🔹 Objetivo
+
+Crear los parches AMC oficiales:
+
+* `12.10-DoS_GreatCities`
+* `12.20-JKs_LuxOrbis`
+* `12.30-Ryns_Misc`
+* `12.40-AI_NPC_Visual`
+* `12.50-Items_Lists`
+
+### 🔧 Aproximación
+
+Usar xEdit para limpiar masters, consolidar *light plugins*, y generar **PatchPack final**.
+
+### ⏱️ Duración estimada
+
+3–4 sesiones técnicas.
+
+---
+
+## 🌄 6️⃣ Bloque 14.Generators – *Reconstrucción final*
+
+**Razón:** depende de los parches de 12; reconstruye visualización global.
+
+### 🔹 Objetivo
+
+Regenerar:
+
+* **Nemesis Output**
+* **TexGen**
+* **DynDOLOD 3**
+* **Grass cache / Occlusion**
+
+### 🔧 Aproximación
+
+* Generar nuevos LODs según flora final y Northern Roads.
+* Guardar snapshot “AMC v0.6.0 Stable Branch”.
+
+### ⏱️ Duración estimada
+
+1–2 sesiones de procesado.
+
+---
+
+## 💻 7️⃣ Bloque 15.DevTools – *Interfaz y control*
+
+**Razón:** última capa, sin dependencias.
+**Objetivo:** crear una interfaz C# ligera para scripts AMC.
+
+### 🔧 Aproximación
+
+* UI tipo launcher con 4 botones:
+  `Deploy` / `QuickPush` / `Backup` / `Run Generators`.
+* Guardar logs automáticos en `15.04-Logs`.
+
+### ⏱️ Duración estimada
+
+2 sesiones.
+
+---
+
+## ⚔️ 8️⃣ Ajustes y mantenimiento – *02.Gameplay y 03.Animation*
+
+**Razón:** no críticos, pero afinan experiencia global.
+
+| Bloque           | Tipo de ajuste                                     | Cuándo hacerlo                           | Qué revisar                                                                     |
+| :--------------- | :------------------------------------------------- | :--------------------------------------- | :------------------------------------------------------------------------------ |
+| **02.Gameplay**  | Rebalance de dificultad, IA de combate, progresión | Después de 08 (cuando haya densidad NPC) | Wildcat (Stamina damage), Vokrii (perk XP rate), Trade & Barter (precio medio). |
+| **03.Animation** | Fluidez, expresividad, compatibilidad con 11.Adult | Antes de 11                              | Revisar OAR packs, animaciones de idle, y compatibilidad con TDM.               |
+
+---
+
+# 🧭 Hoja de ruta final AMC – Orden óptimo y progresión
+
+| Orden | Bloque                                    | Dificultad | Dependencias | Fase / Versión objetivo |
+| :---- | :---------------------------------------- | :--------- | :----------- | :---------------------- |
+| 1     | **04.10–04.11 (Cuerpos/Pelo/Ojos)**       | 🟠 Media   | 03 / 08 / 11 | v0.5.4                  |
+| 2     | **08.NPCs**                               | 🔴 Alta    | 04.10 / 12   | v0.5.5                  |
+| 3     | **11.Adult**                              | 🔴 Alta    | 08 / 03      | v0.5.6                  |
+| 4     | **09.Items**                              | 🟠 Media   | 08 / 12      | v0.5.7                  |
+| 5     | **12.Patches**                            | 🟡 Media   | 04–11        | v0.5.8                  |
+| 6     | **14.Generators**                         | 🟢 Baja    | 12           | v0.6.0                  |
+| 7     | **15.DevTools**                           | 🟢 Baja    | —            | v0.6.1                  |
+| 8     | **02.Gameplay / 03.Animation (retuning)** | 🟡 Media   | 08 / 11      | v0.6.2 (parche menor)   |

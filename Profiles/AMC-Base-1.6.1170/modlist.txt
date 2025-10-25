@@ -236,6 +236,7 @@
 +06.02-Interface-Menus -MenuMaid2
 +06.02-Interface-Menus-ReCleanedMenu
 +06.02-Interface-Menus-HideSkyUI
++06.01-Interface-HUD-UIExtensions-FIX
 +06.01-Interface-HUD-UIExtensions-Castellano
 +06.01-Interface-HUD-UIExtensions
 +06.01-Interface-HUD-iWantStatusBars
@@ -251,12 +252,27 @@
 +04.12.02-BodyPreset-HIMBO-GreekGod
 +04.12.02-BodyPreset-HIMBO-Aestheticus
 -04.12.02-Visual-Bodies-Presets-Male_separator
++Touched by Dibella SMP
++Touched by Dibella
++The Luscious Body - CBBE 3BA Bodyslide Preset
++Am Strong
++The Exothicc Beauty CBBE 3BA Bodyslide Preset
++Strawberry Body 5
++s4rMs - Ceres Deluge -3BA
++PB01 - 0-100 - 3BA
++PB's Slightly Thicc 0-100 Body
++Nord Goddess - Bodyslide Preset
++My Sensual Body - CBBE 3BA Bodyslide Preset
++Mistress Puff - CBBE 3BA preset
++Lusty Vampire - A CBBE 3BB 3BA Bodyslide Preset for SE
++Dream Angels Body Preset - All-In-One
++DIAMOND Body Preset for CBBE and 3BBB
++CBBE - Big and Strong (Bodyslide Preset)
 +04.12.01-BodyPreset-Yuna
 +04.12.01-BodyPreset-ValkyrieShape
 +04.12.01-BodyPreset-TouchedByDesire
 +04.12.01-BodyPreset-TeruApex
 +04.12.01-BodyPreset-Temptations
-+04.12.01-BodyPreset-Strawberry3
 +04.12.01-BodyPreset-ShapeOfWarrior
 +04.12.01-BodyPreset-PomonaAmphora
 +04.12.01-BodyPreset-LovelyLady
@@ -439,8 +455,6 @@
 +02.09-Gameplay-Crafting-SmithingOverhaul
 +02.09-Gameplay-Crafting-CACO-Castellano
 +02.09-Gameplay-Crafting-CACO
-+02.07-Gameplay-Survival-Campfire-Castellano
-+02.07-Gameplay-Survival-Campfire
 +02.07-Gameplay-Survival-SunHelm-Campfire-Castellano
 +02.07-Gameplay-Survival-SunHelm-Castellano
 +02.07-Gameplay-Survival-SunHelm
@@ -500,6 +514,8 @@
 +00.05-Core-ScriptExtenders - MCMHelper
 +00.05-Core-ScriptExtenders - JContainers
 +00.05-Core-ScriptExtenders - PapyrusUtil
++01.02-SurvivalEngine-Campfire-Castellano
++01.02-SurvivalEngine-Campfire
 +00.04-Core-BugFixes-Bug Fixes SSE
 +00.04-Core-BugFixes – Mfg Fix
 +00.04-Core-BugFixes
