@@ -12,50 +12,50 @@ ccbgssse037-curios.bsa
 ccbgssse025-advdsgs.bsa
 ccbgssse001-fish.bsa
 _ResourcePack.bsa
-unofficial skyrim special edition patch - textures.bsa
 unofficial skyrim special edition patch.bsa
+unofficial skyrim special edition patch - textures.bsa
 Campfire.bsa
 MCMHelper.bsa
 RaceMenu.bsa
 SkyUI_SE.bsa
-Wildcat - Combat of Skyrim.bsa
 Wildcat - Combat of Skyrim - Textures.bsa
+Wildcat - Combat of Skyrim.bsa
 MysticismMagic.bsa
 Odin - Skyrim Magic Overhaul - Textures.bsa
 Odin - Skyrim Magic Overhaul.bsa
-Sacrilege - Minimalistic Vampires of Skyrim - Textures.bsa
 Sacrilege - Minimalistic Vampires of Skyrim.bsa
+Sacrilege - Minimalistic Vampires of Skyrim - Textures.bsa
 run for your lives.bsa
 run for your lives - textures.bsa
-Vokrii - Minimalistic Perks of Skyrim.bsa
 Vokrii - Minimalistic Perks of Skyrim - Textures.bsa
+Vokrii - Minimalistic Perks of Skyrim.bsa
 NirnrootAlchemyExperience.bsa
 ArcheryDummyXP.bsa
 ReadingIsGood.bsa
 SunHelmSurvival.bsa
-Complete Alchemy & Cooking Overhaul - Textures.bsa
 Complete Alchemy & Cooking Overhaul.bsa
+Complete Alchemy & Cooking Overhaul - Textures.bsa
 trade & barter.bsa
-Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
 Andromeda - Unique Standing Stones of Skyrim.bsa
+Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
 Imperious - Races of Skyrim.bsa
 Imperious - Races of Skyrim - Textures.bsa
 Wintersun - Faiths of Skyrim.bsa
 Wintersun - Faiths of Skyrim - Textures.bsa
-DeadlyDragons.bsa
 DeadlyDragons - Textures.bsa
+DeadlyDragons.bsa
 Cathedral Landscapes.bsa
-Book Covers Skyrim - Textures.bsa
 Book Covers Skyrim.bsa
+Book Covers Skyrim - Textures.bsa
 Lux - Resources.bsa
-Lux Via - Textures.bsa
 Lux Via.bsa
+Lux Via - Textures.bsa
 Lux - Resources - Textures.bsa
-TrueStormsSE.bsa
 TrueStormsSE - Textures.bsa
+TrueStormsSE.bsa
 Obsidian Weathers.bsa
-MoreColorfulAuroras - Textures.bsa
 MoreColorfulAuroras.bsa
+MoreColorfulAuroras - Textures.bsa
 DustEffectsSSE.bsa
 Sanguine Symphony - Textures.bsa
 Sanguine Symphony.bsa
@@ -72,69 +72,34 @@ Skyrim - Textures8.bsa
 Audio Overhaul Skyrim.bsa
 iWant Status Bars.bsa
 UIExtensions.bsa
-Resources - The Great Cities - Textures.bsa
-Resources - The Great Cities.bsa
-Dawn of Skyrim - Textures.bsa
-Dawn of Skyrim.bsa
-Riften Docks Overhaul - Textures.bsa
 Riften Docks Overhaul.bsa
-JK's Whiterun's Outskirts.bsa
-AnotherOakwood.bsa
-HammetDungeon01.bsa
-HammetDungeon02.bsa
-Stendarr Rising - Textures.bsa
+Riften Docks Overhaul - Textures.bsa
 Stendarr Rising.bsa
-JK's Sleeping Giant Inn.bsa
-JK's Haelga's Bunkhouse.bsa
-JK's Radiant Raiment.bsa
-JK's Sky Haven Temple.bsa
-JK's Castle Volkihar.bsa
-JK's Castle Dour.bsa
+Stendarr Rising - Textures.bsa
 JK's Dragonsreach.bsa
-JK's High Hrothgar.bsa
-JK's New Gnisis Cornerclub.bsa
-JK's New Gnisis Cornerclub - Textures.bsa
-JK's Palace of the Kings.bsa
-JKs The Drunken Huntsman.bsa
-JK's The Winking Skeever.bsa
-JK's Thieves Guild.bsa
-JK's Understone Keep.bsa
-JK's Blue Palace.bsa
-JK's Dark Brotherhood Sanctuary.bsa
-JK's The Bards College - Textures.bsa
-JK's The Bards College.bsa
-JK's Sinderion's Field Laboratory.bsa
-JK's Fort Dawnguard.bsa
-JK's Windhelm's Outskirts.bsa
-JK's Raven Rock.bsa
-JK's Septimus Signus's Outpost.bsa
 OCW_Obscure's_CollegeofWinterhold.bsa
 OCW_Obscure's_CollegeofWinterhold - Textures.bsa
 OCW_CWI Exterior Magelights.bsa
-BugJarReplacer.bsa
-BugJarReplacer - Textures.bsa
 LoS II - Lantern Workers - Textures.bsa
 Lanterns Of Skyrim II - Textures.bsa
-Lanterns OF Skyrim II.bsa
 LoS II - Lantern Workers.bsa
-MoreColorfulSceneryJars - Textures.bsa
+Lanterns OF Skyrim II.bsa
 MoreColorfulSceneryJars.bsa
+MoreColorfulSceneryJars - Textures.bsa
+DestructibleDisplayCases.bsa
+DestructibleDisplayCases - Textures.bsa
 JK's Riverfall Cottage.bsa
-ForgottenArt.bsa
-Falskaar - Textures.bsa
-Falskaar.bsa
 Wyrmstooth.bsa
 Wyrmstooth - Textures.bsa
 BSAssets.bsa
 BSAssets - Textures.bsa
-BS_DLC_patch.bsa
-arnima.bsa
-arnima - Textures.bsa
-BSHeartland - Textures.bsa
 BSHeartland.bsa
+BSHeartland - Textures.bsa
+RSChildren.bsa
+RSChildren - Textures.bsa
 melyfairy - textures.bsa
 melyfairy.bsa
 Hothtrooper44_Armor_Ecksstra.bsa
 Hothtrooper44_ArmorCompilation.bsa
-waccf_armor and clothing extension.bsa
 waccf_armor and clothing extension - textures.bsa
+waccf_armor and clothing extension.bsa
