@@ -1,0 +1,575 @@
+﻿# AMC Core Changelog
+
+**Perfil:** AMC-Base-1.6.1170
+**Fecha:**  2025-10-25 21:53:27
+
+## Instalados (habilitados)
+- 00.00-Core_separator
+- 00.00-Core-USSEP
+- 00.00-Core-USSEP - Traducción Española
+- 00.01-Core-AddressLibrary
+- 00.02-Core-EngineFixes
+- 00.02-Core-EngineFixes – Papyrus Tweaks NG
+- 00.03-Core-DisplayTweaks
+- 00.04-Core-BugFixes
+- 00.04-Core-BugFixes – Mfg Fix
+- 00.04-Core-BugFixes-Bug Fixes SSE
+- 00.05-Core-ScriptExtenders – ConsoleUtil NG
+- 00.05-Core-ScriptExtenders - JContainers
+- 00.05-Core-ScriptExtenders - MCMHelper
+- 00.05-Core-ScriptExtenders - PapyrusUtil
+- 00.06-Core-LibrariesPO3
+- 00.07-Core-Utilities - Achievements
+- 00.08-Core-BaseObjectSwapper
+- 00.09-Core-FormLists – KID (Keyword Item Distributor)
+- 00.09-Core-FormLists - SPID
+- 00.10-Core-Extenders - po3 Papyrus Extender
+- 00.Config
+- 01.00-Frameworks_separator
+- 01.01-Frameworks-SKSE-RaceMenu
+- 01.01-Frameworks-SKSE-RaceMenu-Castellano
+- 01.02-Frameworks-Behavior - Precision
+- 01.02-Frameworks-Behavior - XPMSSE
+- 01.02-Frameworks-Behavior-AnimationQueueFix
+- 01.02-SurvivalEngine-Campfire
+- 01.02-SurvivalEngine-Campfire-Castellano
+- 01.03-Frameworks-Nemesis
+- 01.04-Frameworks-OAR
+- 01.05-Frameworks-AMR
+- 01.06-Frameworks-UI-TrueHUD - HUD Additions
+- 01.07-Frameworks-AnimationEvents - Payload
+- 01.10-Frameworks-UI - SkyUI
+- 01.12-Frameworks-OBodyNG
+- 01.12-Frameworks-OBodyNG -Castellano
+- 01.12-Frameworks-OBodyNG -ORefitMasterList
+- 01.13-Frameworks-Physics-CBPC
+- 01.13-Frameworks-Physics-CBPC-Patch
+- 01.13-Frameworks-Physics-FSMP-NG
+- 02.00-Gameplay_separator
+- 02.01-Gameplay-Combat-ABT AE
+- 02.01-Gameplay-Combat-ABT AE-Castellano
+- 02.01-Gameplay-Combat-ProperAiming
+- 02.01-Gameplay-Combat-ReliableBlocking
+- 02.01-Gameplay-Combat-SmartNPCPotions
+- 02.01-Gameplay-Combat-SmartNPCPotions-Castellano
+- 02.01-Gameplay-Combat-Wildcat
+- 02.01-Gameplay-Combat-Wildcat-Castellano
+- 02.01-Gameplay-Combat-Wildcat-Realistic
+- 02.02-Gameplay-Magic-Mysticism
+- 02.02-Gameplay-Magic-Mysticism-Castellano
+- 02.02-Gameplay-Magic-Odin
+- 02.02-Gameplay-Magic-Odin-Castellano
+- 02.03-Gameplay-Vampires - CoverYourHead
+- 02.03-Gameplay-Vampires - Night-Eye Overhaul
+- 02.03-Gameplay-Vampires - Sacrilege
+- 02.03-Gameplay-Vampires - Sacrilege-Castellano
+- 02.03-Gameplay-Vampires - Sacrilege-Fishing
+- 02.03-Gameplay-Vampires - SunlightDispelsNight Eye
+- 02.03-Gameplay-Vampirism-BetterVampireLordTransformation
+- 02.03-Gameplay-Vampirism-SunAffectsNPCVampires
+- 02.04-Gameplay-AI-Overhaul
+- 02.05-Gameplay-Balance-Timescale
+- 02.06-Gameplay-Progression-Vokrii
+- 02.06-Gameplay-Progression-Vokrii-Castellano
+- 02.06-Gameplay-Progression-Vokrii-Mysticism
+- 02.06-Gameplay-Progression-Vokrii-Odin
+- 02.07-Gameplay-Survival-SunHelm
+- 02.07-Gameplay-Survival-SunHelm-Campfire-Castellano
+- 02.07-Gameplay-Survival-SunHelm-Castellano
+- 02.09-Gameplay-Crafting-BosmeriCuisine
+- 02.09-Gameplay-Crafting-BosmeriDrinks
+- 02.09-Gameplay-Crafting-CACO
+- 02.09-Gameplay-Crafting-CACO-Castellano
+- 02.09-Gameplay-Crafting-SmithingOverhaul
+- 02.09-Gameplay-Crafting-SmithingOverhaul-Castellano
+- 02.10-Gameplay-Economy-CoinPurse
+- 02.10-Gameplay-Economy-TradeAndBarter
+- 02.10-Gameplay-Economy-TradeAndBarter-Castellano
+- 02.12-Gameplay-StandingStones-Andromeda
+- 02.12-Gameplay-StandingStones-Andromeda-Castellano
+- 02.14-Gameplay-Races-Imperious
+- 02.14-Gameplay-Races-Imperious-Castellano
+- 02.15-Gameplay-Religion-Wintersun
+- 02.15-Gameplay-Religion-Wintersun-Castellano
+- 02.16-Gameplay-Dragons-DeadlyDragons
+- 02.16-Gameplay-Dragons-DeadlyDragons-Castellano
+- 02.16-Gameplay-Dragons-DragonSoulsToPerks
+- 02.16-Gameplay-Dragons-DragonSoulsToPerks-Castellano
+- 02.17-Gameplay-Travel-WaterFromWells
+- 02.17-Gameplay-Travel-WaterFromWells-Castellano
+- 02.18-Gameplay-Atmosphere-DirtAndBlood
+- 02.18-Gameplay-Atmosphere-DirtAndBlood-Castellano
+- 02.18-Gameplay-Atmosphere-DynamicThings
+- 02.18-Gameplay-Atmosphere-DynamicThings-Castellano
+- 03.00-Animation_separator
+- 03.01-Animation-Frameworks-MCOUniversalSupport
+- 03.01-Animation-Frameworks-TDM
+- 03.01-Animation-Frameworks-TDM - Castellano
+- 03.02-Animation-Combat-AttackMCO_DXP
+- 03.02-Animation-Combat-MovementMCO_DXP
+- 03.02-Animation-Combat-ValhallaCombat
+- 03.02-Animation-Combat-ValhallaCombat-Castellano
+- 03.03-Animation-Locomotion-EVGAnimationVariance
+- 03.03-Animation-Locomotion-EVGConditionalIdles
+- 03.03-Animation-Locomotion-SmoothCam
+- 03.03-Animation-Locomotion-SmoothCam-Castellano
+- 04.00-Visual_separator
+- 04.01-Visual-Textures-AshRocks
+- 04.01-Visual-Textures-BookCovers
+- 04.01-Visual-Textures-BookCovers-Castellano
+- 04.01-Visual-Textures-BookCovers-Texturas-Castellano
+- 04.01-Visual-Textures-BurnedCorpses
+- 04.01-Visual-Textures-BusinessLedgerHD
+- 04.01-Visual-Textures-CathedralLandscapes
+- 04.01-Visual-Textures-ForgottenRetexProject
+- 04.01-Visual-Textures-Hanaisse-DustyVampireDust
+- 04.01-Visual-Textures-Hanaisse-GlimmeringGlowDust
+- 04.01-Visual-Textures-Hanaisse-IcyWraithTeeth
+- 04.01-Visual-Textures-Hanaisse-PowderyBoneMeal
+- 04.01-Visual-Textures-Hanaisse-StillBeatingHearts
+- 04.01-Visual-Textures-JSDwarvenArtifacts
+- 04.01-Visual-Textures-JSDwarvenControlCube
+- 04.01-Visual-Textures-JSDwarvenOil
+- 04.01-Visual-Textures-JSDwemerIchorBarrels
+- 04.01-Visual-Textures-JSDwemerPuzzleCube
+- 04.01-Visual-Textures-NordicSnow
+- 04.02-Visual-Models-BlendedRoads
+- 04.02-Visual-Models-ElSopa-AmuletsHD
+- 04.02-Visual-Models-ElSopa-Anvil
+- 04.02-Visual-Models-ElSopa-AzuraStar
+- 04.02-Visual-Models-ElSopa-BloodyRags
+- 04.02-Visual-Models-ElSopa-BriarHeart
+- 04.02-Visual-Models-ElSopa-Buckets
+- 04.02-Visual-Models-ElSopa-Grindstone
+- 04.02-Visual-Models-ElSopa-IronToolsRedone
+- 04.02-Visual-Models-ElSopa-IronWeaponsRedone
+- 04.02-Visual-Models-ElSopa-PaperHD
+- 04.02-Visual-Models-ElSopa-QuiversRedone
+- 04.02-Visual-Models-ElSopa-SilverMoldRedone
+- 04.02-Visual-Models-ElSopa-TalosStatueHD
+- 04.02-Visual-Models-GloriousDoors
+- 04.02-Visual-Models-Hanaisse-FreezingColdFrostSalts
+- 04.02-Visual-Models-HighPolyProject
+- 04.02-Visual-Models-JSPursesAndSeptims
+- 04.02-Visual-Models-JSPursesAndSeptims-Castellano
+- 04.02-Visual-Models-JSShrinesOfTheDivines
+- 04.02-Visual-Models-RuinsClutterImproved
+- 04.02-Visual-Models-SDHornCandles
+- 04.02-Visual-Models-SignsOfSkyrim
+- 04.02-Visual-Models-SMIM
+- 04.02-Visual-Models-SMIM-Castellano
+- 04.02-Visual-Models-SurrealSprigganSap
+- 04.03-Visual-Lighting-EmbersXD
+- 04.03-Visual-Lighting-EmbersXD-Castellano
+- 04.03-Visual-Lighting-ENBLight
+- 04.03-Visual-Lighting-ENBLight-Castellano
+- 04.03-Visual-Lighting-EVLaS
+- 04.03-Visual-Lighting-Lux
+- 04.03-Visual-Lighting-LuxOrbis
+- 04.03-Visual-Lighting-LuxOrbis-Castellano
+- 04.03-Visual-Lighting-LuxOrbis-Patch
+- 04.03-Visual-Lighting-Lux-Update
+- 04.03-Visual-Lighting-LuxVia
+- 04.03-Visual-Lighting-LuxVia-Castellano
+- 04.03-Visual-Magic-BeautifulSigilsOfShalidor
+- 04.03-Visual-Magic-SigilsOfShalidor
+- 04.04-Visual-Weather-ENBHelper
+- 04.04-Visual-Weather-MorthalFog
+- 04.04-Visual-Weather-Obsidian
+- 04.04-Visual-Weather-Obsidian-Castellano
+- 04.04-Visual-Weather-ObsidianFogs
+- 04.04-Visual-Weather-ObsidianFogs-Castellano
+- 04.04-Visual-Weather-Obsidian-TrueStormsPatch
+- 04.04-Visual-Weather-RealRain
+- 04.04-Visual-Weather-StormLightning
+- 04.04-Visual-Weather-StormLightning-Castellano
+- 04.04-Visual-Weather-SupremeWeathers
+- 04.04-Visual-Weather-TrueStorms
+- 04.04-Visual-Weather-TrueStorms-Castellano
+- 04.04-Visual-Weather-VolkiharFog
+- 04.05-Visual-ENB-AMCConfig
+- 04.05-Visual-ENB-AurorasEnhanced
+- 04.05-Visual-ENB-EtherealCosmos
+- 04.05-Visual-ENB-MoonsOfNirn
+- 04.05-Visual-ENB-NightSkyEnhanced
+- 04.05-Visual-ENB-RudyENB
+- 04.05-Visual-ENB-RudyENB-Update
+- 04.06-Visual-Particles-DustFX
+- 04.06-Visual-Particles-ENBParticlePatch
+- 04.06-Visual-Particles-ENBParticlePatch-Castellano
+- 04.06-Visual-Particles-FireHD
+- 04.06-Visual-Particles-LuminousAtronachs
+- 04.06-Visual-Particles-SkyToneRunes
+- 04.06-Visual-Particles-SkyToneRunes-Accesories
+- 04.06-Visual-Particles-SteamingSoupsAndStews
+- 04.06-Visual-Particles-WetFunctionRedux
+- 04.06-Visual-Particles-WetFunctionRedux-Castellano
+- 04.07-Visual-Water-AnimatedForgeWater
+- 04.07-Visual-Water-ENB
+- 04.07-Visual-Water-ENB-Castellano
+- 04.07-Visual-Water-WaterfallFix
+- 04.08-Visual-Flora-FallingLeaves
+- 04.08-Visual-Flora-FloraOverhaul
+- 04.08-Visual-Flora-Folkvangr
+- 04.08-Visual-FloraGrass-Cathedral3DPineGrass
+- 04.08-Visual-Flora-HDIvy
+- 04.08-Visual-Flora-MariPack
+- 04.08-Visual-Flora-Orientalis
+- 04.08-Visual-Flora-Waterplants
+- 04.08-Visual-Flora-Waterplants-Castellano
+- 04.09-Visual-Blood-EBT
+- 04.09-Visual-Blood-EBT-Castellano
+- 04.10-Body-Female-CBBE-3BA
+- 04.10-Body-Female-CBBE-3BA-Castellano
+- 04.10-Face-ExpressiveAnimations-Female
+- 04.10-Face-ExpressiveAnimations-Male
+- 04.10-Face-ExpressiveFacegenMorphs
+- 04.10-Face-ExpressiveFacegenMorphs-Castellano
+- 04.10-Makeup-FairSkinAddons
+- 04.10-Makeup-FairSkinAddons-Makeup
+- 04.10-Textures-Female-DiamondSkin
+- 04.10-Textures-Female-DiamondSkin-NoArmPit
+- 04.10-Textures-Male-TemperedHIMBO
+- 04.11-Beards-Hvergelmir
+- 04.11-Eyes-ImprovedEyes
+- 04.11-Eyes-Improver
+- 04.11-Eyes-Reflections and Cube Map
+- 04.11-Hair-KSHairdos
+- 04.12.01-BodyPreset-AmazingCurves
+- 04.12.01-BodyPreset-BeautyBody
+- 04.12.01-BodyPreset-BigEssentials
+- 04.12.01-BodyPreset-CurvyStandard
+- 04.12.01-BodyPreset-Diamond
+- 04.12.01-BodyPreset-DibellasHarmony
+- 04.12.01-BodyPreset-DibellasMommy
+- 04.12.01-BodyPreset-GreekGoddess
+- 04.12.01-BodyPreset-Hestia
+- 04.12.01-BodyPreset-LovelyLady
+- 04.12.01-BodyPreset-NaturalCurves
+- 04.12.01-BodyPreset-P3ach
+- 04.12.01-BodyPreset-PomonaAmphora
+- 04.12.01-BodyPreset-ShapeOfWarrior
+- 04.12.01-BodyPreset-ShyGirl
+- 04.12.01-BodyPreset-Temptations
+- 04.12.01-BodyPreset-TeruApex
+- 04.12.01-BodyPreset-TouchedByDesire
+- 04.12.01-BodyPreset-ValkyrieShape
+- 04.12.01-BodyPreset-VintageMuse
+- 04.12.01-BodyPreset-Viper
+- 04.12.01-BodyPreset-Yuna
+- 04.12.02-BodyPreset-HIMBO-Aestheticus
+- 04.12.02-BodyPreset-HIMBO-GreekGod
+- 04.12.02-BodyPreset-HIMBO-MiggyluvGalore
+- 04.12.02-BodyPreset-HIMBO-Norsegod
+- 04.13-Visual-DynDOLODResources3
+- 05.00-Audio_separator
+- 05.02-Audio-Ambience-ISC
+- 05.02-Audio-Ambience-RAO
+- 05.02-Audio-Ambience-SoundsOfSkyrimComplete
+- 05.02-Audio-Ambience-SoundsOfSkyrimComplete-Castellano
+- 05.03-Audio-SFX-AOS
+- 06.00-Interface_separator
+- 06.01-Interface-HUD-iWantStatusBars
+- 06.01-Interface-HUD-UIExtensions
+- 06.01-Interface-HUD-UIExtensions-Castellano
+- 06.01-Interface-HUD-UIExtensions-FIX
+- 06.02-Interface-Menus -MenuMaid2
+- 06.02-Interface-Menus-HideSkyUI
+- 06.02-Interface-Menus-ReCleanedMenu
+- 06.04-Interface-MCM-WiderMCMMenu
+- 06.05-Interface-Books-DragonbornsBestiaryAddons
+- 06.05-Interface-Books-DragonbornsBestiaryAddons-Castellano
+- 06.05-Interface-Maps-QualityWorldMap
+- 06.05-Interface-Maps-ViewableFactionRanks
+- 06.05-Interface-Maps-ViewableFactionRanks-Castellano
+- 06.05-Interface-Maps-WeatherIntegration
+- 06.06-Interface-CursorsFonts-SovngardeFont
+- 07.00-World_separator
+- 07.01-World-Overhauls-DawnOfSkyrim
+- 07.01-World-Overhauls-DawnOfSkyrim-Castellano
+- 07.01-World-Overhauls-TheGreatCitiesMinor
+- 07.01-World-Overhauls-TheGreatCitiesMinor-Castellano
+- 07.01-World-Overhauls-TheGreatCitiesResources
+- 07.01-World-Overhauls-TheGreatCitiesResources-Castellano
+- 07.02-World-Cities-RiftenDocks
+- 07.02-World-Cities-WhiterunOutskirts
+- 07.02-World-Cities-WhiterunOutskirts-Castellano
+- 07.03-World-Towns-Environs-GreenwoodShack
+- 07.03-World-Towns-Environs-GreenwoodShack-Castellano
+- 07.03-World-Towns-Oakwood
+- 07.03-World-Towns-Oakwood-Castellano
+- 07.04-World-Villages-GreatVillageOfKynesgrove
+- 07.04-World-Villages-GreatVillageOfKynesgrove-Castellano
+- 07.04-World-Villages-Riverwood
+- 07.04-World-Villages-Riverwood-Castellano
+- 07.05-World-Dungeons-Darkend
+- 07.05-World-Dungeons-Darkend-Castellano
+- 07.05-World-Dungeons-ForgottenDungeons
+- 07.05-World-Dungeons-ForgottenDungeons-Castellano
+- 07.05-World-Dungeons-HammetDungeonPack1
+- 07.05-World-Dungeons-HammetDungeonPack1-Castellano
+- 07.05-World-Dungeons-HammetDungeonPack2
+- 07.05-World-Dungeons-HammetDungeonPack2-Castellano
+- 07.05-World-Dungeons-RynsDragonMounds
+- 07.05-World-Dungeons-RynsDragonMounds-Castellano
+- 07.05-World-Dungeons-RynsMehrunesShrin-Castellano
+- 07.05-World-Dungeons-RynsMehrunesShrine
+- 07.05-World-Dungeons-StendarrRising
+- 07.05-World-Dungeons-StendarrRising-Castellano
+- 07.05-World-Dungeons-TempleOfBlackRock
+- 07.05-World-Dungeons-TempleOfBlackRock-Castellano
+- 07.06-World-Interiors-JKs-Angeline'sAromatics
+- 07.06-World-Interiors-JKs-Angeline'sAromatics-Castellano
+- 07.06-World-Interiors-JKs-ArcadiasCauldron
+- 07.06-World-Interiors-JKs-ArcadiasCauldron-Castellano
+- 07.06-World-Interiors-JKs-ArnleifAndSonsTradingCompany
+- 07.06-World-Interiors-JKs-ArnleifAndSonsTradingCompany-Castellano
+- 07.06-World-Interiors-JKs-BanneredMare
+- 07.06-World-Interiors-JKs-BanneredMare-Castellano
+- 07.06-World-Interiors-JKs-BardsCollege
+- 07.06-World-Interiors-JKs-BardsCollege-Castellano
+- 07.06-World-Interiors-JKs-BelethorsGeneralGoods
+- 07.06-World-Interiors-JKs-BelethorsGeneralGoods-Castellano
+- 07.06-World-Interiors-JKs-BitsAndPieces
+- 07.06-World-Interiors-JKs-BitsAndPieces-Castellano
+- 07.06-World-Interiors-JKs-BluePalace
+- 07.06-World-Interiors-JKs-BluePalace-Castellano
+- 07.06-World-Interiors-JKs-CandlehearthHall
+- 07.06-World-Interiors-JKs-CandlehearthHall-Castellano
+- 07.06-World-Interiors-JKs-CastleDour
+- 07.06-World-Interiors-JKs-CastleDour-Castellano
+- 07.06-World-Interiors-JKs-DarkBrotherhoodSanctuaries
+- 07.06-World-Interiors-JKs-DarkBrotherhoodSanctuaries-Castellano
+- 07.06-World-Interiors-JKs-Dragonsreach
+- 07.06-World-Interiors-JKsDragonsreach-Castellano
+- 07.06-World-Interiors-JKs-ElgrimsElixirs
+- 07.06-World-Interiors-JKs-ElgrimsElixirs-Castelano
+- 07.06-World-Interiors-JKs-FortDawnguard
+- 07.06-World-Interiors-JKs-FortDawnguard-Castellano
+- 07.06-World-Interiors-JKs-HaelgasBunkhouse
+- 07.06-World-Interiors-JKs-HaelgasBunkhouse-Castellano
+- 07.06-World-Interiors-JKs-HagsCure
+- 07.06-World-Interiors-JKs-HagsCure-Castellano
+- 07.06-World-Interiors-JKsHighHrothgar
+- 07.06-World-Interiors-JKsHighHrothgar-Castellano
+- 07.06-World-Interiors-JKs-MistveilKeep
+- 07.06-World-Interiors-JKs-MistveilKeep-Castellano
+- 07.06-World-Interiors-JKs-NewGnisisCornerclub
+- 07.06-World-Interiors-JKs-NewGnisisCornerclub-Castellano
+- 07.06-World-Interiors-JKs-NightingaleHall
+- 07.06-World-Interiors-JKs-NightingaleHall-Castellano
+- 07.06-World-Interiors-JKs-PalaceOfTheKings
+- 07.06-World-Interiors-JKs-PalaceOfTheKings-Castellano
+- 07.06-World-Interiors-JKs-PawnedPrawn
+- 07.06-World-Interiors-JKs-PawnedPrawn-Castellano
+- 07.06-World-Interiors-JKs-RadiantRaiment
+- 07.06-World-Interiors-JKs-RadiantRaiment-Castellano
+- 07.06-World-Interiors-JKs-RaggedFlagon
+- 07.06-World-Interiors-JKs-RaggedFlagon-Castellano
+- 07.06-World-Interiors-JKs-RavenRock
+- 07.06-World-Interiors-JKs-RavenRock-Castellano
+- 07.06-World-Interiors-JKs-RiverwoodTrader
+- 07.06-World-Interiors-JKs-RiverwoodTrader-Castellano
+- 07.06-World-Interiors-JKs-SadrisUsedWares
+- 07.06-World-Interiors-JKs-SadrisUsedWares-Castellano
+- 07.06-World-Interiors-JKs-SeptimusSignusOutpost
+- 07.06-World-Interiors-JKs-SeptimusSignusOutpost-Castellano
+- 07.06-World-Interiors-JKs-SilverBloodInn
+- 07.06-World-Interiors-JKs-SilverBloodInn-Castellano
+- 07.06-World-Interiors-JKs-SinderionsFieldLaboratory
+- 07.06-World-Interiors-JKs-SinderionsFieldLaboratory-Castellano
+- 07.06-World-Interiors-JKs-SkyHavenForge
+- 07.06-World-Interiors-JKs-SkyHavenForge-Castellano
+- 07.06-World-Interiors-JKs-SkyHavenTemple
+- 07.06-World-Interiors-JKs-SkyHavenTemple-Castellano
+- 07.06-World-Interiors-JKs-SleepingGiantInn
+- 07.06-World-Interiors-JKs-SleepingGiantInn-Castellano
+- 07.06-World-Interiors-JKs-TempleOfDibella
+- 07.06-World-Interiors-JKs-TempleOfDibella-Castellano
+- 07.06-World-Interiors-JKs-TempleOfDivines
+- 07.06-World-Interiors-JKs-TempleOfDivines-Castellano
+- 07.06-World-Interiors-JKs-TempleOfKynareth
+- 07.06-World-Interiors-JKs-TempleOfKynareth-Castellano
+- 07.06-World-Interiors-JKs-TempleOfMara
+- 07.06-World-Interiors-JKs-TempleOfMara-Castellano
+- 07.06-World-Interiors-JKs-TempleOfTalos
+- 07.06-World-Interiors-JKs-TempleOfTalos-Castellano
+- 07.06-World-Interiors-JKs-TheBeeAndBarb
+- 07.06-World-Interiors-JKs-TheBeeAndBarb-Castellano
+- 07.06-World-Interiors-JKs-TheDrunkenHuntsman
+- 07.06-World-Interiors-JKs-TheDrunkenHuntsman-Castellano
+- 07.06-World-Interiors-JKs-TheWinkingSkeever
+- 07.06-World-Interiors-JKs-TheWinkingSkeever-Castellano
+- 07.06-World-Interiors-JKs-ThievesGuild
+- 07.06-World-Interiors-JKs-ThievesGuild-Castellano
+- 07.06-World-Interiors-JKs-UnderstoneKeep
+- 07.06-World-Interiors-JKs-UnderstoneKeep-Castellano
+- 07.06-World-Interiors-JKs-Volkhar
+- 07.06-World-Interiors-JKs-Volkhar-Castellano
+- 07.06-World-Interiors-JKs-Warmaidens
+- 07.06-World-Interiors-JKs-Warmaidens-Castellano
+- 07.06-World-Interiors-JKs-WindhelmOutskirts
+- 07.06-World-Interiors-JKs-WindhelmOutskirts-Castellano
+- 07.07-World-Landscapes-AncientLand
+- 07.07-World-Landscapes-CulturedOrcFurniture
+- 07.07-World-Landscapes-CulturedOrcFurniture-Castellano
+- 07.07-World-Landscapes-EnhancedLandscapes
+- 07.07-World-Landscapes-RynsFarms
+- 07.07-World-Landscapes-RynsFarms-Castellano
+- 07.08-World-FloraGrass-BugJars
+- 07.08-World-FloraGrass-BugJars2
+- 07.08-World-FloraGrass-ButterfliesUnchained
+- 07.08-World-FloraGrass-LuminescentLunaMothsSE
+- 07.09-World-Roads-LanternsOfSkyrim2
+- 07.09-World-Roads-LanternsOfSkyrim2-Castellano
+- 07.10.-World-Monuments-NocturnalShrines
+- 07.10-World-Clutter-MoreColorfulCollectibles
+- 07.10-World-Monuments-AzuraShrine
+- 07.10-World-Monuments-ClavicusVileShrine
+- 07.10-World-Monuments-DibellaStatues
+- 07.10-World-Monuments-FalmerRelicStatue
+- 07.10-World-Monuments-MaraStatue
+- 07.10-World-Monuments-MaraStatue-Bowl
+- 07.10-World-Monuments-MaraStatue-Hair
+- 07.10-World-Monuments-MeridiaPedestal
+- 07.10-World-Monuments-MeridiaStatue
+- 07.10-World-Monuments-NamiraStatue
+- 07.10-World-Monuments-NightMotherStatue
+- 07.10-World-Monuments-NocturnalStatue
+- 07.10-World-Monuments-SovngardeSentinels
+- 07.10-World-Monuments-SovngardeStatue
+- 07.10-World-Monuments-VaerminaStatue
+- 07.10-World-Ruins-FalmerRelics
+- 07.11-World-PlayerHomes-ForgottenArt
+- 07.11-World-PlayerHomes-ForgottenArt-Castellano
+- 07.11-World-PlayerHomes-HuntersCabinOfRiverwood
+- 07.11-World-PlayerHomes-HuntersCabinOfRiverwood-Castellano
+- 07.11-World-PlayerHomes-RiverfallCottage
+- 07.11-World-PlayerHomes-RiverfallCottage-CACO-Patch
+- 07.11-World-PlayerHomes-RiverfallCottage-Castellano
+- 07.12-World-NewWorld-BeyondReach
+- 07.12-World-NewWorld-BeyondReach-Castellano
+- 07.12-World-NewWorld-BeyondSkyrimBruma
+- 07.12-World-NewWorld-BeyondSkyrimBruma-Assets
+- 07.12-World-NewWorld-BeyondSkyrimBruma-Assets-Castellano
+- 07.12-World-NewWorld-BeyondSkyrimBruma-Castellano
+- 07.12-World-NewWorld-BeyondSkyrimBruma-DLC
+- 07.12-World-NewWorld-BeyondSkyrimBruma-DLC-Castellano
+- 07.12-World-NewWorld-BeyondSkyrimBruma-DLCIntegrationPatch
+- 07.12-World-NewWorld-Falskaar
+- 07.12-World-NewWorld-Falskaar-Castellano
+- 07.12-World-NewWorld-Wyrmstooth
+- 07.12-World-NewWorld-Wyrmstooth-Castellano
+- 07.12-World-NewWorld-Wyrmstooth-DragonBorn
+- 07.12-World-NewWorld-Wyrmstooth-HeartFire
+- 08.00-NPCs_separator
+- 08.09-CreaturesOverhauls-BurntSpriggan
+- 08.09-CreaturesOverhauls-DraugrFemale
+- 08.09-CreaturesOverhauls-EarthMotherSpriggan
+- 08.09-CreaturesOverhauls-EarthMotherSpriggan-PurpleLeaves
+- 08.09-CreaturesOverhauls-FlameAtronach
+- 08.09-CreaturesOverhauls-GiantsFemale
+- 08.09-CreaturesOverhauls-GiantsFemaleDress
+- 08.09-CreaturesOverhauls-HagravenAndGlenmoril
+- 08.09-CreaturesOverhauls-Matron
+- 08.09-CreaturesOverhauls-ShamanFemale
+- 08.09-CreaturesOverhauls-Spriggans
+- 08.09-CreaturesOverhauls-VampireLord-Female
+- 08.09-CreaturesOverhauls-WispMother
+- 08.09-NPCs-CreaturesOverhauls-NewAshspawnFemale
+- 09.00-Items_separator
+- 09.01-Items-CloaksRetextured
+- 09.01-Items-SkyrimFoodExpansion
+- 09.01-Items-SkyrimFoodExpansion-Castellano
+- 09.01-Items-Weapons-BetterShapedWeapons
+- 09.01-Items-Weapons-ImmersiveWeapons
+- 09.01-Items-Weapons-ImmersiveWeapons-Castellano
+- 09.02-Items-Armors-ACE
+- 09.02-Items-Armors-ACE-SPIDPatch
+- 09.02-Items-Armors-ImmersiveArmors
+- 09.02-Items-Armors-ImmersiveArmors-Castellano
+- 09.03-Items-Artifacts-RusticSoulGems
+- 09.03-Items-Artifacts-RusticSoulGems-Castellano
+- 09.09-Items-Misc-GlenmorilWitchTrophy
+- 09.09-Items-Misc-GrayFoxBust
+- 09.09-Items-Misc-PsBossStatuettes
+- 09.09-Items-Misc-PsBossStatuettes-Castellano
+- 09.09-Items-Misc-SprigganTrophy
+- 10.00-Quests_separator
+- 11.00-Adult_separator
+- 12.00-Patches_separator
+- 13.00-Overrides_separator
+- 14.00-Generators_separator
+- 14.01-Generators-NemesisOutput
+- 14.02-Generators-BodySlideOutput
+- 14.03-Generators-TexGenOutput
+- 14.04-Generators-DynDOLODOutput
+- 14.05-Generators-SynthesisOutput
+- 14.06-Generators-zEditPatchesOutput
+- 14.07-Generators-xLODGenOutput
+- 15.00-DevTools_separator
+- 15.01-DevTools-BodySlide
+- 15.04-DevTools-Logs – CrashLogger SSE AE
+- 3BAv2 Lite - SMP full
+- Am Strong
+- CBBE - Big and Strong (Bodyslide Preset)
+- DIAMOND Body Preset for CBBE and 3BBB
+- Dream Angels Body Preset - All-In-One
+- Lusty Vampire - A CBBE 3BB 3BA Bodyslide Preset for SE
+- Mistress Puff - CBBE 3BA preset
+- My Sensual Body - CBBE 3BA Bodyslide Preset
+- Nord Goddess - Bodyslide Preset
+- PB01 - 0-100 - 3BA
+- PB's Slightly Thicc 0-100 Body
+- s4rMs - Ceres Deluge -3BA
+- Strawberry Body 5
+- The Exothicc Beauty CBBE 3BA Bodyslide Preset
+- The Luscious Body - CBBE 3BA Bodyslide Preset
+- Touched by Dibella
+- Touched by Dibella SMP
+
+## Instalados (deshabilitados)
+- 04.10-Body-Male-HIMBO
+- 04.10-Body-Male-HIMBO-Castellano
+- 04.10-Body-Male-HIMBO-Refits
+- 04.12.01-Visual-Bodies-Presets-Female_separator
+- 04.12.02-Visual-Bodies-Presets-Male_separator
+
+## Faltan del core recomendado
+- Achievements Mods Enabler
+- Address Library for SKSE Plugins
+- Animation Motion Revolution
+- Base Object Swapper
+- Hide SkyUI
+- JContainers SE
+- MCM Helper
+- Nemesis Unlimited Behavior Engine
+- Open Animation Replacer
+- PapyrusUtil SE
+- Payload Interpreter
+- powerofthree's Tweaks
+- Precision
+- Scrambled Bugs
+- SKSE
+- SkyUI
+- Spell Perk Item Distributor (SPID)
+- SSE Display Tweaks
+- SSE Engine Fixes (skse64 plugin)
+- Unofficial Skyrim Special Edition Patch
+- XP32 Maximum Skeleton Special Extended
+
+## Al tocar estos, **regenera Nemesis**
+- (ninguno ahora mismo)
+
+> Nota: Engine Fixes Part 2 se verifica fuera de MO2. Display Tweaks/po3 Tweaks requieren VC++ 2022 x64.
+
+---
+## Diff vs snapshot anterior (mods **habilitados**)
+Anterior: 2025-10-19_203619
+
+### AÃ±adidos (2)
++ 02.07-Gameplay-Survival-Campfire 02.07-Gameplay-Survival-Campfire-Castellano 14.03-Generators-DynDOLOD3
++ 15.01-DevTools-BodySlide 14.07-Generators-xLODGenOutput 14.06-Generators-zEditPatchesOutput 14.05-Generators-SynthesisOutput 14.04-Generators-DynDOLODOutput 14.03-Generators-TexGenOutput 14.02-Generators-BodySlideOutput 06.01-Interface-HUD-UIExtensions-FIX 04.12.02-BodyPreset-HIMBO-Norsegod 04.12.02-BodyPreset-HIMBO-MiggyluvGalore 04.12.02-BodyPreset-HIMBO-GreekGod 04.12.02-BodyPreset-HIMBO-Aestheticus Touched by Dibella SMP Touched by Dibella The Luscious Body - CBBE 3BA Bodyslide Preset Am Strong The Exothicc Beauty CBBE 3BA Bodyslide Preset Strawberry Body 5 s4rMs - Ceres Deluge -3BA PB01 - 0-100 - 3BA PB's Slightly Thicc 0-100 Body Nord Goddess - Bodyslide Preset My Sensual Body - CBBE 3BA Bodyslide Preset Mistress Puff - CBBE 3BA preset Lusty Vampire - A CBBE 3BB 3BA Bodyslide Preset for SE Dream Angels Body Preset - All-In-One DIAMOND Body Preset for CBBE and 3BBB CBBE - Big and Strong (Bodyslide Preset) 04.12.01-BodyPreset-Yuna 04.12.01-BodyPreset-ValkyrieShape 04.12.01-BodyPreset-TouchedByDesire 04.12.01-BodyPreset-TeruApex 04.12.01-BodyPreset-Temptations 04.12.01-BodyPreset-ShapeOfWarrior 04.12.01-BodyPreset-PomonaAmphora 04.12.01-BodyPreset-LovelyLady 04.12.01-BodyPreset-GreekGoddess 04.12.01-BodyPreset-DibellasMommy 04.12.01-BodyPreset-DibellasHarmony 04.12.01-BodyPreset-Diamond 04.12.01-BodyPreset-CurvyStandard 04.12.01-BodyPreset-BigEssentials 04.12.01-BodyPreset-AmazingCurves 04.12.01-BodyPreset-BeautyBody 04.12.01-BodyPreset-Viper 04.12.01-BodyPreset-P3ach 04.12.01-BodyPreset-ShyGirl 04.12.01-BodyPreset-VintageMuse 04.12.01-BodyPreset-Hestia 04.12.01-BodyPreset-NaturalCurves 04.13-Visual-DynDOLODResources3 04.11-Eyes-Reflections and Cube Map 04.11-Eyes-Improver 04.11-Eyes-ImprovedEyes 04.11-Beards-Hvergelmir 04.11-Hair-KSHairdos 04.10-Face-ExpressiveAnimations-Male 04.10-Face-ExpressiveAnimations-Female 04.10-Face-ExpressiveFacegenMorphs-Castellano 04.10-Face-ExpressiveFacegenMorphs 04.10-Makeup-FairSkinAddons-Makeup 04.10-Makeup-FairSkinAddons 04.10-Textures-Male-TemperedHIMBO 04.10-Textures-Female-DiamondSkin-NoArmPit 04.10-Textures-Female-DiamondSkin 3BAv2 Lite - SMP full 04.10-Body-Female-CBBE-3BA-Castellano 04.10-Body-Female-CBBE-3BA 01.13-Frameworks-Physics-FSMP-NG 01.13-Frameworks-Physics-CBPC-Patch 01.13-Frameworks-Physics-CBPC 01.12-Frameworks-OBodyNG -ORefitMasterList 01.12-Frameworks-OBodyNG -Castellano 01.12-Frameworks-OBodyNG 01.01-Frameworks-SKSE-RaceMenu-Castellano 01.01-Frameworks-SKSE-RaceMenu 01.02-SurvivalEngine-Campfire-Castellano 01.02-SurvivalEngine-Campfire
+
+### Eliminados (0)
+(ninguno)

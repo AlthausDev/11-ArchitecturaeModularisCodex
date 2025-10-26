@@ -8,11 +8,17 @@
 +14.04-Generators-DynDOLODOutput
 +14.03-Generators-TexGenOutput
 +14.02-Generators-BodySlideOutput
-+14.01-Generators-NemesisOutput
++14.01-Generators-PandoraOutput
 +14.00-Generators_separator
 +13.00-Overrides_separator
++12.04-Patches-ConflictResolutions-Bathing_SPID
 +12.00-Patches_separator
 +11.00-Adult_separator
++10.02-Quests-NewQuests-CoWQuestExpansion-Castellano
++10.02-Quests-NewQuests-CoWQuestExpansion
++10.01-Quests-VanillaFixes – CuttingRoomFloor-Castellano-Voces
++10.01-Quests-VanillaFixes – CuttingRoomFloor-Castellano
++10.01-Quests-VanillaFixes – CuttingRoomFloor
 +10.00-Quests_separator
 +09.09-Items-Misc-PsBossStatuettes-Castellano
 +09.09-Items-Misc-PsBossStatuettes
@@ -30,8 +36,10 @@
 +09.02-Items-Armors-ImmersiveArmors
 +09.01-Items-Weapons-ImmersiveWeapons-Castellano
 +09.01-Items-Weapons-ImmersiveWeapons
-+09.01-Items-Weapons-BetterShapedWeapons
 +09.00-Items_separator
++08.10-NPCs-CreaturesNew – Fairies-ENBLightAddon
++08.10-NPCs-CreaturesNew – Fairies-Castellano
++08.10-NPCs-CreaturesNew – Fairies
 +08.09-CreaturesOverhauls-EarthMotherSpriggan-PurpleLeaves
 +08.09-CreaturesOverhauls-EarthMotherSpriggan
 +08.09-CreaturesOverhauls-BurntSpriggan
@@ -93,12 +101,29 @@
 +07.08-World-FloraGrass-LuminescentLunaMothsSE
 +07.08-World-FloraGrass-BugJars2
 +07.08-World-FloraGrass-BugJars
++07.07-World-Landscapes – DepthsOfSkyrim-Castellano
++07.07-World-Landscapes – DepthsOfSkyrim
 +07.07-World-Landscapes-EnhancedLandscapes
 +07.07-World-Landscapes-AncientLand
 +07.07-World-Landscapes-RynsFarms-Castellano
 +07.07-World-Landscapes-RynsFarms
 +07.07-World-Landscapes-CulturedOrcFurniture-Castellano
 +07.07-World-Landscapes-CulturedOrcFurniture
++07.06-World-Interiors-ObscuresCollegeOfWinterhold-FliyingBooks
++07.06-World-Interiors-ObscuresCollegeOfWinterhold-MageLight
++07.06-World-Interiors-ObscuresCollegeOfWinterhold-Castellano
++07.06-World-Interiors-ObscuresCollegeOfWinterholdNPCStuckFix
++07.06-World-Interiors-ObscuresCollegeOfWinterhold
++07.06-World-Interiors – FriendlierTavernsBaths-FIX
++07.06-World-Interiors – FriendlierTavernsBaths
++07.06-World-Interiors – RIftenBathhouse-Castellano
++07.06-World-Interiors – RIftenBathhouse
++07.06-World-Interiors – FalkreathBathhouse-Castellano
++07.06-World-Interiors – FalkreathBathhouse
++07.06-World-Interiors – SolitudePublicBathhouse-Castellano
++07.06-World-Interiors – SolitudePublicBathhouse
++07.06-World-Interiors – DibellanBaths-Castellano
++07.06-World-Interiors – DibellanBaths
 +07.06-World-Interiors-JKs-SeptimusSignusOutpost-Castellano
 +07.06-World-Interiors-JKs-SeptimusSignusOutpost
 +07.06-World-Interiors-JKs-SadrisUsedWares-Castellano
@@ -252,22 +277,22 @@
 +04.12.02-BodyPreset-HIMBO-GreekGod
 +04.12.02-BodyPreset-HIMBO-Aestheticus
 -04.12.02-Visual-Bodies-Presets-Male_separator
-+Touched by Dibella SMP
-+Touched by Dibella
-+The Luscious Body - CBBE 3BA Bodyslide Preset
-+Am Strong
-+The Exothicc Beauty CBBE 3BA Bodyslide Preset
-+Strawberry Body 5
-+s4rMs - Ceres Deluge -3BA
-+PB01 - 0-100 - 3BA
-+PB's Slightly Thicc 0-100 Body
-+Nord Goddess - Bodyslide Preset
-+My Sensual Body - CBBE 3BA Bodyslide Preset
-+Mistress Puff - CBBE 3BA preset
-+Lusty Vampire - A CBBE 3BB 3BA Bodyslide Preset for SE
-+Dream Angels Body Preset - All-In-One
-+DIAMOND Body Preset for CBBE and 3BBB
-+CBBE - Big and Strong (Bodyslide Preset)
++04.12.01-BodyPreset-TouchedByDibellaSMP
++04.12.01-BodyPreset-TouchedByDibella
++04.12.01-BodyPreset-LusciousBody
++04.12.01-BodyPreset-AmStrong
++04.12.01-BodyPreset-ExothiccBeauty
++04.12.01-BodyPreset-Strawberry5
++04.12.01-BodyPreset-CeresDeluge
++04.12.01-BodyPreset-PB01
++04.12.01-BodyPreset-SlightlyThicc
++04.12.01-BodyPreset-NordGoddess
++04.12.01-BodyPreset-MySensualBody
++04.12.01-BodyPreset-MistressPuff
++04.12.01-BodyPreset-LustyVampire
++04.12.01-BodyPreset-DreamAngels
++04.12.01-BodyPreset-Diamond 2
++04.12.01-BodyPreset-BigAndStrong
 +04.12.01-BodyPreset-Yuna
 +04.12.01-BodyPreset-ValkyrieShape
 +04.12.01-BodyPreset-TouchedByDesire
@@ -291,6 +316,11 @@
 +04.12.01-BodyPreset-Hestia
 +04.12.01-BodyPreset-NaturalCurves
 -04.12.01-Visual-Bodies-Presets-Female_separator
++04.15-Visual-Performance – UPOT
++04.14-Visual-Effects – SmokingTorchesAndCandles
++04.14-Visual-Effects – Footprints-Castellano
++04.14-Visual-Effects – Footprints-ENB
++04.14-Visual-Effects – Footprints
 +04.13-Visual-DynDOLODResources3
 +04.11-Eyes-Reflections and Cube Map
 +04.11-Eyes-Improver
@@ -309,11 +339,10 @@
 -04.10-Body-Male-HIMBO-Castellano
 -04.10-Body-Male-HIMBO-Refits
 -04.10-Body-Male-HIMBO
-+3BAv2 Lite - SMP full
++04.10-Visual-SkinBodies-3BAv2LiteSMP
 +04.10-Body-Female-CBBE-3BA-Castellano
 +04.10-Body-Female-CBBE-3BA
-+04.09-Visual-Blood-EBT-Castellano
-+04.09-Visual-Blood-EBT
++04.09-Visual-Blood-SanguineSymphony
 +04.08-Visual-FloraGrass-Cathedral3DPineGrass
 +04.08-Visual-Flora-HDIvy
 +04.08-Visual-Flora-Waterplants-Castellano
@@ -334,6 +363,7 @@
 +04.06-Visual-Particles-SteamingSoupsAndStews
 +04.06-Visual-Particles-SkyToneRunes
 +04.06-Visual-Particles-SkyToneRunes-Accesories
++04.06-Visual-Particles-LightsDeathbellsNirnroots
 +04.06-Visual-Particles-LuminousAtronachs
 +04.06-Visual-Particles-ENBParticlePatch-Castellano
 +04.06-Visual-Particles-ENBParticlePatch
@@ -372,6 +402,11 @@
 +04.03-Visual-Lighting-ENBLight
 +04.03-Visual-Lighting-EmbersXD-Castellano
 +04.03-Visual-Lighting-EmbersXD
++04.02-Visual-Models-SecurityRegionalLocks
++04.02-Visual-Models-SecurityExtraLocks
++04.02-Visual-Models-SecurityAddons
++04.02-Visual-Models-SecurityVariations
++04.02-Visual-Models-NordicLocks
 +04.02-Visual-Models-HighPolyProject
 +04.02-Visual-Models-SignsOfSkyrim
 +04.02-Visual-Models-JSShrinesOfTheDivines
@@ -392,6 +427,7 @@
 +04.02-Visual-Models-ElSopa-Anvil
 +04.02-Visual-Models-ElSopa-Buckets
 +04.02-Visual-Models-ElSopa-AzuraStar
++04.02-Visual-Models – LeanWolfsBetterShapedWeapons
 +04.02-Visual-Models-Hanaisse-FreezingColdFrostSalts
 +04.02-Visual-Models-RuinsClutterImproved
 +04.02-Visual-Models-GloriousDoors
@@ -418,6 +454,7 @@
 +04.01-Visual-Textures-NordicSnow
 +04.01-Visual-Textures-CathedralLandscapes
 +04.00-Visual_separator
++03.03-Animation-Locomotion-BISR_MalignisAnimations
 +03.03-Animation-Locomotion-SmoothCam-Castellano
 +03.03-Animation-Locomotion-SmoothCam
 +03.03-Animation-Locomotion-EVGAnimationVariance
@@ -430,8 +467,6 @@
 +03.01-Animation-Frameworks-TDM - Castellano
 +03.01-Animation-Frameworks-TDM
 +03.00-Animation_separator
-+02.18-Gameplay-Atmosphere-DynamicThings-Castellano
-+02.18-Gameplay-Atmosphere-DynamicThings
 +02.18-Gameplay-Atmosphere-DirtAndBlood-Castellano
 +02.18-Gameplay-Atmosphere-DirtAndBlood
 +02.17-Gameplay-Travel-WaterFromWells-Castellano
@@ -444,25 +479,44 @@
 +02.15-Gameplay-Religion-Wintersun
 +02.14-Gameplay-Races-Imperious-Castellano
 +02.14-Gameplay-Races-Imperious
++02.13-Gameplay-PerkTrees – ExtraExtraEffect
 +02.12-Gameplay-StandingStones-Andromeda-Castellano
 +02.12-Gameplay-StandingStones-Andromeda
++02.10-Gameplay-Economy – LockRelatedLoot
++02.10-Gameplay-Economy – BarenziahBonus
 +02.10-Gameplay-Economy-TradeAndBarter-Castellano
 +02.10-Gameplay-Economy-TradeAndBarter
 +02.10-Gameplay-Economy-CoinPurse
++02.09-Gameplay-Crafting-ArtisanSoaps
 +02.09-Gameplay-Crafting-BosmeriDrinks
 +02.09-Gameplay-Crafting-BosmeriCuisine
 +02.09-Gameplay-Crafting-SmithingOverhaul-Castellano
 +02.09-Gameplay-Crafting-SmithingOverhaul
 +02.09-Gameplay-Crafting-CACO-Castellano
 +02.09-Gameplay-Crafting-CACO
++02.08-Gameplay-Needs-BathingInSkyrimReAnimated-Castellano
++02.08-Gameplay-Needs-BathingInSkyrimReAnimated
 +02.07-Gameplay-Survival-SunHelm-Campfire-Castellano
 +02.07-Gameplay-Survival-SunHelm-Castellano
 +02.07-Gameplay-Survival-SunHelm
++02.06-Gameplay-Progression – ReadingIsGood
++02.06-Gameplay-Progression – TrainingDummiesXP-Castellano
++02.06-Gameplay-Progression – TrainingDummiesXP
++02.06-Gameplay-Progression – TimeBasedScalingSystem
++02.06-Gameplay-Progression – TalkingImprovesSpeech
++02.06-Gameplay-Progression – SkillBasedStatGrowth
++02.06-Gameplay-Progression – AlchemyXPFromNirnroot
 +02.06-Gameplay-Progression-Vokrii-Mysticism
 +02.06-Gameplay-Progression-Vokrii-Odin
 +02.06-Gameplay-Progression-Vokrii-Castellano
 +02.06-Gameplay-Progression-Vokrii
 +02.05-Gameplay-Balance-Timescale
++02.04-Gameplay-AI – RealisticConversationsLite
++02.04-Gameplay-AI – RunForYourLives-Castellano
++02.04-Gameplay-AI – RunForYourLives
++02.04-Gameplay-AI – WetAndCold-TrueStorms
++02.04-Gameplay-AI – WetAndCold-Castellano
++02.04-Gameplay-AI – WetAndCold
 +02.04-Gameplay-AI-Overhaul
 +02.03-Gameplay-Vampirism-BetterVampireLordTransformation
 +02.03-Gameplay-Vampirism-SunAffectsNPCVampires
@@ -493,27 +547,35 @@
 +01.12-Frameworks-OBodyNG -Castellano
 +01.12-Frameworks-OBodyNG
 +01.10-Frameworks-UI - SkyUI
++01.09-Frameworks-PowerOfThree – SeasonsOfSkyrimSKSE
 +01.07-Frameworks-AnimationEvents - Payload
 +01.06-Frameworks-UI-TrueHUD - HUD Additions
 +01.05-Frameworks-AMR
 +01.04-Frameworks-OAR
-+01.03-Frameworks-Nemesis
+-01.03-Frameworks-Nemesis
++01.03-Frameworks-Pandora
 +01.02-Frameworks-Behavior-AnimationQueueFix
 +01.02-Frameworks-Behavior - Precision
 +01.02-Frameworks-Behavior - XPMSSE
 +01.01-Frameworks-SKSE-RaceMenu-Castellano
 +01.01-Frameworks-SKSE-RaceMenu
 +01.00-Frameworks_separator
++00.10-Core-Extenders-SkyPatcherAE
++00.10-Core-Extenders-DescriptionFramework
++00.10-Core-Extenders-CoreImpactFramework
++00.10-Core-Extenders - ScrabsPapyrusExtender
 +00.10-Core-Extenders - po3 Papyrus Extender
 +00.09-Core-FormLists – KID (Keyword Item Distributor)
 +00.09-Core-FormLists - SPID
 +00.08-Core-BaseObjectSwapper
 +00.07-Core-Utilities - Achievements
 +00.06-Core-LibrariesPO3
++00.05-Core-ScriptExtenders-FuzRoDoh
 +00.05-Core-ScriptExtenders – ConsoleUtil NG
 +00.05-Core-ScriptExtenders - MCMHelper
 +00.05-Core-ScriptExtenders - JContainers
 +00.05-Core-ScriptExtenders - PapyrusUtil
++00.04-Core-BugFixes-OverlayFix
 +01.02-SurvivalEngine-Campfire-Castellano
 +01.02-SurvivalEngine-Campfire
 +00.04-Core-BugFixes-Bug Fixes SSE

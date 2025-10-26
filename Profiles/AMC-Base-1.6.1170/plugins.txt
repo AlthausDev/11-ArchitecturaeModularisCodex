@@ -17,15 +17,17 @@
 *Embers XD.esm
 *mannyBlackRock.esm
 *Lux - Resources.esp
-*Expressive Facegen Morphs.esl
 *Campfire.esm
+*Expressive Facegen Morphs.esl
 *Lux Via.esp
 *Wyrmstooth.esp
 *DynDOLOD.esm
 *SmoothCam.esl
+*melyfairy.esl
 *Night Eye Overhaul.esm
 *TrueHUD.esl
 *Particle Patch for ENB.esp
+SoapRetex_BIS.esp
 Smithing Perks Overhaul SE.esp
 LoS II - 3DNPC addon.esp
 RealRainSEVivid.esp
@@ -209,7 +211,6 @@ Supreme Weathers - Mists of Tamriel-Obsidian Weathers-Rudy ENB Patch.esp
 *MoreColorfulAuroras.esp
 *Cathedral - 3D Pine Grass.esp
 *FloraOrientalis.esp
-*dD - Enhanced Blood Main.esp
 *Skyrim Food Expansion.esp
 *Skyrim Food Expansion - Artichoke Plants.esp
 *LuminousAtronachs.esp
@@ -222,7 +223,6 @@ Supreme Weathers - Mists of Tamriel-Obsidian Weathers-Rudy ENB Patch.esp
 *ABT SE - Recover Ammo.esp
 *DeadlyDragons.esp
 *JKs The Drunken Huntsman.esp
-*Dynamic Things Alternative.esp
 *Dirt and Blood - Dynamic Visuals.esp
 *Proper Aiming.esp
 *MBW Dragon Souls to Perk Points - v3-2.esp
@@ -255,7 +255,7 @@ Supreme Weathers - Mists of Tamriel-Obsidian Weathers-Rudy ENB Patch.esp
 *RaceMenuMorphsTBD.esp
 *TouchedbyDibella.esp
 *Imperious - Races of Skyrim.esp
-*Trade & Barter.esp
+*trade & barter.esp
 *Complete Alchemy & Cooking Overhaul.esp
 *ButterfliesUnchained.esp
 *JK's Riverfall Cottage - CACO Patch.esp
@@ -274,3 +274,48 @@ Supreme Weathers - Mists of Tamriel-Obsidian Weathers-Rudy ENB Patch.esp
 *CoinPurseIncrease.esp
 *DynDOLOD.esp
 *Occlusion.esp
+*SnowOverSkyrim.esp
+College Of Winterhold - Quest Expansion.esp
+cutting room floor.esp
+*melyfairy.esp
+Dibellan Baths.esp
+Friendlier Taverns.esp
+bathhouse.esp
+DepthsOfSkyrim.esp
+Falkreath_Bathhouse.esp
+*OCW_Obscure's_CollegeofWinterhold.esp
+OCW_ACE_FEPatch.esp
+*OCW_MCW Flying Books.esp
+*OCW_MaMO_FEPatch.esp
+*OCW_BCS_FEPatch.esp
+*OCW_AO_FEPatch.esp
+*ocw door fix.esp
+OCW_CellSettings.esp
+*OCW_CWI Exterior Magelights.esp
+*OCW_TGCs_FEPatch.esp
+*OCW_SoS_FEPatch.esp
+Riften_Bathhouse.esp
+*Footprints.esp
+*Footprints - ENB.esp
+*Smoking Torches And Candles.esp
+*Sanguine Symphony.esp
+*Malignis Sound FX.esp
+*LockRelatedLoot.esp
+*Barenziah_Bonus.esp
+*Extra Extra Effect.esp
+*Realistic-Voice.esp
+*run for your lives.esp
+*WetandCold.esp
+*Obsidian_TS_Wet&Cold_Patch.esp
+*TrueStorms_Wet&Cold_Patch.esp
+*ArcheryDummyXP.esp
+*Bathing in Skyrim.esp
+Bathing in Skyrim - Bathing Token.esp
+*Bathing in Skyrim - CACO Patch.esp
+Bathing in Skyrim - First Person Messages.esp
+*GF02_TTS_TalkingTrainsSpeechcraft.esp
+*Training Dummies & Targets - Falskaar Edition.esp
+*ReadingIsGood.esp
+*NirnrootAlchemyExperience.esp
+*RoleRim - Stats.esp
+*Time-Based_Scaling.esp
