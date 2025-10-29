@@ -9,72 +9,300 @@
 +14.03-Generators-TexGenOutput
 +14.02-Generators-BodySlideOutput
 +14.01-Generators-PandoraOutput
-+14.00-Generators_separator
-+13.00-Overrides_separator
+-14.00-Generators_separator
+-13.00-Overrides_separator
++12.04-Patches-AI_NPC_Visual-CreaturesFluffworks
 +12.04-Patches-ConflictResolutions-Bathing_SPID
 +12.00-Patches_separator
 +11.00-Adult_separator
++10.02-Quests-NewQuests-DauntingScarsSlenderMan-Castellano
++10.02-Quests-NewQuests-DauntingScarsSlenderMan
 +10.02-Quests-NewQuests-CoWQuestExpansion-Castellano
 +10.02-Quests-NewQuests-CoWQuestExpansion
 +10.01-Quests-VanillaFixes – CuttingRoomFloor-Castellano-Voces
 +10.01-Quests-VanillaFixes – CuttingRoomFloor-Castellano
 +10.01-Quests-VanillaFixes – CuttingRoomFloor
 +10.00-Quests_separator
++09.02-Items-Armor-DustAdept-Catesllano
++09.02-Items-Armor-DustAdept
 +09.09-Items-Misc-HandheldLanternsSMP
 +09.09-Items-Misc-PsBossStatuettes-Castellano
 +09.09-Items-Misc-PsBossStatuettes
 +09.09-Items-Misc-SprigganTrophy
 +09.09-Items-Misc-GlenmorilWitchTrophy
 +09.09-Items-Misc-GrayFoxBust
-+09.01-Items-SkyrimFoodExpansion-Castellano
-+09.01-Items-SkyrimFoodExpansion
-+09.01-Items-CloaksRetextured
++09.07-Items-Food-SkyrimFoodExpansion-Castellano
++09.07-Items-Food-SkyrimFoodExpansion
 +09.03-Items-Artifacts-RusticSoulGems-Castellano
 +09.03-Items-Artifacts-RusticSoulGems
++09.02-Items-Armors-CloaksRetextured
 +09.02-Items-Armors-ACE-SPIDPatch
 +09.02-Items-Armors-ACE
 +09.02-Items-Armors-ImmersiveArmors-Castellano
 +09.02-Items-Armors-ImmersiveArmors
 +09.01-Items-Weapons-ImmersiveWeapons-Castellano
 +09.01-Items-Weapons-ImmersiveWeapons
-+09.00-Items_separator
+-09.00-Items_separator
+-Resplendent Royals - Jarl's Court NPC Overhaul - Spanish
+-Resplendent Royals - Jarl's Court NPC Overhaul
+-Project Cougar - Lillith Maiden-Loom
+-Project ja-Kha'jay
+-Project Cougar - Helgird
+-Project Cougar - Grelod the Kind
+-Project Cougar - Fralia Greymane
+-Project Cougar - Bergritte Battleborn
+-Project Cougar - Anise
+-Project ja-Kha'jay- Khajiit NPC Diversity Overhaul-Himbo
+-Project ja-Kha'jay- Khajiit NPC Diversity Overhaul
+-Children of the Hist - An Argonian NPC Overhaul - Spanish
+-Children of the Hist - An Argonian NPC Overhaul
+-Children of the First - An Altmer NPC Overhaul
+-Children of the Ash - A Dunmer NPC Overhaul
+-Bijin All-In-One - Hair Physics Patch (KS Hairdos - HDT SMP)
+-BB's Uthgerd the Unbroken and Preset
+-BB's The Dark Brotherhood NPC Overhaul Revisited
+-BB's College of Winterhold NPC Overhaul Revisited
+-Project Cougar - Tilma the (mildly less) Haggard
+-PROJECT COUGAR - Olava the Feeble
+-Project Cougar - Inge Six-Fingers
+-Project Cougar - Idgrod the Younger
+-Project Cougar - Hilde from Riverwood
+-Project Cougar - Hafjorg
+-08.99-NPCs-Repository_separator
++08.09-NPCs-CreaturesOverhauls-CompetentPelagiaGiant
++08.09-NPCs-CreaturesOverhauls-LessMythicalGiant
++08.09-NPCs-CreaturesOverhauls-MythicalGiant
++08.09-NPCs-CreaturesOverhauls-Giant-Textures
++08.99-NPCs-Repository-HumanoidAssets-CBBE
++08.99-NPCs-Repository-HumanoidAssets-HIMBO
++08.99-NPCs-Repository-HumanoidAssets
++08.99-NPCs-Repository-CreatureAssets
++08.11-NPCs-CreaturesBosses-Skinshifters
++08.11-NPCs-CreaturesBosses-Gravelords-Castellano
++08.11-NPCs-CreaturesBosses-Gravelords
++08.11-NPCs-CreaturesBosses-OldGodsOfTheHunt-Castellano
++08.11-NPCs-CreaturesBosses-OldGodsOfTheHunt
++08.10-NPCs-CreaturesNew-Dryads-Castellano
++08.10-NPCs-CreaturesNew-Dryads
++08.10-NPCs-CreaturesNew-ShroomBeetles-Castellano
++08.10-NPCs-CreaturesNew-ShroomBeetles
++08.10-NPCs-CreaturesNew-Otters-Castellano
++08.10-NPCs-CreaturesNew-Otters
++08.10-NPCs-CreaturesNew-LuckyKoi
++08.10-NPCs-CreaturesNew-CrystalMudcrabs
++08.10-NPCs-CreaturesNew-Bogmort-Castellano
++08.10-NPCs-CreaturesNew-Bogmort
++08.10-NPCs-CreaturesNew-Coelacanth
++08.10-NPCs-CreaturesNew-MorrowindMerchants-Castellano
++08.10-NPCs-CreaturesNew-MorrowindMerchants
++08.10-NPCs-CreaturesNew-MatingCrabs
++08.10-NPCs-CreaturesNew-HouseCats-Castellano
++08.10-NPCs-CreaturesNew-HouseCats-Xtudo-NoCollar
++08.10-NPCs-CreaturesNew-HouseCats-Xtudo
++08.10-NPCs-CreaturesNew-HouseCats
++08.10-NPCs-CreaturesNew-Hammerfell Imports-Castellano
++08.10-NPCs-CreaturesNew-Hammerfell Imports
++08.10-NPCs-CreaturesNew-FiendrothBeetle-Textures
++08.10-NPCs-CreaturesNew-FiendrothBeetle-Castellano
++08.10-NPCs-CreaturesNew-FiendrothBeetle
++08.10-NPCs-CreaturesNew-EmperorPenguins-Castellano
++08.10-NPCs-CreaturesNew-EmperorPenguins
++08.10-NPCs-CreaturesNew-Goblins-Castellano
++08.10-NPCs-CreaturesNew-Goblins
++08.10-NPCs-CreaturesNew-SkeletalVampiresShadowPredators
++08.10-NPCs-CreaturesNew-RottenMudcrabs-Catellano
++08.10-NPCs-CreaturesNew-RottenMudcrabs
++08.10-NPCs-CreaturesNew-Ograt
++08.10-NPCs-CreaturesNew-SeaTurtles-Castellano
++08.10-NPCs-CreaturesNew-SeaTurtles
++08.10-NPCs-CreaturesNew-Swans-Castellano
++08.10-NPCs-CreaturesNew-Swans
++08.10-NPCs-CreaturesNew-ChubLoons-Castellano
++08.10-NPCs-CreaturesNew-ChubLoons
++08.10-NPCs-CreaturesNew-DwarvenAlarmSentries
++08.10-NPCs-CreaturesNew-CrowsAndRavens-Castellano
++08.10-NPCs-CreaturesNew-CrowsAndRavens
++08.10-NPCs-CreaturesNew-Wendigo-Castellano
++08.10-NPCs-CreaturesNew-Wendigo
++08.10-NPCs-CreaturesNew-VariousFish
++08.10-NPCs-CreaturesNew-TrollCubs
++08.10-NPCs-CreaturesNew-UndeadSnowElves-Castellano
++08.10-NPCs-CreaturesNew-UndeadSnowElves
++08.10-NPCs-CreaturesNew-SewerRats-Castellano
++08.10-NPCs-CreaturesNew-SewerRats
++08.10-NPCs-CreaturesNew-Seagulls-Castellano
++08.10-NPCs-CreaturesNew-Seagulls
++08.10-NPCs-CreaturesNew-InfantSkeletons
++08.10-NPCs-CreaturesNew-Frogs-Castellano
++08.10-NPCs-CreaturesNew-Frogs
++08.10-NPCs-CreaturesNew-DwarvenAutomatons-Castellano
++08.10-NPCs-CreaturesNew-DwarvenAutomaton
++08.10-NPCs-CreaturesNew-ChickensChicks-Castellano
++08.10-NPCs-CreaturesNew-ChickensChicks
++08.10-NPCs-CreaturesNew-BirdsPreyFelsaadTerns-Castellano
++08.10-NPCs-CreaturesNew-BirdsPreyFelsaadTerns
++08.10-NPCs-CreaturesNew-AncientNordicSentinel-Castellano
++08.10-NPCs-CreaturesNew-AncientNordicSentinel
++08.10-NPCs-CreaturesNew-SkyWhales
++08.10-NPCs-CreaturesNew-Owl
++08.10-NPCs-CreaturesNew-MudcrabMerchant-Castellano
++08.10-NPCs-CreaturesNew-MudcrabMerchant
 +08.10-NPCs-CreaturesNew – Fairies-ENBLightAddon
 +08.10-NPCs-CreaturesNew – Fairies-Castellano
 +08.10-NPCs-CreaturesNew – Fairies
++08.10-NPCs-CreaturesNew-LunaMothsLuminescent
++08.09-NPCs-CreaturesOverhauls-DynamicAnimalVariantsSPID
++08.09-NPCs-CreatureOverhauls-AncientStalhrimDraugr
++08.09-NPCs-CreaturesOverhauls-Dremora-Castellano
++08.09-NPCs-CreaturesOverhauls-Dremora
++08.09-NPCs-CreaturesOverhauls-FishVariantsLace
++08.09-NPCs-CreaturesOverhauls-FishVariantsRacks
++08.09-NPCs-CreaturesOverhauls-FishVariants
++08.09-NPCs-CreaturesOverhauls-AtronachMatriarchs
++08.09-NPCs-CreaturesOverhauls-Goblins
 +08.09-CreaturesOverhauls-EarthMotherSpriggan-PurpleLeaves
 +08.09-CreaturesOverhauls-EarthMotherSpriggan
 +08.09-CreaturesOverhauls-BurntSpriggan
 +08.09-CreaturesOverhauls-Spriggans
++08.09-NPCs-CreaturesOverhauls-StormAtronachFemale
++08.09-NPCs-CreaturesOverhauls-Pigeons-Castellano
++08.09-NPCs-CreaturesOverhauls-Pigeons
++08.09-NPCs-CreaturesOverhauls-Mammoths-Castellano
++08.09-NPCs-CreaturesOverhauls-Mammoths
++08.09-NPCs-CreaturesOverhauls-HiveGuardians-Castellano
++08.09-NPCs-CreaturesOverhauls-HiveGuardians
++08.09-NPCs-CreaturesOverhauls-CoralAtronachs
++08.09-NPCs-CreaturesOverhauls-Bellyaches
++08.09-NPCs-CreaturesOverhauls-Bears-Castellano
++08.09-NPCs-CreaturesOverhauls-Bears
++08.09-NPCs-CreaturesOverhauls-Gargoyle
++08.09-NPCs-CreaturesOverhauls-Nocturnal'sBirdsReplacer
++08.09-NPCs-CreaturesOverhauls-MoreHircinicAspects-Castellano
++08.09-NPCs-CreaturesOverhauls-MoreHircinicAspects
++08.09-NPCs-CreaturesOverhauls-MoreChickenVariants
++08.09-NPCs-CreaturesOverhauls-DamagedSkeletons-Castellano
++08.09-NPCs-CreaturesOverhauls-DamagedSkeletons
++08.09-NPCs-CreaturesOverhauls-AshspawnDistributor
++08.09-NPCs-CreaturesOverhauls-NewAshspawnFemale
++08.09-NPCs-CreaturesOverhauls-PhotorealisticPyroclasticAshspawn
++08.09-NPCs-CreaturesOverhauls-SpriggansStandalone-Castellano
++08.09-NPCs-CreaturesOverhauls-SpriggansStandalone
 +08.09-CreaturesOverhauls-WispMother
 +08.09-CreaturesOverhauls-Matron
 +08.09-CreaturesOverhauls-FlameAtronach
-+08.09-NPCs-CreaturesOverhauls-NewAshspawnFemale
-+08.09-CreaturesOverhauls-GiantsFemaleDress
++08.09-NPCs-CreaturesOverhauls-GiantessDistributor
++08.09-NPCs-CreaturesOverhauls-GiantsFemaleDress
++08.09-NPCs-CreaturesOverhauls-GiantsFemaleBra
++08.09-NPCs-CreaturesOverhauls-GiantsCozy
 +08.09-CreaturesOverhauls-GiantsFemale
 +08.09-CreaturesOverhauls-DraugrFemale
 +08.09-CreaturesOverhauls-ShamanFemale
 +08.09-CreaturesOverhauls-HagravenAndGlenmoril
 +08.09-CreaturesOverhauls-VampireLord-Female
++08.08-NPCs-Populated-CivilWarCheckpoints-Patch
++08.08-NPCs-Populated-CivilWarCheckpoints-Castellano
++08.08-NPCs-Populated-CivilWarCheckpoints
 +08.08-NPCs-Populated-PopulatedRoads-Castellano
 +08.08-NPCs-Populated-PopulatedRoads
 +08.08-NPCs-Populated-ImmersiveWenches-Castellano
 +08.08-NPCs-Populated-ImmersiveWenches
 +08.08-NPCs-Populated-ImmersivePatrols-Castellano
 +08.08-NPCs-Populated-ImmersivePatrols
++08.07-NPCs-Enemies-DeadlyWenches-Castellano
++08.07-NPCs-Enemies-DeadlyWenches
 +08.07-NPCs-Enemies-OBIS-Castellano
 +08.07-NPCs-Enemies-OBIS
 +08.07-NPCs-Enemies-HuntersNotBandits-Castellano
 +08.07-NPCs-Enemies-HuntersNotBandits
-+08.03-NPCs-Appearance-BosmerAntlers
++08.06-NPCs-FollowersNew-AxarienAnimations
++08.06-NPCs-FollowersNew-Vilja-Castellano
++08.06-NPCs-FollowersNew-Vilja
++08.06-NPCs-FollowersNew-Hoth-Castellano
++08.06-NPCs-FollowersNew-Hoth
++08.06-NPCs-FollowersNew-Remiel-Castellano
++08.06-NPCs-FollowersNew-Remiel
++08.06-NPCs-FollowersNew-Xelzaz-Textures
++08.06-NPCs-FollowersNew-Xelzaz-Wyrmsthoot
++08.06-NPCs-FollowersNew-Xelzaz-Fix-Castellano
++08.06-NPCs-FollowersNew-Xelzaz-Fix
++08.06-NPCs-FollowersNew-Xelzaz-Castellano
++08.06-NPCs-FollowersNew-Xelzaz
++08.06-NPCs-FollowersNew-ValSerano-Castellano
++08.06-NPCs-FollowersNew-ValSerano
++08.06-NPCs-FollowersNew-Redcap-Castellano
++08.06-NPCs-FollowersNew-Redcap
++08.06-NPCs-FollowersNew-Faye-Castellano
++08.06-NPCs-FollowersNew-Faye
++08.06-NPCs-FollowersNew-Kaidan2-Patch-Castellano
++08.06-NPCs-FollowersNew-Kaidan2-patch
++08.06-NPCs-FollowersNew-Kaidan2-Castellano
++08.06-NPCs-FollowersNew-Kaidan2
++08.06-NPCs-FollowersNew-Auri-Patch-Castellano
++08.06-NPCs-FollowersNew-Auri-Patch
++08.06-NPCs-FollowersNew-Auri-Castellano
++08.06-NPCs-FollowersNew-Auri
++08.06-NPCs-FollowersNew-Lucien-Bruma-Castellano
++08.06-NPCs-FollowersNew-Lucien-CC-Castellano
++08.06-NPCs-FollowersNew-Lucien-Castellano
++08.06-NPCs-FollowersNew-Lucien-Bruma
++08.06-NPCs-FollowersNew-Lucien-CC
++08.06-NPCs-FollowersNew-Lucien
++08.06-NPCs-FollowersNew-Inigo-Castellano
++08.06-NPCs-FollowersNew-Inigo
++08.05-NPCs-FollowersFrameworks-SeranaDialogueFixes-Castellano
++08.05-NPCs-FollowersFrameworks-SeranaDialogueFixes
++08.05-NPCs-FollowersFrameworks-SDA-NFFPatch-Castellano
++08.05-NPCs-FollowersFrameworks-SDA-Hotfix-Castellano
++08.05-NPCs-FollowersFrameworks-SDA-Castellano
++08.05-NPCs-FollowersFrameworks-SDA
++08.05-NPCs-FollowersFrameworks-FCO-Castellano
++08.05-NPCs-FollowersFrameworks-FCO
++08.05-NPCs-FollowersFrameworks-RDO-Castellano
++08.05-NPCs-FollowersFrameworks-RDO-Patch
++08.05-NPCs-FollowersFrameworks-RDO
++08.05-NPCs-FollowersFrameworks-NFF
++08.03-NPCs-Appearance-BijinAIO-Castellano
++08.03-NPCs-Appearance-BijinAIO
++08.03-NPCs-Appearance-BijinWives-Castellano
++08.03-NPCs-Appearance-BijinWives
++08.03-NPCs-Appearance-BijinWarMaidens-Castellano
++08.03-NPCs-Appearance-BijinWarmaidens
++08.03-NPCs-Appearance-BijinNPCs-Castellano
++08.03-NPCs-Appearance-BijinNPCs
++08.03-NPCs-Appearance-PandorableDragonborn-Castellano
++08.03-NPCs-Appearance-PandorableDragonborn
++08.03-NPCs-Appearance-PandorableDawnguard -Castellano
++08.03-NPCs-Appearance-PandorableDawnguard
++08.03-NPCs-Appearance-PandorableNamelessWitches
++08.03-NPCs-Appearance-PandorableNamelessVampires
++08.03-NPCs-Appearance-PandorableInitiates
++08.03-NPCs-Appearance-PandorableDunmerDamsels
++08.03-NPCs-Appearance-PandorableSovngarde-Castellano
++08.03-NPCs-Appearance-PandorableSovngarde
++08.03-NPCs-Appearance-PandorablesNPCsAIO-Castellano
++08.03-NPCs-Appearance-PandorablesNPCsAIO
++08.03-NPCs-Appearance-PandorablesMalesAIO 3-Castellano
++08.03-NPCs-Appearance-PandorablesMalesAIO 3
++08.02-NPCs-AIOverhauls-RealisticConversationsLite
++08.03-NPCs-Appearance-PandorablesMalesAIO 2-Castellano
++08.03-NPCs-Appearance-PandorablesMalesAIO 2
++08.03-NPCs-Appearance-PandorablesMalesAIO -Castellano
++08.03-NPCs-Appearance-PandorablesMalesAIO
++08.03-NPCs-Appearance-PandorablesAIO-Castellano
++08.03-NPCs-Appearance-PandorablesAIO
 +08.03-NPCs-Appearance-RealisticElvenChildren
 +08.03-NPCs-Appearance-RSChildrenRealistic-Castellano
 +08.03-NPCs-Appearance-RSChildrenRealistic
 +08.03-NPCs-Appearance-RSChildren-Castellano
 +08.03-NPCs-Appearance-RSChildren
++08.03-NPCs-Appearance-BosmerAntlers
 +08.02-NPCs-AIOverhauls-EnhancedAIFramework
-+08.01-NPCs-Behavior-DynamicSittingIdles
-+08.01-NPCs-Behavior-WarmingHands
++08.02-NPCs-AIOverhauls-ImmersiveCitizens -Castellano
++08.02-NPCs-AIOverhauls-ImmersiveCitizens
++08.02-NPCs-AIOverhauls-AIOverhaul-Castellano
++08.02-NPCs-AIOverhauls-AIOverhaul
 +08.01-NPCs-Behavior-WarmingHandsEmberXD
++08.01-NPCs-Behavior-WarmingHands
 +08.01-NPCs-Behavior-TakeASeat
 +08.01-NPCs-Behavior-SocialNPCs
 +08.01-NPCs-Behavior-SharpenOtherSwords
@@ -84,7 +312,6 @@
 +08.01-NPCs-Behavior-PublicExecutions
 +08.01-NPCs-Behavior-ModernSittingOverhaul
 +08.01-NPCs-Behavior-ImprovedTableSitTransition
-+08.01-NPCs-Behavior-SexyMove
 +08.01-NPCs-Behavior-DynamicTorchIdles
 +08.01-NPCs-Behavior-DynamicWeatherIdles
 +08.01-NPCs-Behavior-DynamicWallLeaning
@@ -94,17 +321,16 @@
 +08.01-NPCs-Behavior-DynamicLedgeSitting
 +08.01-NPCs-Behavior-DynamicHandWarming
 +08.01-NPCs-Behavior-ConditionalArmorAnimations
++08.01-NPCs-Behavior-DynamicSittingIdles
 +08.01-NPCs-Behavior-BathingWashMe-Castellano
 +08.01-NPCs-Behavior-BathingWashMe
 +08.01-NPCs-Behavior-UseThoseBlankets-Castellano
 +08.01-NPCs-Behavior-UseThoseBlankets
 +08.01-NPCs-Behavior-SleepingExpanded-Castellano
 +08.01-NPCs-Behavior-SleepingExpanded
-+08.01-NPCs-Behavior-ImmersiveCitizens - AIOverhaul-Castellano
-+08.01-NPCs-Behavior-ImmersiveCitizens - AIOverhaul
 +08.01-NPCs-Behavior-ImmersiveInteraction-Castellano
 +08.01-NPCs-Behavior-ImmersiveInteraction
-+08.00-NPCs_separator
+-08.00-NPCs_separator
 +07.12-World-NewWorld-BeyondSkyrimBruma
 +07.12-World-NewWorld-BeyondReach-Castellano
 +07.12-World-NewWorld-BeyondReach
@@ -145,14 +371,13 @@
 +07.10-World-Monuments-DibellaStatues
 +07.10-World-Monuments-SovngardeSentinels
 +07.10-World-Ruins-FalmerRelics
-+07.10.-World-Monuments-NocturnalShrines
++07.10-World-Monuments-NocturnalShrines
 +07.10-World-Clutter-MoreColorfulCollectibles
++07.10-World-Clutter-BugJars2
++07.10-World-Clutter-BugJars
 +07.09-World-Roads-LanternsOfSkyrim2-Castellano
 +07.09-World-Roads-LanternsOfSkyrim2
 +07.08-World-FloraGrass-ButterfliesUnchained
-+07.08-World-FloraGrass-LuminescentLunaMothsSE
-+07.08-World-FloraGrass-BugJars2
-+07.08-World-FloraGrass-BugJars
 +07.07-World-Landscapes – DepthsOfSkyrim-Castellano
 +07.07-World-Landscapes – DepthsOfSkyrim
 +07.07-World-Landscapes-EnhancedLandscapes
@@ -160,14 +385,14 @@
 +07.07-World-Landscapes-RynsFarms
 +07.07-World-Landscapes-CulturedOrcFurniture-Castellano
 +07.07-World-Landscapes-CulturedOrcFurniture
-+07.06-World-Interiors-ObscuresCollegeOfWinterhold-FliyingBooks
++07.06-World-Interiors-ObscuresCollegeOfWinterhold-FlyingBooks
 +07.06-World-Interiors-ObscuresCollegeOfWinterhold-MageLight
 +07.06-World-Interiors-ObscuresCollegeOfWinterhold-Castellano
 +07.06-World-Interiors-ObscuresCollegeOfWinterholdNPCStuckFix
 +07.06-World-Interiors-ObscuresCollegeOfWinterhold
 +07.06-World-Interiors – FriendlierTavernsBaths-FIX
 +07.06-World-Interiors – FriendlierTavernsBaths
-+07.06-World-Interiors – RIftenBathhouse-Castellano
++07.06-World-Interiors – RiftenBathhouse-Castellano
 +07.06-World-Interiors – RIftenBathhouse
 +07.06-World-Interiors – FalkreathBathhouse-Castellano
 +07.06-World-Interiors – FalkreathBathhouse
@@ -237,14 +462,14 @@
 +07.06-World-Interiors-JKs-MistveilKeep
 +07.06-World-Interiors-JKs-CandlehearthHall-Castellano
 +07.06-World-Interiors-JKs-CandlehearthHall
-+07.06-World-Interiors-JKsHighHrothgar-Castellano
-+07.06-World-Interiors-JKsHighHrothgar
-+07.06-World-Interiors-JKsDragonsreach-Castellano
++07.06-World-Interiors-JKs-HighHrothgar-Castellano
++07.06-World-Interiors-JKs-HighHrothgar
++07.06-World-Interiors-JKs-Dragonsreach-Castellano
 +07.06-World-Interiors-JKs-Dragonsreach
 +07.06-World-Interiors-JKs-CastleDour-Castellano
 +07.06-World-Interiors-JKs-CastleDour
-+07.06-World-Interiors-JKs-Volkhar-Castellano
-+07.06-World-Interiors-JKs-Volkhar
++07.06-World-Interiors-JKs-Volkihar-Castellano
++07.06-World-Interiors-JKs-Volkihar
 +07.06-World-Interiors-JKs-SkyHavenForge-Castellano
 +07.06-World-Interiors-JKs-SkyHavenForge
 +07.06-World-Interiors-JKs-SkyHavenTemple-Castellano
@@ -257,7 +482,7 @@
 +07.06-World-Interiors-JKs-RadiantRaiment
 +07.06-World-Interiors-JKs-HaelgasBunkhouse-Castellano
 +07.06-World-Interiors-JKs-HaelgasBunkhouse
-+07.06-World-Interiors-JKs-ElgrimsElixirs-Castelano
++07.06-World-Interiors-JKs-ElgrimsElixirs-Castellano
 +07.06-World-Interiors-JKs-ElgrimsElixirs
 +07.06-World-Interiors-JKs-SleepingGiantInn-Castellano
 +07.06-World-Interiors-JKs-SleepingGiantInn
@@ -303,8 +528,7 @@
 +07.01-World-Overhauls-DawnOfSkyrim
 +07.01-World-Overhauls-TheGreatCitiesResources-Castellano
 +07.01-World-Overhauls-TheGreatCitiesResources
-+07.00-World_separator
--06.01-Interface-HUD
+-07.00-World_separator
 +06.06-Interface-CursorsFonts-SovngardeFont
 +06.05-Interface-Books-DragonbornsBestiaryAddons-Castellano
 +06.05-Interface-Books-DragonbornsBestiaryAddons
@@ -316,32 +540,26 @@
 +06.02-Interface-Menus -MenuMaid2
 +06.02-Interface-Menus-ReCleanedMenu
 +06.02-Interface-Menus-HideSkyUI
++06.01-Interface-HUD- RealNames
 +06.01-Interface-HUD-UIExtensions-FIX
 +06.01-Interface-HUD-UIExtensions-Castellano
 +06.01-Interface-HUD-UIExtensions
 +06.01-Interface-HUD-iWantStatusBars
-+06.00-Interface_separator
+-06.00-Interface_separator
 +05.02-Audio-Ambience-SoundsOfSkyrimComplete-Castellano
 +05.02-Audio-Ambience-SoundsOfSkyrimComplete
 +05.03-Audio-SFX-AOS
 +05.02-Audio-Ambience-ISC
 +05.02-Audio-Ambience-RAO
-+05.00-Audio_separator
+-05.00-Audio_separator
 +04.12.02-BodyPreset-HIMBO-Norsegod
 +04.12.02-BodyPreset-HIMBO-MiggyluvGalore
 +04.12.02-BodyPreset-HIMBO-GreekGod
 +04.12.02-BodyPreset-HIMBO-Aestheticus
 -04.12.02-Visual-Bodies-Presets-Male_separator
-+04.12.01-BodyPreset-TouchedByDibellaSMP
-+04.12.01-BodyPreset-TouchedByDibella
-+04.12.01-BodyPreset-LusciousBody
-+04.12.01-BodyPreset-AmStrong
-+04.12.01-BodyPreset-ExothiccBeauty
 +04.12.01-BodyPreset-Strawberry5
 +04.12.01-BodyPreset-CeresDeluge
-+04.12.01-BodyPreset-PB01
 +04.12.01-BodyPreset-SlightlyThicc
-+04.12.01-BodyPreset-NordGoddess
 +04.12.01-BodyPreset-MySensualBody
 +04.12.01-BodyPreset-MistressPuff
 +04.12.01-BodyPreset-LustyVampire
@@ -357,7 +575,6 @@
 +04.12.01-BodyPreset-PomonaAmphora
 +04.12.01-BodyPreset-LovelyLady
 +04.12.01-BodyPreset-GreekGoddess
-+04.12.01-BodyPreset-DibellasMommy
 +04.12.01-BodyPreset-DibellasHarmony
 +04.12.01-BodyPreset-Diamond
 +04.12.01-BodyPreset-CurvyStandard
@@ -370,8 +587,9 @@
 +04.12.01-BodyPreset-VintageMuse
 +04.12.01-BodyPreset-Hestia
 +04.12.01-BodyPreset-NaturalCurves
--04.12.01-Visual-Bodies-Presets-Female_separator
++04.12.01-Visual-Bodies-Presets-Female_separator
 +04.15-Visual-Performance – UPOT
++04.14-Visual-Effects-Fluffworks
 +04.14-Visual-Effects – SmokingTorchesAndCandles
 +04.14-Visual-Effects – Footprints-Castellano
 +04.14-Visual-Effects – Footprints-ENB
@@ -381,7 +599,10 @@
 +04.11-Eyes-Improver
 +04.11-Eyes-ImprovedEyes
 +04.11-Beards-Hvergelmir
++04.11-Visual-Hair-SaltAndWind-Update
++04.11-Visual-Hair-SaltAndWind
 +04.11-Hair-KSHairdos
++04.10-Visual-SkinBodies-SharkishPiercings3BA
 +04.10-Face-ExpressiveAnimations-Male
 +04.10-Face-ExpressiveAnimations-Female
 +04.10-Face-ExpressiveFacegenMorphs-Castellano
@@ -391,12 +612,13 @@
 +04.10-Textures-Male-TemperedHIMBO
 +04.10-Textures-Female-DiamondSkin-NoArmPit
 +04.10-Textures-Female-DiamondSkin
--04.10-Body-Male-HIMBO-Castellano
--04.10-Body-Male-HIMBO-Refits
--04.10-Body-Male-HIMBO
++04.10-Body-Male-HIMBO-Castellano
++04.10-Body-Male-HIMBO-Refits
++04.10-Body-Male-HIMBO
 +04.10-Visual-SkinBodies-3BAv2LiteSMP
 +04.10-Body-Female-CBBE-3BA-Castellano
 +04.10-Body-Female-CBBE-3BA
++04.10-Face-HighPolyHead
 +04.09-Visual-Blood-SanguineSymphony
 +04.08-Visual-FloraGrass-Cathedral3DPineGrass
 +04.08-Visual-Flora-HDIvy
@@ -432,8 +654,7 @@
 +04.05-Visual-ENB-RudyENB-Update
 +04.05-Visual-ENB-RudyENB
 +04.04-Visual-Weather-SplashesOfStorms
-+04.04-Visual-Weather-RealRain
-+04.04-Visual-Weather-SupremeWeathers
++04.04-Visual-Weather-SupremeWeathersForObsidian
 +04.04-Visual-Weather-VolkiharFog
 +04.04-Visual-Weather-MorthalFog
 +04.04-Visual-Weather-ObsidianFogs-Castellano
@@ -458,8 +679,12 @@
 +04.03-Visual-Lighting-Lux
 +04.03-Visual-Lighting-ENBLight-Castellano
 +04.03-Visual-Lighting-ENBLight
++04.03-Visual-Lighting-RealisticFireplaces
 +04.03-Visual-Lighting-EmbersXD-Castellano
 +04.03-Visual-Lighting-EmbersXD
++04.02-Visual-Meshes-HangingDeadRabbit
++04.02-Visual-Meshes-HangingDeadChickens
++04.02-Visual-Meshes-Haystacks
 +04.02-Visual-Models-SecurityRegionalLocks
 +04.02-Visual-Models-SecurityExtraLocks
 +04.02-Visual-Models-SecurityAddons
@@ -512,13 +737,13 @@
 +04.01-Visual-Textures-NordicSnow
 +04.01-Visual-Textures-CathedralLandscapes
 +04.00-Visual_separator
-+03.04-Animation-EspecialMakersIdle-Castellano
-+03.04-Animation-EspecialMakersIdle
++03.07-Animation-Camera-SmoothCam-Castellano
++03.07-Animation-Camera-SmoothCam
++03.04-Animation-Idle-UseSpecialMarkers-Castellano
++03.04-Animation-Idle-UseSpecialMarkers
 +03.03-Animation-Locomotion-BISR_MalignisAnimations
-+03.03-Animation-Locomotion-SmoothCam-Castellano
-+03.03-Animation-Locomotion-SmoothCam
-+03.03-Animation-Locomotion-EVGAnimationVariance
-+03.03-Animation-Locomotion-EVGConditionalIdles
++03.04-Animation-Idle-EVGAnimationVariance
++03.04-Animation-Idle-EVGConditionalIdles
 +03.02-Animation-Combat-SmoothMagicCasting
 +03.02-Animation-Combat-ValhallaCombat-Castellano
 +03.02-Animation-Combat-ValhallaCombat
@@ -527,7 +752,7 @@
 +03.01-Animation-Frameworks-MCOUniversalSupport
 +03.01-Animation-Frameworks-TDM - Castellano
 +03.01-Animation-Frameworks-TDM
-+03.00-Animation_separator
+-03.00-Animation_separator
 +02.18-Gameplay-Atmosphere-DirtAndBlood-Castellano
 +02.18-Gameplay-Atmosphere-DirtAndBlood
 +02.17-Gameplay-Travel-WaterFromWells-Castellano
@@ -548,6 +773,8 @@
 +02.10-Gameplay-Economy-TradeAndBarter-Castellano
 +02.10-Gameplay-Economy-TradeAndBarter
 +02.10-Gameplay-Economy-CoinPurse
++02.09-Gameplay-Crafting-FishAnywhere -Castellano
++02.09-Gameplay-Crafting-FishAnywhere
 +02.09-Gameplay-Crafting-ArtisanSoaps
 +02.09-Gameplay-Crafting-BosmeriDrinks
 +02.09-Gameplay-Crafting-BosmeriCuisine
@@ -575,13 +802,11 @@
 +02.06-Gameplay-Progression-Vokrii-Castellano
 +02.06-Gameplay-Progression-Vokrii
 +02.05-Gameplay-Balance-Timescale
-+02.04-Gameplay-AI – RealisticConversationsLite
 +02.04-Gameplay-AI – RunForYourLives-Castellano
 +02.04-Gameplay-AI – RunForYourLives
 +02.04-Gameplay-AI – WetAndCold-TrueStorms
 +02.04-Gameplay-AI – WetAndCold-Castellano
 +02.04-Gameplay-AI – WetAndCold
-+02.04-Gameplay-AI-Overhaul
 +02.03-Gameplay-Vampirism-BetterVampireLordTransformation
 +02.03-Gameplay-Vampirism-SunAffectsNPCVampires
 +02.03-Gameplay-Vampires - CoverYourHead
@@ -594,6 +819,10 @@
 +02.02-Gameplay-Magic-Odin
 +02.02-Gameplay-Magic-Mysticism-Castellano
 +02.02-Gameplay-Magic-Mysticism
++02.01-Gameplay-Combat-Dismemberment
++02.01-Gameplay-Combat-NextGenDecapitations
++02.01-Gameplay-Combat-DeathDropPhysics
++02.01-Gameplay-Combat-PhysicsInertia
 +02.01-Gameplay-Combat-ABT AE-Castellano
 +02.01-Gameplay-Combat-ABT AE
 +02.01-Gameplay-Combat-ReliableBlocking
@@ -603,37 +832,36 @@
 +02.01-Gameplay-Combat-Wildcat-Castellano
 +02.01-Gameplay-Combat-Wildcat-Realistic
 +02.01-Gameplay-Combat-Wildcat
-+02.00-Gameplay_separator
+-02.00-Gameplay_separator
 +01.13-Frameworks-Physics-FSMP-NG
 +01.13-Frameworks-Physics-CBPC-Patch
 +01.13-Frameworks-Physics-CBPC
 +01.12-Frameworks-OBodyNG -ORefitMasterList
 +01.12-Frameworks-OBodyNG -Castellano
 +01.12-Frameworks-OBodyNG
++01.10-Frameworks-UI-DescriptionFramework
 +01.10-Frameworks-UI - SkyUI
 +01.09-Frameworks-PowerOfThree – SeasonsOfSkyrimSKSE
++01.08-Frameworks-AddressPatches-SkyPatcherAE
 +01.07-Frameworks-AnimationEvents - Payload
 +01.06-Frameworks-UI-TrueHUD - HUD Additions
 +01.05-Frameworks-AMR
 +01.04-Frameworks-OAR
--01.03-Frameworks-Nemesis
 +01.03-Frameworks-Pandora
++01.02-Frameworks-Behavior-CoreImpactFramework
 +01.02-Frameworks-Behavior-AnimationQueueFix
 +01.02-Frameworks-Behavior - Precision
 +01.02-Frameworks-Behavior - XPMSSE
 +01.01-Frameworks-SKSE-RaceMenu-Castellano
 +01.01-Frameworks-SKSE-RaceMenu
 +01.00-Frameworks_separator
-+00.10-Core-Extenders-SkyPatcherAE
-+00.10-Core-Extenders-DescriptionFramework
-+00.10-Core-Extenders-CoreImpactFramework
-+00.10-Core-Extenders - ScrabsPapyrusExtender
-+00.10-Core-Extenders - po3 Papyrus Extender
 +00.09-Core-FormLists – SDR (Sonders Distribution Resources)
 +00.09-Core-FormLists – KID (Keyword Item Distributor)
 +00.09-Core-FormLists - SPID
 +00.08-Core-BaseObjectSwapper
 +00.07-Core-Utilities - Achievements
++00.06-Core-LibrariesPO3-ScrabsPapyrusExtender
++00.06-Core-LibrariesPO3-po3PapyrusExtender
 +00.06-Core-LibrariesPO3
 +00.05-Core-ScriptExtenders-FuzRoDoh
 +00.05-Core-ScriptExtenders – ConsoleUtil NG
@@ -653,7 +881,7 @@
 +00.00-Core-USSEP - Traducción Española
 +00.00-Core-USSEP
 +00.Config
-+00.00-Core_separator
+-00.00-Core_separator
 *DLC: Dawnguard
 *DLC: Dragonborn
 *DLC: HearthFires

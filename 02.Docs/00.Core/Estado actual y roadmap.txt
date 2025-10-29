@@ -1,0 +1,155 @@
+# 🧩 Visión general – Bloques pendientes AMC v0.6.8 (orden actualizado)
+
+| Bloque            | Dificultad | Dependencias directas | Naturaleza             | Tipo de trabajo                                            |
+| :---------------- | :--------- | :-------------------- | :--------------------- | :--------------------------------------------------------- |
+| **09.Items**      | 🟠 Media   | 04 / 02 / 12          | Contenido y equilibrio | Equipamiento, economía, crafting, SPID tangible.           |
+| **11.Adult**      | 🔴 Alta    | 03 / 04.10 / 09       | Técnica avanzada       | Frameworks físicos, overlays, expresividad.                |
+| **08.NPCs**       | 🔴 Alta    | 04 / 11 / 12          | Creativa y técnica     | Replacers humanoides, facegen, coherencia visual, EasyNPC. |
+| **12.Patches**    | 🔶 Media   | Todos (04–11)         | Técnica pura           | Consistency, leveled lists, navmesh, conflict resolution.  |
+| **14.Generators** | 🔹 Baja    | 12                    | Técnica automatizada   | TexGen, DynDOLOD, Nemesis, Synthesis.                      |
+| **15.DevTools**   | 🟢 Baja    | —                     | Utilitaria             | Interfaz C#, automatización AMC.                           |
+
+---
+
+# ⚙️ Orden lógico de trabajo (**actualizado**)
+
+## 💎 1️⃣ Bloque 09.Items – *Ecosistema tangible*
+
+**Razón:** el mundo necesita loot, coherencia económica y variedad **antes** de decidir cómo reaccionan NPC y Adult frameworks.
+
+### 🔹 Objetivo
+
+Definir el equipamiento global y sus probabilidades.
+
+### 🔧 Aproximación
+
+* Armors/Weapons coherentes con AMC (NordWarUA, Skyrim WE)
+* SPID para roles (guardias, bandidos, mercenarios)
+* Ajuste de peso, rareza, valor
+* Integración con economía (Trade & Barter)
+
+### ⏱️ Duración estimada
+
+2–3 sesiones.
+
+---
+
+## 🧬 2️⃣ Bloque 11.Adult – *Expresividad física*
+
+**Razón:** frameworks de expresividad deben integrarse **antes** del facegen final humanoide para no pisar overlays ni tintmasks.
+
+### 🔹 Objetivo
+
+Añadir expresividad al ecosistema humanoide.
+
+### 🔧 Aproximación
+
+* OStim NG
+* OBody NG
+* OpenAnimationRe (contexto)
+* MCM tuning
+* Física ligera (CBPC → prueba → SMP opcional)
+
+### ⏱️ Duración estimada
+
+3–5 sesiones.
+
+---
+
+## 🧠 3️⃣ Bloque 08.NPCs – *Ecosistema humanoide*
+
+**Razón:** después del contenido tangible y expresivo, se congela **facegen**.
+
+### 🔹 Objetivo
+
+Curar rostros, IA, outfits y coherencia estética.
+
+### 🔧 Aproximación
+
+1. Instalar todos los replacers humanoides
+2. Aplicar outfits SPID basados en 09
+3. Ejecutar **EasyNPC** una vez
+4. Revisar lighting interior (Lux Orbis)
+
+### ⏱️ Duración estimada
+
+4–6 sesiones.
+
+---
+
+## 🧮 4️⃣ Bloque 12.Patches – *Consolidación técnica*
+
+**Razón:** tras 09, 11 y 08 hay conflictos inevitables.
+
+### 🔹 Objetivo
+
+Resolver:
+
+* Leveled lists
+* Outfit injectors
+* Tintmask overwrites
+* Facegen mismatches
+* Outfits SPID stack
+
+### ⏱️ Duración estimada
+
+3–4 sesiones.
+
+---
+
+## 🌄 5️⃣ Bloque 14.Generators – *Reconstrucción global*
+
+**Razón:** solo se ejecutan cuando 12 está estabilizado.
+
+### 🔧 Aproximación
+
+* DynDOLOD 3
+* TexGen
+* Nemesis
+* Occlusion
+* Grass Cache
+
+### ⏱️ Duración estimada
+
+1–2 sesiones.
+
+---
+
+## 💻 6️⃣ Bloque 15.DevTools – *Interfaz AMC*
+
+**Razón:** última capa, sin dependencias.
+
+### 🔧 Aproximación
+
+* Botones de estado AMC:
+  `Deploy` / `Backup` / `QuickPush` / `Generators`
+* Logging en `15.04-Logs`
+
+### ⏱️ Duración estimada
+
+2 sesiones.
+
+---
+
+## ⚔️ 7️⃣ Ajustes finales (02–03 retuning)
+
+**Razón:** afinación sobre densidad real del mundo.
+
+| Bloque           | Tipo de ajuste                           | Cuándo hacerlo | Qué revisar                                  |
+| :--------------- | :--------------------------------------- | :------------- | :------------------------------------------- |
+| **02.Gameplay**  | Balance de combate, progresión, economía | Después de 08  | Wildcat stamina drain, economía, loot médio. |
+| **03.Animation** | Fluidez, idles, expresividad             | Después de 11  | Packs OAR, compatibilidad TDM.               |
+
+---
+
+# 🧭 Hoja de ruta AMC – Orden óptimo (v0.6.9+)
+
+| Orden | Bloque                   | Dificultad | Dependencias | Fase / Versión objetivo |
+| :---- | :----------------------- | :--------- | :----------- | :---------------------- |
+| 1     | **09.Items**             | 🟠 Media   | 04 / 02 / 12 | v0.6.9                  |
+| 2     | **11.Adult**             | 🔴 Alta    | 03 / 09      | v0.6.10                 |
+| 3     | **08.NPCs (EasyNPC)**    | 🔴 Alta    | 04 / 11      | v0.6.11                 |
+| 4     | **12.Patches**           | 🟡 Media   | 04–11        | v0.6.12                 |
+| 5     | **14.Generators**        | 🟢 Baja    | 12           | v0.6.13                 |
+| 6     | **15.DevTools**          | 🟢 Baja    | —            | v0.6.14                 |
+| 7     | **02/03 Retuning final** | 🟡 Media   | 08 / 11      | v0.6.15 (parche menor)  |

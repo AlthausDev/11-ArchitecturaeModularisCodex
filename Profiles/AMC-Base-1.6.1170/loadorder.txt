@@ -9,54 +9,58 @@ ccqdrsse001-survivalmode.esl
 ccbgssse037-curios.esl
 ccbgssse025-advdsgs.esm
 _ResourcePack.esl
+unofficial skyrim special edition patch.esp
+RSkyrimChildren.esm
+Immersive Wenches.esp
+Enhanced Landscapes.esp
+Lanterns Of Skyrim II.esm
 Obsidian Mountain Fogs.esm
 Forgotten DungeonsSSE.esm
-SmoothCam.esl
-Campfire.esm
-Embers XD.esm
-EnhancedAIFramework.esm
-Expressive Facegen Morphs.esl
-HammetDungeon01.esm
-arnima.esm
-HammetDungeon02.esm
-unofficial skyrim special edition patch.esp
-Night Eye Overhaul.esm
-Lux - Master plugin.esm
-Lux - Resources.esp
+AX ValSerano.esp
+Water for ENB.esm
+melyfairy.esl
 Lux Orbis - Master plugin.esm
+1Goblins.esl
+arnima.esm
+1DustAdeptArmor.esl
 BSAssets.esm
 BSHeartland.esm
 BS_DLC_patch.esp
+HammetDungeon01.esm
+Campfire.esm
+HammetDungeon02.esm
+Night Eye Overhaul.esm
 Falskaar.esm
-Enhanced Landscapes.esp
-RSkyrimChildren.esm
-Lux Via.esp
+Expressive Facegen Morphs.esl
 mannyBlackRock.esm
-Immersive Wenches.esp
-Lanterns Of Skyrim II.esm
-melyfairy.esl
+Lux - Resources.esp
+Dismembering Framework.esm
+High Poly Head.esm
 TrueHUD.esl
-Water for ENB.esm
+EnhancedAIFramework.esm
+Lux Via.esp
+Lux - Master plugin.esm
 Wyrmstooth.esp
+SmoothCam.esl
 DynDOLOD.esm
-Training Dummies & Targets - Falskaar Edition.esp
+SkyUI_SE.esp
 SoapRetex_BIS.esp
-RealRainSEVivid.esp
+Smithing Perks Overhaul SE.esp
 LoS II - 3DNPC addon.esp
 ImmersiveInteractions.esp
 Environs - Greenwood Shack.esp
-Smithing Perks Overhaul SE.esp
+AX ValSerano-SSEC.esp
+AX ValSerano-ApocyrphaCurrency.esp
+AX ValSerano-AbyssalTides.esp
 ABT SE - Rebalanced Crafting.esp
 ABT SE - Progressive Damage.esp
-ABT SE - Merchants Ammo.esp
 ABT SE - Loot Ammo.esp
 ABT SE - Kevkas All-in-One.esp
-ABT SE - Faster Arrows Improved.esp
 ABT SE - Increased Progressive Damage.esp
-Water for ENB - Patch - Wyrmstooth.esp
-Water for ENB - Patch - Falskaar.esp
+FayeFG.esp
+ABT SE - Faster Arrows Improved.esp
+ABT SE - Merchants Ammo.esp
 Particle Patch for ENB.esp
-SkyUI_SE.esp
 Audio Overhaul Skyrim.esp
 Reverb and Ambiance Overhaul - Skyrim.esp
 Immersive Sounds - Compendium.esp
@@ -66,94 +70,236 @@ SMIM-SE-Merged-All.esp
 SMIM-SE-Merged-NoSolitudeRopes.esp
 SMIM-SE-Merged-NoRiftenRopes.esp
 SMIM-SE-Merged-NoRiftenRopes-NoSolitudeRopes.esp
-SMIM-SE-DragonbornTernFix.esp
 SMIM-SE-FarmhouseFlickeringFix.esp
+SMIM-SE-DragonbornTernFix.esp
+DepthsOfSkyrim.esp
 Lux Orbis.esp
-Lux Orbis - Wyrmstooth.esp
-Folkvangr - Grass and Landscape Overhaul.esp
+The Great Cities - Minor Cities and Towns.esp
+JK's Castle Volkihar.esp
 Book Covers Skyrim.esp
+Folkvangr - Grass and Landscape Overhaul.esp
+Cutting Room Floor.esp
+OCW_Obscure's_CollegeofWinterhold.esp
 AI Overhaul.esp
+Friendlier Taverns.esp
 soundsofskyrimcomplete.esp
 MysticismMagic.esp
+JK's Fort Dawnguard.esp
+JK's Dark Brotherhood Sanctuary.esp
+Dawn of Skyrim.esp
+JK's Understone Keep.esp
 Lux Via - plugin.esp
-Embers XD.esp
+JK's Raven Rock.esp
+JK's The Bards College.esp
+Ryn's Farms.esp
+Resources - The Great Cities.esp
+The Great Village of Kynesgrove.esp
+JK's Whiterun's Outskirts.esp
+JK's Castle Dour.esp
+JK's Blue Palace.esp
+OBIS SE.esp
+JK's High Hrothgar.esp
+JK's Thieves Guild.esp
+SeranaDialogAddon.esp
+JK's Temple of the Divines.esp
+JK's Sky Haven Temple.esp
+JK's Windhelm's Outskirts.esp
+JK's Arnleif and Sons Trading Company.esp
 Odin - Skyrim Magic Overhaul.esp
+JK's Mistveil Keep.esp
+JK's Haelga's Bunkhouse.esp
+JK's Temple of Mara.esp
+JK's Nightingale Hall.esp
+JK's Palace of the Kings.esp
 Supreme Weathers.esp
+Embers XD.esp
+JK's Temple of Dibella.esp
 waccf_armor and clothing extension.esp
+OCW_ACE_FEPatch.esp
+Training Dummies & Targets - Falskaar Edition.esp
 Hothtrooper44_ArmorCompilation.esp
-Wintersun - Faiths of Skyrim.esp
-Cathedral Landscapes.esp
-waterplants.esp
-Signs_of_Skyrim.esp
-Skyrim Flora Overhaul.esp
-SunHelmSurvival.esp
-SunHelmCampfireSkill.esp
-Lux Orbis - Saints and Seducers patch.esp
-WaterfromWells.esp
-WfW HF Extended Patch.esp
-WfW - DoS Patch.esp
-Lux Orbis - CC Fish patch.esp
+PAN_AIO_big.esp
 Immersive Weapons.esp
-BlendedRoads.esp
+JK's The Hag's Cure.esp
+Ryn's Dragon Mounds AIO.esp
+JK's Sinderion's Field Laboratory.esp
+BPUFXelzazFollower.esp
+BPUFXelzazFollowerAE.esp
+Populated Lands Roads Paths Legendary.esp
+AnotherOakwood.esp
+Ryn's Mehrunes Dagon Shrine.esp
+CWB.esp
+Lux Orbis - Dawn of Skyrim patch.esp
+ArcheryDummyXP.esp
+JK's Dragonsreach.esp
+JK's Silver-Blood Inn.esp
+Stendarr Rising.esp
+JK's Elgrims Elixirs.esp
+FCO - Follower Commentary Overhaul.esp
+EMCompViljaSkyrim.esp
+JK's Bee and Barb.esp
+Lux Orbis - Great Cities and Minor Towns patch.esp
+JK's New Gnisis Cornerclub.esp
+JK's The Pawned Prawn.esp
+Wintersun - Faiths of Skyrim.esp
+Cultured Orc Furniture.esp
+0Kaidan.esp
+JK's Riverwood Trader.esp
+melyfairy.esp
+JK's Riverwood.esp
+Inigo.esp
+JK's Radiant Raiment.esp
+Riften Docks Overhaul.esp
+ForgottenArt.esp
+JK's The Bannered Mare.esp
+HLIORemi.esp
+CivilWarCheckpoints - All.esp
+OCW_TGCs_FEPatch.esp
+JK's Sleeping Giant Inn.esp
+JK's Angelines Aromatics.esp
+JK's Temple of Talos.esp
+JK's Candlehearth Hall.esp
+JK's The Ragged Flagon.esp
+MoreColorfulSceneryJars.esp
+Otters.esp
+mihailcrowsandravens.esp
+FA01RedcapFollower.esp
+JK's Septimus Signus's Outpost.esp
+Hunterborn.esp
+Cathedral Landscapes.esp
+JK's Bits and Pieces.esp
+mihailfrogs.esp
+mihailoldgod.esp
+LoS II - Lantern Workers.esp
+Lux Orbis - JK's Whiterun Outskirts patch.esp
+Populated Lands Roads Paths.esp
+waterplants.esp
+JK's Warmaiden's.esp
+JK's Arcadia's Cauldron.esp
+PAN_NPCs.esp
+bathhouse.esp
+018Auri.esp
+CinematicFireFX.esp
+Relationship Dialogue Overhaul.esp
+Zim's Improved Dremora.esp
+mihailhiveguardians.esp
+mihaildwarvenautomatonspack.esp
+JK's Sadris Used Wares.esp
+JK's Temple of Kynareth.esp
+mihailchickensandchicks.esp
+ogBogmort.esp
+JK's Riverfall Cottage.esp
+Signs_of_Skyrim.esp
+Shroom Beetles.esp
+mihailraysandwhales.esp
+mihailchickenvariants.esp
+Skyrim Flora Overhaul.esp
+Immersive Patrols II.esp
+Hunters Not Bandits.esp
+PAN_NPCs_Males2.esp
+PAN_NPCs_Males3.esp
+Bijin AIO.esp
+mihailfiendroth.esp
+mihaildmgskel_.esp
+mihailseagull.esp
+CiFRPG.esp
+mihailhangingchickens.esp
+mihailsewerrat.esp
+Lux Orbis - Riften Docks Overhaul patch.esp
+mihailmatingcrabs.esp
+mihailmammoths.esp
+mihailpigeon.esp
+Darkend.esp
+Falkreath_Bathhouse.esp
+mihailtrollcub.esp
+College Of Winterhold - Quest Expansion.esp
+LoS II - JKs Riverwood patch.esp
+mihailhousecat.esp
+SunHelmSurvival.esp
+MoreNocturnalStatues.esp
+mihailundeadsnowelf.esp
+mihailhawkandtern.esp
+mihailseaturtle.esp
+LoS II - Civil War Checkpoints Patch.esp
+mihailslenderman.esp
+CWB_USSEP Patch.esp
+WaterfromWells.esp
+WfW - DoS Patch.esp
+WfW HF Extended Patch.esp
+Lux Orbis - Saints and Seducers patch.esp
+RiverwoodHuntingCabinSE.esp
+AX ValSerano-USSEP.esp
+Lux Orbis - CC Fish patch.esp
+LockRelatedLoot.esp
+Coelacanth.esp
+mihailemperorpenguin.esp
+mihailchubloons.esp
+mihailhaystacks.esp
+OCW_CWI Exterior Magelights.esp
+Lux Orbis - USSEP patch.esp
+BugJarReplacer.esp
+Embers XD - Patch - Lux Via.esp
+JKs The Drunken Huntsman.esp
+mihailowl.esp
+Lux Orbis - Embers XD patch.esp
+mihailcyrodiilianspriggan.esp
+JK's SkyHaven Forge.esp
+mihailnordicsentinel.esp
+MoreFalmerStatues.esp
+BSHeartland - No Custom Map Markers.esp
+mihailcoralatronach.esp
+mihailswans.esp
+AX ValSerano-JKCastleVolkihar.esp
+Lucien.esp
+Lucien-AnniversaryEdition-Patch.esp
+Dibellan Baths.esp
+AX ValSerano-JKNewGnisisCornerclub.esp
+Riften_Bathhouse.esp
+LoS II - SMIM patch.esp
+OCW_BCS_FEPatch.esp
+OCW_SoS_FEPatch.esp
+DestructibleDisplayCases.esp
+Aymarandfriends.esp
+High Poly Head Vampire Fix.esp
+Bijin Warmaidens.esp
+BVLT - Human.esp
+MoreSovgardeStatues.esp
+mihailmudcrabmerchant.esp
+Sharkish_Piercings.esp
+mihailSIfishs.esp
+mihailzombiecrabs.esp
+mihailmmasithis.esp
+LoS II - USSEP patch.esp
+mihailograt.esp
+mihailwendigo.esp
+mihaildunmermerchants.esp
+Water for ENB - Patch - Falskaar.esp
+Lux Orbis - Wyrmstooth.esp
+Wyrmstooth Hearthfire Compatibility Patch.esp
+BPUFXelzazFollowerWyrmstooth.esp
+Water for ENB - Patch - Wyrmstooth.esp
+Embers XD - Patch - Beyond Skyrim - Bruma.esp
+SunHelmCampfireSkill.esp
 Andromeda - Unique Standing Stones of Skyrim.esp
-Attack_MCO.esp
 MenuMaid2.esp
 iWant Status Bars.esp
-Embers XD - Fire Magick Add-On.esp
-Embers XD - Patch - Survival Mode.esp
-Obsidian Weathers - Patch - Rudy ENB.esp
-CinematicFireFX.esp
-ENB Light.esp
-EVGConditionalIdles.esp
-GDOS - Splendid Mechanized Dwemer Door.esp
-GDOS - Glorious Solitude Door - Rotation Fix.esp
 EWM_SunhelmSurvivalSE.esp
 FNIS.esp
-Hothtrooper44_Armor_Ecksstra.esp
-NightEyeENBFix.esp
-waccf_armor and clothing extension_spid.esp
-Lux Orbis - USSEP patch.esp
-Lux Orbis - Embers XD patch.esp
-BVLT - Human.esp
-Lux Via - Blended Roads Bridges Texture sets.esp
 Wildcat - Combat of Skyrim.esp
-MovementMCO.esp
 NEO Longer Lasting Potions.esp
 NEO Longer Lasting Scrolls.esp
 NEO Persistent Spell.esp
 Night Eye Overhaul.esp
 Precision.esp
-RUSTIC SOULGEMS - Unsorted.esp
 MCMHelper.esp
 Smart_NPC_Potions.esp
-StormLightning.esp
 Sun Dispels Night Vision.esp
 SunHelmDiseases.esp
 Smart_NPC_Potions_-_SunHelm_Patch.esp
-Embers XD - Patch - SunHelm Survival.esp
-Supreme Fog for Castle Volkihar.esp
-SoS_ObsidianTrueStorms_Patch.esp
-Supreme Fog for Morthal Region.esp
-Supreme Weathers - With Idles and Moving Objects.esp
-Supreme Weathers - Obsidian Weathers-Rudy ENB Patch.esp
-Supreme Weathers - Mists of Tamriel-Obsidian Weathers-Rudy ENB Patch.esp
-TrueDirectionalMovement.esp
-True Storms - Obsidian Weathers - Patch .esp
 UIExtensions.esp
-ValhallaCombat.esp
 ViewableFactionRanks.esp
 Wildcat - Realistic Damage Plugin.esp
 XPMSE.esp
-MoreColorfulAuroras.esp
-Cathedral - 3D Pine Grass.esp
-FloraOrientalis.esp
-Skyrim Food Expansion.esp
-Skyrim Food Expansion - Artichoke Plants.esp
-LuminousAtronachs.esp
-JS Purses and Septims SE Patch.esp
-AshRocks-SE.esp
-DustEffectsSSE.esp
-WetFunction.esp
 ABT SE - Faster Bolts Improved.esp
 ABT SE - Increased Bolts Damage.esp
 ABT SE - Recover Ammo.esp
@@ -166,205 +312,195 @@ StaminaBlock.esp
 SunAffectsNPCVampires.esp
 SunAffectsNPCVampires-Hooded.esp
 Timescale8.esp
+Hunterborn - Campfire Patch.esp
 BosmeriCuisine.esp
-CraftGrayfox.esp
-PsBoss's Statuettes Crafting.esp
 IcePenguinWorldMap.esp
-3BBB.esp
-SOSPhysicsManager.esp
 FSMPM - The FSMP MCM.esp
 OBody.esp
-KS Hairdo's.esp
-12FemaleBrows.esp
-Beards.esp
-Improved Eyes Skyrim.esp
-Improved Eyes Skyrim - Serana.esp
-Improved Eyes Skyrim - Vamp.esp
 RaceMenu.esp
 RaceMenuPlugin.esp
 RaceMenuSpanish.esp
-RaceMenuMorphsCBBE.esp
-RaceMenuMorphsTBD.esp
-TouchedbyDibella.esp
-Imperious - Races of Skyrim.esp
-trade & barter.esp
-Complete Alchemy & Cooking Overhaul.esp
-BosmeriDrinksSSE.esp
-Vokrii - Minimalistic Perks of Skyrim.esp
-Mysticism - Vokrii Compatibility Patch.esp
-Odin - Vokrii Compatibility Patch.esp
-Sacrilege - Minimalistic Vampires of Skyrim.esp
-Sacrilege - Fishing Compatibility Patch.esp
-CoverYourHead - Sacrilege.esp
-Water for ENB (Shades of Skyrim).esp
-Water for ENB - Patch - Darker LOD Water.esp
-Lux.esp
-Lux - USSEP patch.esp
-CoinPurseIncrease.esp
 SnowOverSkyrim.esp
-College Of Winterhold - Quest Expansion.esp
-cutting room floor.esp
-Footprints.esp
-Footprints - ENB.esp
-Smoking Torches And Candles.esp
-Sanguine Symphony.esp
-Malignis Sound FX.esp
-LockRelatedLoot.esp
 Barenziah_Bonus.esp
 Extra Extra Effect.esp
-Realistic-Voice.esp
 run for your lives.esp
+Obsidian Weathers - Patch - Rudy ENB.esp
 WetandCold.esp
-Obsidian_TS_Wet&Cold_Patch.esp
-TrueStorms_Wet&Cold_Patch.esp
-ArcheryDummyXP.esp
 Bathing in Skyrim.esp
 Bathing in Skyrim - Bathing Token.esp
-Bathing in Skyrim - CACO Patch.esp
 Bathing in Skyrim - First Person Messages.esp
 GF02_TTS_TalkingTrainsSpeechcraft.esp
 ReadingIsGood.esp
 NirnrootAlchemyExperience.esp
 RoleRim - Stats.esp
 Time-Based_Scaling.esp
-Use Those Blankets.esp
-Immersive Citizens - AI Overhaul.esp
-Sleeping Expanded.esp
-JK's Haelga's Bunkhouse.esp
-JK's Sleeping Giant Inn.esp
-Darkend.esp
-AnotherOakwood.esp
-Dawn of Skyrim.esp
-Lux Orbis - Dawn of Skyrim patch.esp
-JK's Arcadia's Cauldron.esp
-JK's The Bannered Mare.esp
-Resources - The Great Cities.esp
-JK's Castle Dour.esp
-JK's Silver-Blood Inn.esp
-JK's Belethor's General Goods.esp
-JK's Castle Volkihar.esp
-JK's Elgrims Elixirs.esp
-JK's Radiant Raiment.esp
-JK's Riverwood.esp
-JK's Sky Haven Temple.esp
-JK's SkyHaven Forge.esp
-JK's Temple of Mara.esp
-JK's Whiterun's Outskirts.esp
-Lux Orbis - JK's Whiterun Outskirts patch.esp
-Stendarr Rising.esp
-Stendarr Rising - Los II patch.esp
-Riften Docks Overhaul.esp
-Lux Orbis - Riften Docks Overhaul patch.esp
-Ryn's Dragon Mounds AIO.esp
-Ryn's Mehrunes Dagon Shrine.esp
-Stendarr Rising - CACO patch.esp
-The Great Cities - Minor Cities and Towns.esp
-Lux Orbis - Great Cities and Minor Towns patch.esp
-The Great Village of Kynesgrove.esp
-BSHeartland - No Custom Map Markers.esp
-Wyrmstooth Dragonborn Compatibility Patch.esp
-Wyrmstooth Hearthfire Compatibility Patch.esp
-JK's The Winking Skeever.esp
-JK's Sinderion's Field Laboratory.esp
-JK's Temple of Kynareth.esp
-JK's Dragonsreach.esp
-JK's Angelines Aromatics.esp
-JK's Arnleif and Sons Trading Company.esp
-JK's Bee and Barb.esp
-JK's Bits and Pieces.esp
-JK's Blue Palace.esp
-JK's Candlehearth Hall.esp
-JK's Dark Brotherhood Sanctuary.esp
-JK's Fort Dawnguard.esp
-JK's High Hrothgar.esp
-JK's Mistveil Keep.esp
-JK's New Gnisis Cornerclub.esp
-JK's Nightingale Hall.esp
-JK's Palace of the Kings.esp
-JK's Raven Rock.esp
-JK's Riverwood Trader.esp
-JK's Sadris Used Wares.esp
-JK's Warmaiden's.esp
-JK's Septimus Signus's Outpost.esp
-JK's Temple of Dibella.esp
-JK's Temple of Talos.esp
-JK's Temple of the Divines.esp
-JK's The Bards College.esp
-JK's The Hag's Cure.esp
-JK's The Pawned Prawn.esp
-JK's The Ragged Flagon.esp
-JK's Thieves Guild.esp
-JK's Understone Keep.esp
-JK's Windhelm's Outskirts.esp
-JKs The Drunken Huntsman.esp
-Dibellan Baths.esp
-bathhouse.esp
-Riften_Bathhouse.esp
-Falkreath_Bathhouse.esp
-Friendlier Taverns.esp
-OCW_Obscure's_CollegeofWinterhold.esp
-OCW_ACE_FEPatch.esp
-OCW_MCW Flying Books.esp
-OCW_MaMO_FEPatch.esp
-OCW_CellSettings.esp
-OCW_BCS_FEPatch.esp
-OCW_AO_FEPatch.esp
-ocw door fix.esp
-OCW_CWI Exterior Magelights.esp
-OCW_SoS_FEPatch.esp
-OCW_TGCs_FEPatch.esp
-MoreNocturnalStatues.esp
-BugJarReplacer.esp
-ButterfliesUnchained.esp
-LoS II - Lantern Workers.esp
-ForgottenArt.esp
-MoreSovgardeStatues.esp
-LoS II - Campfire addon.esp
-LoS II - SMIM patch.esp
-JK's Riverfall Cottage.esp
-Occlusion.esp
-JK's Riverfall Cottage - CACO Patch.esp
-LoS II - JKs Riverwood patch.esp
-LoS II - USSEP patch.esp
-MoreColorfulSceneryJars.esp
-MoreFalmerStatues.esp
-New Vaermina Statue.esp
-RiverwoodHuntingCabinSE.esp
-DepthsOfSkyrim.esp
-Cultured Orc Furniture.esp
-Ryn's Farms.esp
-DynDOLOD.esp
-RSChildren Patch - BS Bruma.esp
-RSChildren.esp
-RealisticRSChildren.esp
-Aymarandfriends.esp
-BosmersHaveAntlers.esp
-Populated Lands Roads Paths Legendary.esp
-Hunters Not Bandits.esp
-Immersive Patrols II.esp
-OBIS SE.esp
-Populated Lands Roads Paths.esp
-melyfairy.esp
-Sharpen Other Swords II.esp
-Bathing in Skyrim - Wash Me.esp
-CiFRPG.esp
-FNISSexyMove.esp
-SolitudeThroneFix_BOS.esp
+Hunterborn - Soups and Stews.esp
+Sonders_Keyword_Distribution.esp
+RealNames - SSE Edition.esp
+12FemaleBrows.esp
+3BBB.esp
+JPNocturnalMoths.esp
+AshRocks-SE.esp
+Embers XD - Patch - Lux Orbis & LOS2.esp
+RaceMenuMorphsCBBE.esp
+BlendedRoads.esp
+Smoking Torches And Candles.esp
+HIMBO.esp
+Cathedral - 3D Pine Grass.esp
+Attack_MCO.esp
+Beards.esp
+Footprints.esp
+Footprints - ENB.esp
+DustEffectsSSE.esp
+Embers XD - Patch - Remove Snow.esp
+Sanguine Symphony.esp
+Embers XD - Patch - SunHelm Survival.esp
+Embers XD - Patch - Survival Mode.esp
+Embers XD - Fire Magick Add-On.esp
+ENB Light.esp
+EVGConditionalIdles.esp
+FloraOrientalis.esp
 Public Executions.esp
+GDOS - Glorious Solitude Door - Rotation Fix.esp
+GDOS - Splendid Mechanized Dwemer Door.esp
+TrueStorms_Wet&Cold_Patch.esp
+LuminousAtronachs.esp
+Improved Eyes Skyrim - Serana.esp
+Improved Eyes Skyrim - Vamp.esp
+Improved Eyes Skyrim.esp
+JPNocturnalMothsLoSIIPatch.esp
+JPNocturnalMothsLuxPatch.esp
+JS Purses and Septims SE Patch.esp
+KS Hairdo's.esp
+Lux Via - Blended Roads Bridges Texture sets.esp
+Malignis Sound FX.esp
+MoreColorfulAuroras.esp
+MovementMCO.esp
+SOSPhysicsManager.esp
+NightEyeENBFix.esp
+SoS_ObsidianTrueStorms_Patch.esp
+Obsidian_TS_Wet&Cold_Patch.esp
+Supreme Weathers - Obsidian Weathers-Rudy ENB Patch.esp
+Supreme Weathers - Mists of Tamriel-Obsidian Weathers-Rudy ENB Patch.esp
+True Storms - Obsidian Weathers - Patch .esp
+Supreme Fog for Castle Volkihar.esp
+RaceMenuMorphsHIMBO.esp
+StormLightning.esp
+Supreme Fog for Morthal Region.esp
+Supreme Weathers - With Idles and Moving Objects.esp
+TrueDirectionalMovement.esp
+Use Special Markers.esp
+ValhallaCombat.esp
+WetFunction.esp
+New Vaermina Statue.esp
+DesctructibleDisplayCasesPatch.esp
+JK's Belethor's General Goods.esp
+Embers XD - Patch - JKs Dragonsreach.esp
+LoS II - Campfire addon.esp
+OCW_MCW Flying Books.esp
+ocw door fix.esp
+OCW_MaMO_FEPatch.esp
+OCW_AO_FEPatch.esp
+Wyrmstooth Dragonborn Compatibility Patch.esp
+Stendarr Rising - Los II patch.esp
+Sharpen Other Swords II.esp
 Warming Hands.esp
+Bathing in Skyrim - Wash Me.esp
+BosmersHaveAntlers.esp
+RSChildren.esp
+Realistic-Voice.esp
+RealisticRSChildren.esp
 Warming Hands - Ember XD.esp
+PAN_NPCs_Males.esp
+SolitudeThroneFix_BOS.esp
+PAN_NPCs_Males2 - AI Overhaul SSE patch.esp
+RSChildren Patch - BS Bruma.esp
+Sleeping Expanded.esp
+Use Those Blankets.esp
+CraftGrayfox.esp
+Skyrim Food Expansion.esp
+Hothtrooper44_Armor_Ecksstra.esp
 Handheld Lanterns - Elden.esp
 Handheld Lanterns - Simple Wearable - Legacy.esp
 Handheld Lanterns - Simple Wearable - Remastered.esp
-CWB.esp
-CWB_USSEP Patch.esp
-DestructibleDisplayCases.esp
-DesctructibleDisplayCasesPatch.esp
-JPNocturnalMoths.esp
-JPNocturnalMothsLuxPatch.esp
-JPNocturnalMothsLoSIIPatch.esp
-Use Special Markers.esp
-Hunterborn.esp
-Hunterborn - Soups and Stews.esp
-Hunterborn - Campfire Patch.esp
-Sonders_Keyword_Distribution.esp
+RUSTIC SOULGEMS - Unsorted.esp
+Skyrim Food Expansion - Artichoke Plants.esp
+PsBoss's Statuettes Crafting.esp
+waccf_armor and clothing extension_spid.esp
+PAN_DunmerDamsels.esp
+PAN_NPCs_DG.esp
+PAN_Initiates.esp
+PAN_Nameless - Vampires.esp
+PAN_Nameless - Witches.esp
+PAN_NPCs_DB.esp
+PAN_Sovngarde.esp
+Bijin Wives.esp
+Bijin NPCs.esp
+Deadly Wenches.esp
+HothFollower.esp
+RDO - CRF + USSEP Patch.esp
+RDO - USSEP Patch.esp
+Serana Dialogue Edit.esp
+018AuriKaidanBanter.esp
+AX ValSerano-JKTempleOfDibella.esp
+AX ValSerano-JKTempleOfMara.esp
+AX ValSerano-Wintersun.esp
+HLIORemiRelaxAnywhere.esp
+HLIZRemiArnima.esp
+018InigoBanterPatch.esp
+Lucien-Bruma-Patch.esp
+PSBoss New AshSpawn Distributor.esp
+Ancient Nord Stalhrim.esp
+AtronachMatriarchs.esp
+Fluffworks.esp
+Bears of the North.esp
+Diverse Catches BOS.esp
+DynamicAnimalVariantsPlus.esp
+mihailgargoyleexpansion.esp
+mihailhircinicaspects.esp
+mihailinfantbones.esp
+BlackreachMudcrabs.esp
+mihailDsentry.esp
+Blackreach Mudcrabs - Wyrmstooth Patch.esp
+Whiterun Koi.esp
+mihailhammerfellimports.esp
+mihailvampireshadowsandskeletons.esp
+Fish Anywhere.esp
+Next-Gen Decapitations.esp
+DF - Official Creature Pack.esp
+Fluffworks - Dismembering Framework Patch.esp
+DF - Official Humanoid Pack.esp
+ogSkinshifter.esp
+Immersive Citizens - AI Overhaul.esp
+JK's The Winking Skeever.esp
+Imperious - Races of Skyrim.esp
+trade & barter.esp
+Complete Alchemy & Cooking Overhaul.esp
+BosmeriDrinksSSE.esp
+Bathing in Skyrim - CACO Patch.esp
+ButterfliesUnchained.esp
+JK's Riverfall Cottage - CACO Patch.esp
+Stendarr Rising - CACO patch.esp
+Blackreach Mudcrabs - CACO Patch.esp
+Vokrii - Minimalistic Perks of Skyrim.esp
+Mysticism - Vokrii Compatibility Patch.esp
+Odin - Vokrii Compatibility Patch.esp
+Sacrilege - Minimalistic Vampires of Skyrim.esp
+Sacrilege - Fishing Compatibility Patch.esp
+CoverYourHead - Sacrilege.esp
+nwsFollowerFramework.esp
+SDA NFF Patch.esp
+Water for ENB (Shades of Skyrim).esp
+Water for ENB - Patch - Darker LOD Water.esp
+Lux.esp
+DynDOLOD.esp
+Lux - USSEP patch.esp
+OCW_CellSettings.esp
+CoinPurseIncrease.esp
+Occlusion.esp
+Giantesses.esp
+Cozy Giants.esp
+Even More Competent Giant at Pelagia Farm.esp
+MythicalGiantsReplacer.esp
+FrostMythicalGiants.esp
+1spriggans.esp

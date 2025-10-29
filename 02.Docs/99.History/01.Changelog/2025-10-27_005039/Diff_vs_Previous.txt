@@ -1,0 +1,10 @@
+﻿=== Diff de mods HABILITADOS vs snapshot anterior ===
+Actual : 2025-10-27_005039
+Previo : 2025-10-27_002650
+
+ADD (2)
+  + 00.10-Core-Extenders - po3 Papyrus Extender 00.10-Core-Extenders - ScrabsPapyrusExtender 00.10-Core-Extenders-CoreImpactFramework 00.10-Core-Extenders-DescriptionFramework 00.10-Core-Extenders-SkyPatcherAE 03.04-Animation-EspecialMakersIdle 03.04-Animation-EspecialMakersIdle-Castellano 07.06-World-Interiors-JKsDragonsreach-Castellano 07.06-World-Interiors-JKsHighHrothgar 07.06-World-Interiors-JKsHighHrothgar-Castellano 07.08-World-FloraGrass-BugJars 07.08-World-FloraGrass-BugJars2 07.10.-World-Monuments-NocturnalShrines
+  + 07.10-World-Monuments-NocturnalShrines 07.10-World-Clutter-BugJars2 07.10-World-Clutter-BugJars 07.06-World-Interiors-JKs-HighHrothgar-Castellano 07.06-World-Interiors-JKs-HighHrothgar 07.06-World-Interiors-JKs-Dragonsreach-Castellano 03.04-Animation-Idle-UseSpecialMarkers-Castellano 03.04-Animation-Idle-UseSpecialMarkers 01.10-Frameworks-UI-DescriptionFramework 01.08-Frameworks-AddressPatches-SkyPatcherAE 01.02-Frameworks-Behavior-CoreImpactFramework 00.06-Core-LibrariesPO3-ScrabsPapyrusExtender 00.06-Core-LibrariesPO3-po3PapyrusExtender
+
+REM (0)
+

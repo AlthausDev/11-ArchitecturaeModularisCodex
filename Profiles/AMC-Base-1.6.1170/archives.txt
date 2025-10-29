@@ -12,21 +12,23 @@ ccbgssse037-curios.bsa
 ccbgssse025-advdsgs.bsa
 ccbgssse001-fish.bsa
 _ResourcePack.bsa
-unofficial skyrim special edition patch.bsa
 unofficial skyrim special edition patch - textures.bsa
+unofficial skyrim special edition patch.bsa
 Campfire.bsa
 MCMHelper.bsa
 RaceMenu.bsa
 SkyUI_SE.bsa
-Wildcat - Combat of Skyrim - Textures.bsa
 Wildcat - Combat of Skyrim.bsa
+Wildcat - Combat of Skyrim - Textures.bsa
+Next-Gen Decapitations.bsa
+Dismembering Framework.bsa
 MysticismMagic.bsa
-Odin - Skyrim Magic Overhaul - Textures.bsa
 Odin - Skyrim Magic Overhaul.bsa
+Odin - Skyrim Magic Overhaul - Textures.bsa
 Sacrilege - Minimalistic Vampires of Skyrim.bsa
 Sacrilege - Minimalistic Vampires of Skyrim - Textures.bsa
-run for your lives.bsa
 run for your lives - textures.bsa
+run for your lives.bsa
 Vokrii - Minimalistic Perks of Skyrim - Textures.bsa
 Vokrii - Minimalistic Perks of Skyrim.bsa
 NirnrootAlchemyExperience.bsa
@@ -36,29 +38,31 @@ SunHelmSurvival.bsa
 Complete Alchemy & Cooking Overhaul.bsa
 Complete Alchemy & Cooking Overhaul - Textures.bsa
 trade & barter.bsa
-Andromeda - Unique Standing Stones of Skyrim.bsa
 Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
+Andromeda - Unique Standing Stones of Skyrim.bsa
 Imperious - Races of Skyrim.bsa
 Imperious - Races of Skyrim - Textures.bsa
-Wintersun - Faiths of Skyrim.bsa
 Wintersun - Faiths of Skyrim - Textures.bsa
-DeadlyDragons - Textures.bsa
+Wintersun - Faiths of Skyrim.bsa
 DeadlyDragons.bsa
+DeadlyDragons - Textures.bsa
+Use Special Markers.bsa
 Cathedral Landscapes.bsa
-Book Covers Skyrim.bsa
 Book Covers Skyrim - Textures.bsa
-Lux - Resources.bsa
-Lux Via.bsa
+Book Covers Skyrim.bsa
 Lux Via - Textures.bsa
 Lux - Resources - Textures.bsa
+Lux - Resources.bsa
+Lux Via.bsa
 TrueStormsSE - Textures.bsa
 TrueStormsSE.bsa
 Obsidian Weathers.bsa
 MoreColorfulAuroras.bsa
 MoreColorfulAuroras - Textures.bsa
 DustEffectsSSE.bsa
-Sanguine Symphony - Textures.bsa
 Sanguine Symphony.bsa
+Sanguine Symphony - Textures.bsa
+High Poly Head.bsa
 Footprints.bsa
 Skyrim - Textures0.bsa
 Skyrim - Textures1.bsa
@@ -72,34 +76,114 @@ Skyrim - Textures8.bsa
 Audio Overhaul Skyrim.bsa
 iWant Status Bars.bsa
 UIExtensions.bsa
-Riften Docks Overhaul.bsa
+Resources - The Great Cities - Textures.bsa
+Resources - The Great Cities.bsa
+Dawn of Skyrim.bsa
+Dawn of Skyrim - Textures.bsa
 Riften Docks Overhaul - Textures.bsa
+Riften Docks Overhaul.bsa
+JK's Whiterun's Outskirts.bsa
+AnotherOakwood.bsa
+HammetDungeon01.bsa
+HammetDungeon02.bsa
 Stendarr Rising.bsa
 Stendarr Rising - Textures.bsa
+JK's Sleeping Giant Inn.bsa
+JK's Haelga's Bunkhouse.bsa
+JK's Radiant Raiment.bsa
+JK's Sky Haven Temple.bsa
+JK's Castle Volkihar.bsa
+JK's Castle Dour.bsa
 JK's Dragonsreach.bsa
-OCW_Obscure's_CollegeofWinterhold.bsa
+JK's High Hrothgar.bsa
+JK's New Gnisis Cornerclub.bsa
+JK's New Gnisis Cornerclub - Textures.bsa
+JK's Palace of the Kings.bsa
+JKs The Drunken Huntsman.bsa
+JK's The Winking Skeever.bsa
+JK's Thieves Guild.bsa
+JK's Understone Keep.bsa
+JK's Blue Palace.bsa
+JK's Dark Brotherhood Sanctuary.bsa
+JK's The Bards College.bsa
+JK's The Bards College - Textures.bsa
+JK's Sinderion's Field Laboratory.bsa
+JK's Fort Dawnguard.bsa
+JK's Windhelm's Outskirts.bsa
+JK's Raven Rock.bsa
+JK's Septimus Signus's Outpost.bsa
+Dibellan Baths.bsa
+Falkreath_Bathhouse.bsa
+Falkreath_Bathhouse - Textures.bsa
+Riften_Bathhouse.bsa
+Riften_Bathhouse - Textures.bsa
 OCW_Obscure's_CollegeofWinterhold - Textures.bsa
+OCW_Obscure's_CollegeofWinterhold.bsa
 OCW_CWI Exterior Magelights.bsa
-LoS II - Lantern Workers - Textures.bsa
+Lanterns OF Skyrim II.bsa
 Lanterns Of Skyrim II - Textures.bsa
 LoS II - Lantern Workers.bsa
-Lanterns OF Skyrim II.bsa
-MoreColorfulSceneryJars.bsa
+LoS II - Lantern Workers - Textures.bsa
+BugJarReplacer - Textures.bsa
+BugJarReplacer.bsa
 MoreColorfulSceneryJars - Textures.bsa
+MoreColorfulSceneryJars.bsa
 DestructibleDisplayCases.bsa
 DestructibleDisplayCases - Textures.bsa
 JK's Riverfall Cottage.bsa
-Wyrmstooth.bsa
+ForgottenArt.bsa
+Falskaar.bsa
+Falskaar - Textures.bsa
 Wyrmstooth - Textures.bsa
-BSAssets.bsa
+Wyrmstooth.bsa
 BSAssets - Textures.bsa
-BSHeartland.bsa
+BSAssets.bsa
+BS_DLC_patch.bsa
+arnima.bsa
+arnima - Textures.bsa
 BSHeartland - Textures.bsa
-RSChildren.bsa
+BSHeartland.bsa
+Immersive Citizens - AI Overhaul.bsa
 RSChildren - Textures.bsa
-melyfairy - textures.bsa
+RSChildren.bsa
+Relationship Dialogue Overhaul.bsa
+FCO - Follower Commentary Overhaul.bsa
+SeranaDialogAddon.bsa
+Serana Dialogue Edit.bsa
+Inigo.bsa
+Lucien.bsa
+Lucien-AnniversaryEdition-Patch.bsa
+Lucien-Bruma-Patch.bsa
+0Kaidan.bsa
+0Kaidan - Textures.bsa
+FA01RedcapFollower.bsa
+AX ValSerano.bsa
+BPUFXelzazFollowerAE.bsa
+BPUFXelzazFollower.bsa
+BPUFXelzazFollower - Textures.bsa
+HLIZRemiArnima.bsa
+HLIORemi.bsa
+HLIORemi - Textures.bsa
+HothFollower.bsa
+OBIS SE - Textures.bsa
+Bears of the North.bsa
+Bears of the North - Textures.bsa
+Zim's Improved Dremora.bsa
+Zim's Improved Dremora - Textures.bsa
+Ancient Nord Stalhrim.bsa
+Ancient Nord Stalhrim - Textures.bsa
+DynamicAnimalVariantsPlus.bsa
 melyfairy.bsa
-Hothtrooper44_Armor_Ecksstra.bsa
+melyfairy - textures.bsa
+ogBogmort - Textures.bsa
+ogBogmort.bsa
+ogSkinshifter.bsa
+ogSkinshifter - Textures.bsa
+DF - Official Creature Pack.bsa
+DF - Official Humanoid Pack.bsa
 Hothtrooper44_ArmorCompilation.bsa
+Hothtrooper44_Armor_Ecksstra.bsa
 waccf_armor and clothing extension - textures.bsa
 waccf_armor and clothing extension.bsa
+cutting room floor - textures.bsa
+cutting room floor.bsa
