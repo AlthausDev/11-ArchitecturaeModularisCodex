@@ -42,10 +42,12 @@ Lux Via.esp
 Lux - Master plugin.esm
 Wyrmstooth.esp
 SmoothCam.esl
+RTRWolfWarriorSeax.esl
+1Dwemer.esl
+1YsmirArmorSE.esl
 DynDOLOD.esm
-SkyUI_SE.esp
 SoapRetex_BIS.esp
-Smithing Perks Overhaul SE.esp
+SkyUI_SE.esp
 LoS II - 3DNPC addon.esp
 ImmersiveInteractions.esp
 Environs - Greenwood Shack.esp
@@ -78,7 +80,7 @@ The Great Cities - Minor Cities and Towns.esp
 JK's Castle Volkihar.esp
 Book Covers Skyrim.esp
 Folkvangr - Grass and Landscape Overhaul.esp
-Cutting Room Floor.esp
+cutting room floor.esp
 OCW_Obscure's_CollegeofWinterhold.esp
 AI Overhaul.esp
 Friendlier Taverns.esp
@@ -115,11 +117,8 @@ Supreme Weathers.esp
 Embers XD.esp
 JK's Temple of Dibella.esp
 waccf_armor and clothing extension.esp
-OCW_ACE_FEPatch.esp
 Training Dummies & Targets - Falskaar Edition.esp
-Hothtrooper44_ArmorCompilation.esp
 PAN_AIO_big.esp
-Immersive Weapons.esp
 JK's The Hag's Cure.esp
 Ryn's Dragon Mounds AIO.esp
 JK's Sinderion's Field Laboratory.esp
@@ -419,7 +418,6 @@ Sleeping Expanded.esp
 Use Those Blankets.esp
 CraftGrayfox.esp
 Skyrim Food Expansion.esp
-Hothtrooper44_Armor_Ecksstra.esp
 Handheld Lanterns - Elden.esp
 Handheld Lanterns - Simple Wearable - Legacy.esp
 Handheld Lanterns - Simple Wearable - Remastered.esp
@@ -504,3 +502,60 @@ Even More Competent Giant at Pelagia Farm.esp
 MythicalGiantsReplacer.esp
 FrostMythicalGiants.esp
 1spriggans.esp
+Artifact of Might.esp
+AurielBow-ArcheryScaling.esp
+DanpHravnaDagger.esp
+SuppleEbonyBow.esp
+Daedric Dagger from Morrowind by Revoith 2K STANDALONE.esp
+Faction Crossbows.esp
+Fenrir Blades.esp
+HarkonSwordRework.esp
+j3x-autocrossbows.esp
+Pirates Wield Cutlasses.esp
+staffsoftheforsworn.esp
+SkyforgeWeaponReplacer.esp
+Relentless Sword SE - Johnskyrim.esp
+Unique Uniques.esp
+TrueAurielBow.esp
+Weapons Armor Clothing & Clutter Fixes.esp
+Smithing Perks Overhaul SE.esp
+OCW_ACE_FEPatch.esp
+VCG.esp
+Volcanic Crimson Glass Set.esp
+DEG_DontEatGlass.esp
+DontEatGlass_GlassBottleRecycling.esp
+GlassMaking&Recycling.esp
+DontEatGlass_GlassMaking-Patch.esp
+GlassMaking_BSBruma-Patch.esp
+Alchemy Requires Bottles Redux.esp
+Orcrist.esp
+Radiance - Johnskyrim.esp
+Dwemer Half Moon Glasses.esp
+manny_eyeglasses.esp
+ReadingGlasses.esp
+[[[Preyka]]]ReadingGlassesSPID.esp
+BosmerArmorMATY743.esp
+1YsmirArmorSE.esp
+[ELLE] Elven Lake.esp
+[FB] Viper Armor.esp
+_Fuse00_ArmorTravelingMageCloth.esp
+Tribunal Robes for SSE.esp
+HDT-SMP Vanilla.esp
+CeykyndArmor.esp
+NitesCeykynd.esp
+KozakowyVampireArmorReplacer.esp
+DwemerResearcherArmor.esp
+Twilight Princess Armor.esp
+evgHinterRanger - Adjustments.esp
+Twilight Princess Armor - Alt Textures and Cloth Addon.esp
+KozakowyVampireArmor.esp
+NibeneanArmorsAndOutfit.esp
+Obi's Derketo Priestess.esp
+ObiDruchiiArmor.esp
+Soul Hunter Armor.esp
+StormLord.esp
+Tribal Hunter Armor.esp
+Vampire Armor Expansion.esp
+DDD.esp
+watch your step.esp
+Boulder in Skyrim.esp
