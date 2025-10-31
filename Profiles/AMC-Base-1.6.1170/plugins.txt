@@ -8,50 +8,53 @@
 *Forgotten DungeonsSSE.esm
 *AX ValSerano.esp
 *Water for ENB.esm
+*1DustAdeptArmor.esl
+1Dwemer.esl
+1YsmirArmorSE.esl
+*1Goblins.esl
 *melyfairy.esl
 *Lux Orbis - Master plugin.esm
-*1Goblins.esl
+*mannyBlackRock.esm
 *arnima.esm
-*1DustAdeptArmor.esl
 *BSAssets.esm
 *BSHeartland.esm
 *BS_DLC_patch.esp
-*HammetDungeon01.esm
 *Campfire.esm
-*HammetDungeon02.esm
-*Night Eye Overhaul.esm
-*Falskaar.esm
-*Expressive Facegen Morphs.esl
-*mannyBlackRock.esm
-*Lux - Resources.esp
 *Dismembering Framework.esm
-*High Poly Head.esm
-*TrueHUD.esl
+*HammetDungeon01.esm
 *EnhancedAIFramework.esm
+*HammetDungeon02.esm
+*Falskaar.esm
+*High Poly Head.esm
+*RTRWolfWarriorSeax.esl
+*Night Eye Overhaul.esm
+*Lux - Resources.esp
 *Lux Via.esp
 *Lux - Master plugin.esm
-*Wyrmstooth.esp
+*Expressive Facegen Morphs.esl
+*TrueHUD.esl
 *SmoothCam.esl
-*RTRWolfWarriorSeax.esl
-1Dwemer.esl
-1YsmirArmorSE.esl
+*Wyrmstooth.esp
 *DynDOLOD.esm
-SoapRetex_BIS.esp
 *SkyUI_SE.esp
+watch your step.esp
+SoapRetex_BIS.esp
 LoS II - 3DNPC addon.esp
 ImmersiveInteractions.esp
+FayeFG.esp
+evgHinterRanger - Adjustments.esp
 Environs - Greenwood Shack.esp
+Caught Red Handed - OStim Patch.esp
 AX ValSerano-SSEC.esp
-AX ValSerano-ApocyrphaCurrency.esp
-AX ValSerano-AbyssalTides.esp
 ABT SE - Rebalanced Crafting.esp
 ABT SE - Progressive Damage.esp
-ABT SE - Loot Ammo.esp
 ABT SE - Kevkas All-in-One.esp
 ABT SE - Increased Progressive Damage.esp
-FayeFG.esp
 ABT SE - Faster Arrows Improved.esp
 ABT SE - Merchants Ammo.esp
+ABT SE - Loot Ammo.esp
+AX ValSerano-ApocyrphaCurrency.esp
+AX ValSerano-AbyssalTides.esp
 *Particle Patch for ENB.esp
 *Audio Overhaul Skyrim.esp
 *Reverb and Ambiance Overhaul - Skyrim.esp
@@ -93,6 +96,9 @@ ABT SE - Merchants Ammo.esp
 *JK's High Hrothgar.esp
 *JK's Thieves Guild.esp
 *SeranaDialogAddon.esp
+SDA IFD Lydia Patch.esp
+SDA DX Crimson Blood Patch.esp
+SDA Lustmord Patch.esp
 *JK's Temple of the Divines.esp
 *JK's Sky Haven Temple.esp
 *JK's Windhelm's Outskirts.esp
@@ -462,7 +468,7 @@ Bijin NPCs.esp
 *Immersive Citizens - AI Overhaul.esp
 *JK's The Winking Skeever.esp
 *Imperious - Races of Skyrim.esp
-*trade & barter.esp
+*Trade & Barter.esp
 *Complete Alchemy & Cooking Overhaul.esp
 *BosmeriDrinksSSE.esp
 *Bathing in Skyrim - CACO Patch.esp
@@ -513,7 +519,7 @@ OCW_ACE_FEPatch.esp
 *VCG.esp
 *Volcanic Crimson Glass Set.esp
 *DEG_DontEatGlass.esp
-*DontEatGlass_GlassBottleRecycling.esp
+DontEatGlass_GlassBottleRecycling.esp
 *GlassMaking&Recycling.esp
 *DontEatGlass_GlassMaking-Patch.esp
 *GlassMaking_BSBruma-Patch.esp
@@ -531,12 +537,11 @@ BosmerArmorMATY743.esp
 _Fuse00_ArmorTravelingMageCloth.esp
 Tribunal Robes for SSE.esp
 *HDT-SMP Vanilla.esp
-CeykyndArmor.esp
+*CeykyndArmor.esp
 *NitesCeykynd.esp
 KozakowyVampireArmorReplacer.esp
 DwemerResearcherArmor.esp
-Twilight Princess Armor.esp
-*evgHinterRanger - Adjustments.esp
+*Twilight Princess Armor.esp
 *Twilight Princess Armor - Alt Textures and Cloth Addon.esp
 *KozakowyVampireArmor.esp
 NibeneanArmorsAndOutfit.esp
@@ -547,5 +552,38 @@ Soul Hunter Armor.esp
 *Tribal Hunter Armor.esp
 Vampire Armor Expansion.esp
 *DDD.esp
-*watch your step.esp
 *Boulder in Skyrim.esp
+*AhegaoExpressions.esp
+*OSmp.esp
+*NibblesAnimObjects.esp
+*Devour.esp
+*DogmaAnimSLAL.esp
+*Immersive Wenches OStim.esp
+*SexLab-AmorousAdventures.esp
+*SDA Wintersun Patch.esp
+*OStimNPCs.esp
+*MilkyObj.esp
+*MorningSex.esp
+*OActorOpacity.esp
+*OEndurance.esp
+*OISeeYouMasturbating.esp
+*OStim.esp
+OApproach.esp
+*OStimCommunityResource.esp
+OProstitution.esp
+*OStim Romance.esp
+*OCum.esp
+*oComfort.esp
+*SexLab_Solutions.esp
+*Law and OStim.esp
+*OOD.esp
+*OStim Lovers.esp
+*AA_OStim_Sequences.esp
+*Auri OStim Patch.esp
+*Ostim Standalone - Dynamic Spanking.esp
+*SLALAnimObjBillyy.esp
+*OWintersun.esp
+*SDA Campfire Patch.esp
+*SDA RDO Patch.esp
+*SDA Remiel Banter Patch.esp
+*SLAL_AnimationsByLeito.esp

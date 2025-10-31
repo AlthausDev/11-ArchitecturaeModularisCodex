@@ -1,0 +1,10 @@
+﻿=== Diff de mods HABILITADOS vs snapshot anterior ===
+Actual : 2025-10-31_223730
+Previo : 2025-10-30_084144
+
+ADD (2)
+  + 
+  + 11.08-Adult-Patches-SongOfTheGreen 11.08-Adult-Patches-SDA-Lydia 11.08-Adult-Patches-SDA-Hub 11.08-Adult-Patches-ImmersiveWenches 11.07-Adult-Systems-OnDemand 11.07-Adult-Systems-OStimSolutions 11.06-Adult-UI-RestAndRespite 11.06-Adult-Patches-AmorousAdventuresFixes 11.06-Adult-UI-MomentarySolitude 11.06-Adult-UI-MorningSex 11.06-Adult-UI-ActorOpacity 11.05-Adult-Addons-OCumAscended-Castellano 11.05-Adult-Addons-OCumAscended 11.05-Adult-Addons-OEndurance 11.05-Adult-Addons-OProstitutionNG 11.04-Adult-Animations-GunslicerDance 11.04-Adult-Animations-DevourVampire 11.04-Adult-Animations-RealisticExpresion 11.04-Adult-Animations-ExpresionFramework 11.04-Adult-Animations-DynamicOverlay 11.04-Adult-Animations-PDphisycs-patch 11.04-Adult-Animations-VariattionExtension 11.04-Adult-Animations-LCOS 11.04-Adult-Animations-patch-NBB 11.04-Adult-Animations-Patch-NB 11.04-Adult-Animations-Billy-Patch 11.04-Adult-Animations-Billyy-Wall 11.04-Adult-Animations-Billyy-Table 11.04-Adult-Animations-Billyy-Chair 11.04-Adult-Animations-Billyy-Core 11.04-Adult-Animations-Milky 11.04-Adult-Animations-Dogma 11.04-Adult-Animations-Ayasato 11.04-Adult-Animations-Leito-Add 11.04-Adult-Animations-Leito 11.03-Adult-Social-OWintersunLite-MaraFix-Castellano 11.03-Adult-Social-OWintersunLite-MaraFix 11.03-Adult-Social-OWintersunLite 11.03-Adult-Social-OStimRomance 11.03-Adult-Social-OStimLovers 11.03-Adult-Social-AmorousAdventures 11.03-Adult-Social-Law 11.03-Adult-Social-VSU 11.03-Adult-Social-NPCSexLivesImproved 11.03-Adult-Social-MasturbatingWatchers 11.03-Adult-Social-OApproach-Castellano 11.03-Adult-Social-OApproach 11.02-Adult-Animations-ORomancePlus 11.02-Adult-Animations-OARE 11.01-Adult-Frameworks-OSmp3BA 11.01-Adult-Frameworks-OStimSA-CommunityResource-Castellano 11.01-Adult-Frameworks-OStimSA-CommunityResource 11.01-Adult-Frameworks-OStimSA-Castellano 11.01-Adult-Frameworks-OStimSA 10.01-Quests-VanillaFixes –RiftenNirvReward 08.06-NPCs-FollowersNew-Faye-AddOn
+
+REM (0)
+

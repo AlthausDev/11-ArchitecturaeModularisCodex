@@ -1,0 +1,123 @@
+📘 AMC – Tome XI : De Architecturae Moralis et Concupiscentia
+Version: v0.1.0
+Status: ✅ Completed / Integrated / Validated
+
+─────────────────────────────────────────────
+OVERVIEW
+This block defines the architectural integration of all adult-oriented systems within the AMC framework. Its purpose is to introduce mature social dynamics into the Skyrim environment without degenerating into saturation, spam, or loss of symbolic weight. Rare, disruptive, consequence-driven intimacy is the spine of this module.
+
+─────────────────────────────────────────────
+GOALS
+• Introduce adult systems without normalizing them.
+• Establish rumor, shame, social pressure, and legal consequence.
+• Maintain urban dignity and narrative texture.
+• Enable negotiation-based solutions to vanilla quests.
+• Tie morality to metaphysical judgment via Wintersun Lite.
+
+─────────────────────────────────────────────
+KEY SYSTEMS INSTALLED
+• OStim Standalone – Core adult animation engine.
+• OStim Solutions – Third/fourth-path quest negotiation.
+• OProstitution NG – Economic survival dimension (gray ethics).
+• OEndurance – Bodily cost and fatigue.
+• VSU – Urban shame, rumor propagation, reputational decay.
+• Law & OStim – Legal consequence and public indecency.
+• Masturbating Watchers – Nocturnal risk, stealth tension.
+• NPC Sex Lives Improved – Rare emergent decadence.
+• Wintersun Lite – Spiritual judgment and moral shadow.
+• OnDemand – Prevents unsolicited scene spam.
+• ActorOpacity – Dignified visual framing.
+
+─────────────────────────────────────────────
+ANIMATIONS
+• Leito, Ayasato, Dogma, Milky, Billyy line (Core/Chair/Table/Wall), BigGuy Pack.
+Curated for:
+✓ weight
+✓ elegance
+✓ non‑meme composition
+✘ excluded loops that trivialize intimacy.
+
+─────────────────────────────────────────────
+DESIGN PRINCIPLES (BLOCK B)
+Intimacy should be:
+• Rare
+• Observed
+• Rumor‑bearing
+• Shame‑loaded
+• Costly
+
+It must not become:
+• Wallpaper
+• Comedy
+• Spam
+• Minmax optimization
+
+─────────────────────────────────────────────
+REJECTED SUBSYSTEMS
+Removed due to saturation, trivialization, or incoherent symbolic weight:
+• Lovemaking Compendium
+• oComfort
+• OMErchants
+• Nibbles
+• Night‑Blooming Violets
+• Anal Addon Packs
+• Paizuri Variation Pack
+• Spanking Overlays
+• Romance Everywhere packs
+• Anything converting intimacy into raw buffs.
+
+─────────────────────────────────────────────
+EMERGENT BEHAVIOR TESTS
+• Whiterun walk test: Stable.
+• Tabern interior: No spam. No cascade.
+• AI sandbox intact.
+• MCM modules initialized cleanly.
+
+─────────────────────────────────────────────
+ARCHITECTURAL INTERACTIONS
+Urban Shame (VSU) + Legal Pressure (Law) + Metaphysical Judgment (Wintersun Lite)
+→ Creates vertical + horizontal moral tension.
+
+Rumor + Witness Threshold + Bodily Fatigue
+→ Prevents risk‑free repetition.
+
+OnDemand + Solutions
+→ Negotiation > brute forcing scenes.
+
+─────────────────────────────────────────────
+CONFIGURATION PRINCIPLES
+• Cooldowns high.
+• Witness radius relevant.
+• Shame accumulation slow decay.
+• Favor divine not farmable.
+• Rumor persistent over time.
+
+─────────────────────────────────────────────
+RATIONALE
+This block is not pornographic addition.
+It introduces:
+• diplomacy leverage,
+• consequence architecture,
+• narrative cohesion,
+• emergent taboo,
+• class‑coded shadow.
+
+Skyrim becomes socially dimensional rather than romantically flat.
+
+─────────────────────────────────────────────
+KNOWN NEXT ACTIONS
+• Revisit Papyrus logs post‑patching.
+• Tune rumor escalation curve.
+• Validate Law punishment tiers.
+• Adjust endurance drain if grinding detected.
+
+─────────────────────────────────────────────
+INTERNAL CANON TAG
+“Intimacy rarely offered; always observed, weighed, and remembered.”
+
+─────────────────────────────────────────────
+CLOSURE STATUS
+All modules categorized, named AMC‑correctly, stable in runtime.
+No visible incompatibilities.
+
+Block sealed.
