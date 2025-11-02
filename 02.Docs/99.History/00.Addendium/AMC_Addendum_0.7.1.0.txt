@@ -1,0 +1,25 @@
+AMC v0.7.1 – Revisión y Consolidación de Bloque 10.Quests
+Autor: Sam Althaus
+Fecha: Noviembre 2025
+Estado: Estable
+
+Descripción:
+Integración completa de misiones, traducciones y expansiones narrativas del entorno AMC. 
+Probado en entorno MO2 portable. Sin errores de carga ni conflictos en scripts o celdas.
+
+Bloques afectados:
+- 10.Quests (completo)
+- 12.Patches (ajustes AHO)
+- 09.Items (reubicaciones Vergis)
+- 04.Visual (assets decorativos Vergis)
+
+Compatibilidad:
+- Probado con 1.6.1170 AE + Frameworks 00–07 activos.
+- Compatible con parches 12.05 y merge futuro en 12.03.
+
+Notas:
+- Todos los .esp verificados con xEdit.
+- Scripts limpios, sin dependencias cíclicas.
+- Se conserva coherencia narrativa AMC (Doctrine Aesthetica).
+
+Versión: AMC v0.7.1 – Quests Consolidated
