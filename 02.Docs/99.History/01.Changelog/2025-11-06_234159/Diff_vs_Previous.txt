@@ -1,0 +1,10 @@
+﻿=== Diff de mods HABILITADOS vs snapshot anterior ===
+Actual : 2025-11-06_234159
+Previo : 2025-11-06_205133
+
+ADD (2)
+  + 02.07-Gameplay-Survival-DragonbornsBestiaryHunterbornLoot 06.00-Interface_separator 06.05-Interface-Books-DragonbornsBestiaryAddons 06.05-Interface-Books-DragonbornsBestiaryAddons-Castellano 09.08-Items-BooksScrolls-DragonbornBestiary 09.08-Items-BooksScrolls-DragonbornBestiary-Bears 09.08-Items-BooksScrolls-DragonbornBestiary-Bruma 09.08-Items-BooksScrolls-DragonbornBestiary-Bruma-Castellano 09.08-Items-BooksScrolls-DragonbornBestiary-Castellano 09.08-Items-BooksScrolls-DragonbornBestiary-GoblinsDurzogsAddon 09.08-Items-BooksScrolls-DragonbornBestiary-Reskin
+  + 07.10-World-Clutter-DiverseChickenCoops 08.09-NPCs-CreaturesOverhauls-Butterflies 08.09-NPCs-CreaturesOverhauls-BetterButterflies
+
+REM (0)
+

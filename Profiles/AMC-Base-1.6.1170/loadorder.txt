@@ -18,67 +18,66 @@ Lanterns Of Skyrim II.esm
 Obsidian Mountain Fogs.esm
 Forgotten DungeonsSSE.esm
 AX ValSerano.esp
-Water for ENB.esm
-Dwarfsphere.esp
+Wyrmstooth.esp
 1ChitinBow.esl
-1DustAdeptArmor.esl
-1Dwemer.esl
-1YsmirArmorSE.esl
 SmoothCam.esl
+arnima.esm
+1YsmirArmorSE.esl
 1NamelessSaber.esl
 1Goblins.esl
+1Dwemer.esl
+1DustAdeptArmor.esl
+Water for ENB.esm
+Dwarfsphere.esp
 melyfairy.esl
+EnhancedAIFramework.esm
 Lux Orbis - Master plugin.esm
-Lux - Master plugin.esm
-arnima.esm
-iWant Widgets.esl
-Perk Point Awards.esl
-HammetDungeon02.esm
-Falskaar.esm
-Campfire.esm
 BSAssets.esm
 BSHeartland.esm
 HammetDungeon01.esm
-Dismembering Framework.esm
-EnhancedAIFramework.esm
-Glenmoril.esm
-Vigilant.esm
-Expressive Facegen Morphs.esl
-SkyPatcher Keyword Framework.esl
 MzarkWonders.esp
 WheelsOfLull.esp
 BS_DLC_patch.esp
+Campfire.esm
+Expressive Facegen Morphs.esl
+HammetDungeon02.esm
 mannyBlackRock.esm
-Night Eye Overhaul.esm
+Falskaar.esm
+Dismembering Framework.esm
+RTRWolfWarriorSeax.esl
+Glenmoril.esm
+Lux - Master plugin.esm
+Vigilant.esm
 Lux - Resources.esp
 Lux Via.esp
-RTRWolfWarriorSeax.esl
-Wyrmstooth.esp
-TrueHUD.esl
 DynDOLOD.esm
+iWant Widgets.esl
+SkyPatcher Keyword Framework.esl
+Perk Point Awards.esl
+TrueHUD.esl
+Night Eye Overhaul.esm
 SkyUI_SE.esp
-watch your step.esp
-LoS II - 3DNPC addon.esp
-ImmersiveInteractions.esp
-Teayum - Food Integration.esp
 HarvestOverhaul_Redone.esp
+watch your step.esp
 SoapRetex_BIS.esp
+ImmersiveInteractions.esp
 FayeFG.esp
-HOR_SkyBirdsPatch.esp
 evgHinterRanger - Adjustments.esp
 Environs - Greenwood Shack.esp
 Children of the Hist.esp
-Children of the First.esp
 Children of the Ash.esp
 Caught Red Handed - OStim Patch.esp
-AX ValSerano-AbyssalTides.esp
-ABT SE - Rebalanced Crafting.esp
-ABT SE - Progressive Damage.esp
-ABT SE - Loot Ammo.esp
-ABT SE - Increased Progressive Damage.esp
+HOR_SkyBirdsPatch.esp
 AX ValSerano-SSEC.esp
+AX ValSerano-AbyssalTides.esp
+Children of the First.esp
 AX ValSerano-ApocyrphaCurrency.esp
+ABT SE - Rebalanced Crafting.esp
 ABT SE - Merchants Ammo.esp
+ABT SE - Increased Progressive Damage.esp
+LoS II - 3DNPC addon.esp
+ABT SE - Loot Ammo.esp
+ABT SE - Progressive Damage.esp
 ABT SE - Kevkas All-in-One.esp
 ABT SE - Faster Arrows Improved.esp
 Particle Patch for ENB.esp
@@ -100,7 +99,7 @@ The Great Cities - Minor Cities and Towns.esp
 JK's Castle Volkihar.esp
 Book Covers Skyrim.esp
 Folkvangr - Grass and Landscape Overhaul.esp
-cutting room floor.esp
+Cutting Room Floor.esp
 OCW_Obscure's_CollegeofWinterhold.esp
 AI Overhaul.esp
 Friendlier Taverns.esp
@@ -116,8 +115,6 @@ JK's Raven Rock.esp
 JK's The Bards College.esp
 Resources - The Great Cities.esp
 Ryn's Farms.esp
-yumcheese.esp
-Cheesemod - SkyTEST.esp
 The Great Village of Kynesgrove.esp
 JK's Whiterun's Outskirts.esp
 JK's Castle Dour.esp
@@ -126,8 +123,8 @@ OBIS SE.esp
 JK's High Hrothgar.esp
 JK's Thieves Guild.esp
 SeranaDialogAddon.esp
-SDA Lustmord Patch.esp
 SDA DX Crimson Blood Patch.esp
+SDA Lustmord Patch.esp
 JK's Temple of the Divines.esp
 JK's Sky Haven Temple.esp
 JK's Windhelm's Outskirts.esp
@@ -142,9 +139,13 @@ Supreme Weathers.esp
 Embers XD.esp
 JK's Temple of Dibella.esp
 JK's The Hag's Cure.esp
-waccf_armor and clothing extension.esp
 MoonAndStar_MAS.esp
 Undeath.esp
+Gourmet.esp
+GourmetHandtoHand.esp
+GourmetAdamantBard.esp
+Gourmet - Huntsman.esp
+waccf_armor and clothing extension.esp
 Training Dummies & Targets - Falskaar Edition.esp
 Ryn's Dragon Mounds AIO.esp
 JK's Sinderion's Field Laboratory.esp
@@ -157,7 +158,6 @@ CWB.esp
 JK's Dragonsreach.esp
 JK's Silver-Blood Inn.esp
 Lux Orbis - Dawn of Skyrim patch.esp
-Skyrim On Skooma.esp
 ArcheryDummyXP.esp
 Stendarr Rising.esp
 Lux Orbis - Great Cities and Minor Towns patch.esp
@@ -182,10 +182,8 @@ ZIA_Complete Pack.esp
 JK's The Bannered Mare.esp
 HLIORemi.esp
 PAN_AIO_big.esp
-Bijin AIO.esp
-Bijin AIO - Hair Physics.esp
+PAN_NPCs.esp
 CivilWarCheckpoints - All.esp
-Cathedral Landscapes.esp
 OCW_TGCs_FEPatch.esp
 MoreColorfulSceneryJars.esp
 ACatsLife.esp
@@ -197,7 +195,6 @@ JK's Candlehearth Hall.esp
 JK's The Ragged Flagon.esp
 Otters.esp
 mihailcrowsandravens.esp
-Mystic Condenser.esp
 FA01RedcapFollower.esp
 JK's Septimus Signus's Outpost.esp
 JK's Bits and Pieces.esp
@@ -205,10 +202,11 @@ mihailfrogs.esp
 mihailoldgod.esp
 Hunterborn.esp
 LoS II - Lantern Workers.esp
+BosmerArmorMATY743.esp
+Cathedral Landscapes.esp
 Lux Orbis - JK's Whiterun Outskirts patch.esp
 Populated Lands Roads Paths.esp
-PAN_NPCs.esp
-BosmerArmorMATY743.esp
+Pinecones.esp
 waterplants.esp
 JK's Warmaiden's.esp
 JK's Arcadia's Cauldron.esp
@@ -218,6 +216,8 @@ mihailhiveguardians.esp
 SexLab-AmorousAdventures.esp
 018Auri.esp
 Boulder in Skyrim.esp
+Bijin AIO.esp
+Bijin AIO - Hair Physics.esp
 Relationship Dialogue Overhaul.esp
 mihaildwarvenautomatonspack.esp
 JK's Sadris Used Wares.esp
@@ -288,13 +288,13 @@ Lux Orbis - USSEP patch.esp
 Embers XD - Patch - Lux Via.esp
 1AncientImperial.esp
 Radiance - Johnskyrim.esp
+OCW_BCS_FEPatch.esp
 mihailowl.esp
 Soul Hunter Armor.esp
 Lucien.esp
 Lucien-AnniversaryEdition-Patch.esp
 Lux Orbis - Embers XD patch.esp
 mihailcyrodiilianspriggan.esp
-OCW_BCS_FEPatch.esp
 OCW_SoS_FEPatch.esp
 ArtifactsOfBoethiah.esp
 JK's SkyHaven Forge.esp
@@ -304,7 +304,6 @@ mihailswans.esp
 BSHeartland - No Custom Map Markers.esp
 MoreFalmerStatues.esp
 mihailcoralatronach.esp
-lotuspoison.esp
 AX ValSerano-JKCastleVolkihar.esp
 Dibellan Baths.esp
 AX ValSerano-JKNewGnisisCornerclub.esp
@@ -322,7 +321,6 @@ Bijin Warmaidens.esp
 BVLT - Human.esp
 Sharkish_Piercings.esp
 MoreSovgardeStatues.esp
-Mystic Condenser - USSEP Patch.esp
 StormLord.esp
 Faction Crossbows.esp
 mihailmmasithis.esp
@@ -330,12 +328,12 @@ mihailzombiecrabs.esp
 ksws03.esp
 ksws03_quest.esp
 moonpath.esp
-DestructibleDisplayCases.esp
 mihailSIfishs.esp
 LoS II - USSEP patch.esp
 mihailograt.esp
 mihailinfantbones.esp
 1YsmirArmorSE.esp
+DestructibleDisplayCases.esp
 mihaildunmermerchants.esp
 mihailwendigo.esp
 DF - Official Creature Pack.esp
@@ -379,7 +377,6 @@ Malignis Sound FX.esp
 DustEffectsSSE.esp
 LuminousAtronachs.esp
 JS Purses and Septims SE Patch.esp
-Cheesemod - Whiterun Skyforge patch.esp
 Embers XD - Patch - Lux Orbis & LOS2.esp
 Embers XD - Fire Magick Add-On.esp
 Embers XD - Patch - Survival Mode.esp
@@ -596,25 +593,16 @@ AX ValSerano-Wintersun.esp
 evgnnsmpaccessories.esp
 KozakowyVampireArmor.esp
 Fenrir Blades.esp
-Dragonborns Bestiary.esp
 Craftable Locpicks - 10.esp
 [ELLE] Elven Lake.esp
-Awesome Potions Simplified by Revoith.esp
 [FB] Viper Armor.esp
 _Fuse00_ArmorTravelingMageCloth.esp
-AdditionalRecipes.esp
-AdditionalRecipes_BCS.esp
 AurielBow-ArcheryScaling.esp
-Alchemy Requires Bottles Redux.esp
-Skyrim Food Expansion.esp
-Skyrim Food Expansion - Artichoke Plants.esp
 FalmerEquipArmor.esp
 Orcrist.esp
-mealtimeyum.esp
 ObiDruchiiArmor.esp
 CeykyndArmor.esp
 TrueAurielBow.esp
-CheeseWheelMaker.esp
 Pirates Wield Cutlasses.esp
 CraftGrayfox.esp
 Daedric Dagger from Morrowind by Revoith 2K STANDALONE.esp
@@ -626,21 +614,17 @@ Dwemer Half Moon Glasses.esp
 DwemerResearcherArmor.esp
 ExpandedJewelryCrafting.esp
 Mead Keg to NPC.esp
-Food Integration - Bruma.esp
-Food Integration - CC Fishing.esp
 Handheld Lanterns - Elden.esp
 Handheld Lanterns - Simple Wearable - Legacy.esp
 Handheld Lanterns - Simple Wearable - Remastered.esp
 HarkonSwordRework.esp
 HDT-SMP Vanilla.esp
-HOR_AlchemyXP30.esp
 SuppleEbonyBow.esp
 PsBoss's Statuettes Crafting.esp
 Twilight Princess Armor.esp
 Twilight Princess Armor - Alt Textures and Cloth Addon.esp
 KozakowyVampireArmorReplacer.esp
 Volcanic Crimson Glass Set.esp
-manny_eyeglasses.esp
 PrvtIRoyalArmory.esp
 Tribunal Robes for SSE.esp
 Vampire Armor Expansion.esp
@@ -652,12 +636,10 @@ ReadingGlasses.esp
 Relentless Sword SE - Johnskyrim.esp
 RUSTIC SOULGEMS - Unsorted.esp
 SkyforgeWeaponReplacer.esp
-The Dragonborn's Fishiary.esp
 Tribal Hunter Armor.esp
 Unique Uniques.esp
 VCG.esp
 waccf_armor and clothing extension_spid.esp
-Food Integration - Cheesemod.esp
 ZGA.esp
 ZBB.esp
 ZAU.esp
@@ -672,10 +654,17 @@ ZKT.esp
 ZNA.esp
 ZSY.esp
 ZTH.esp
+Ivy Replacer BOS.esp
+Rudy Nordic Pottery SSE.esp
+The Dragonborn's Fishiary.esp
+GourmetUSSEP.esp
+GourmetFishing.esp
+GourmetMysticism.esp
+LittleLessons.esp
 Immersive Citizens - AI Overhaul.esp
 JK's The Winking Skeever.esp
 Imperious - Races of Skyrim.esp
-trade & barter.esp
+Trade & Barter.esp
 Complete Crafting Overhaul_Remastered.esp
 Smithing Perks Overhaul SE.esp
 FalmerEquipArmor_CCOR_Patch.esp
@@ -689,14 +678,9 @@ BosmeriDrinksSSE.esp
 Blackreach Mudcrabs - CACO Patch.esp
 Bathing in Skyrim - CACO Patch.esp
 SDA Wintersun Patch.esp
-Coffee.esp
-Food Integration - CACO.esp
-Food integration  - Tamrielic Coffee And Tea.esp
 GlassMaking&Recycling.esp
 DontEatGlass_GlassMaking-Patch.esp
 GlassMaking_BSBruma-Patch.esp
-WiZkiD Forgotten Potions.esp
-lotuspoison caco cp.esp
 Vokrii - Minimalistic Perks of Skyrim.esp
 Mysticism - Vokrii Compatibility Patch.esp
 Odin - Vokrii Compatibility Patch.esp
@@ -716,3 +700,31 @@ Modern Brawl Bug Fix.esp
 Occlusion.esp
 Skyshards.esp
 Skyshards - Lite.esp
+AdditionalRecipes.esp
+AdditionalRecipes_BCS.esp
+Alchemy Requires Bottles Redux.esp
+Awesome Potions Simplified by Revoith.esp
+HOR_AlchemyXP30.esp
+WiZkiD Forgotten Potions.esp
+lotuspoison.esp
+Food Integration - CACO.esp
+lotuspoison caco cp.esp
+CheeseWheelMaker.esp
+Coffee.esp
+Food Integration - CC Fishing.esp
+Teayum - Food Integration.esp
+Food integration  - Tamrielic Coffee And Tea.esp
+Food Integration - Bruma.esp
+mealtimeyum.esp
+Mystic Condenser - USSEP Patch.esp
+Mystic Condenser.esp
+Skyrim Food Expansion - Artichoke Plants.esp
+Skyrim Food Expansion.esp
+Skyrim On Skooma.esp
+yumcheese.esp
+Food Integration - Cheesemod.esp
+Cheesemod - Whiterun Skyforge patch.esp
+Cheesemod - SkyTEST.esp
+Equippable Tomes.esp
+Equippable Tomes - Campfire Add-On.esp
+Diverse Chicken Coops.esp

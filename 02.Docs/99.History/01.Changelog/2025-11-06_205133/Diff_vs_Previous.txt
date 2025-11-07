@@ -1,0 +1,10 @@
+﻿=== Diff de mods HABILITADOS vs snapshot anterior ===
+Actual : 2025-11-06_205133
+Previo : 2025-11-05_204532
+
+ADD (2)
+  + 
+  + 09.08-Items-BooksScrolls-LittleLessons-Castellano 09.08-Items-BooksScrolls-LittleLessons 09.08-Items-BooksScrolls-EquippableTomes-Campfire-Castellano 09.08-Items-BooksScrolls-EquippableTomes-Campfire 09.08-Items-BooksScrolls-EquippableTomes-Castellano 09.08-Items-BooksScrolls-EquippableTomes 09.07-Items-Food-SlightlyBetterHoneyInAJar 09.07-Items-Food-Gourmet-USSEP-Castellano 09.07-Items-Food-Gourmet-Hutsman-Castellano 09.07-Items-Food-Gourmet-Castellano 09.07-Items-Food-Gourmet-USSEP 09.07-Items-Food-Gourmet-SinorimPatches 09.07-Items-Food-Gourmet-fishing 09.07-Items-Food-Gourmet 04.08-Visual-Flora-Pinecones-Castellano 04.08-Visual-Flora-Pinecones 04.08-Visual-Flora-HighQualityIvy 04.06-Visual-Particles-SlightlyBetterOilENB 04.06-Visual-Particles-RudyHQLunaMothENBLight 04.02-Visual-Models-FluffyBedsAndBedrolls 04.01-Visual-Textures-Misc-RudyHQMiscellaneous 04.01-Visual-Textures-Animals-MMRealELKS2K 04.01-Visual-Textures-Materials-BetterPeltsAndHides
+
+REM (0)
+
