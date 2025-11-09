@@ -4,72 +4,86 @@
 *Immersive Wenches.esp
 *Enhanced Landscapes.esp
 *High Poly Head.esm
-*Lanterns Of Skyrim II.esm
-*Obsidian Mountain Fogs.esm
-*Forgotten DungeonsSSE.esm
-*AX ValSerano.esp
-*Wyrmstooth.esp
-*1ChitinBow.esl
-*SmoothCam.esl
-*arnima.esm
+*Dwarfsphere.esp
+*MzarkWonders.esp
+*1DustAdeptArmor.esl
 *1YsmirArmorSE.esl
 *1NamelessSaber.esl
 *1Goblins.esl
 *1Dwemer.esl
-*1DustAdeptArmor.esl
-*Water for ENB.esm
-*Dwarfsphere.esp
-*melyfairy.esl
-*EnhancedAIFramework.esm
-*Lux Orbis - Master plugin.esm
-*BSAssets.esm
-*BSHeartland.esm
-*HammetDungeon01.esm
-*MzarkWonders.esp
+*1ChitinBow.esl
+*RTRWolfWarriorSeax.esl
+*Lux - Resources.esp
+*Lanterns Of Skyrim II.esm
+*Obsidian Mountain Fogs.esm
 *WheelsOfLull.esp
-*BS_DLC_patch.esp
+*Forgotten DungeonsSSE.esm
+*arnima.esm
+*AX ValSerano.esp
+*Water for ENB.esm
+*Wyrmstooth.esp
+*SmoothCam.esl
+*HyperFusRoDah.esl
+*Lux - Master plugin.esm
+*melyfairy.esl
 *Campfire.esm
+*Falskaar.esm
+*BSAssets.esm
+*EVGAnimatedTraversal.esl
+*BSHeartland.esm
+*BS_DLC_patch.esp
+*TrueHUD.esl
+*Night Eye Overhaul.esm
+*EnhancedAIFramework.esm
+*Dismembering Framework.esm
+*Lux Orbis - Master plugin.esm
+*HammetDungeon01.esm
 *Expressive Facegen Morphs.esl
 *HammetDungeon02.esm
 *mannyBlackRock.esm
-*Falskaar.esm
-*Dismembering Framework.esm
-*RTRWolfWarriorSeax.esl
 *Glenmoril.esm
-*Lux - Master plugin.esm
 *Vigilant.esm
-*Lux - Resources.esp
+*iWant Widgets.esl
 *Lux Via.esp
 *DynDOLOD.esm
-*iWant Widgets.esl
-*SkyPatcher Keyword Framework.esl
+*VendorGoldScaling.esl
+*PIMS_MagicSaltMining.esl
 *Perk Point Awards.esl
-*TrueHUD.esl
-*Night Eye Overhaul.esm
+*RealisticWaterTwo - Resources.esm
+*Occ_Skyrim_Tamriel.esp
+*KvetchiMercenary.esl
+*Occ_Skyrim_AnniversaryFreeCC.esp
+*Skyrim Project Optimization - Full ESL Version.esm
+*OrganicFactions.esm
+*SkyPatcher Keyword Framework.esl
 *SkyUI_SE.esp
-*HarvestOverhaul_Redone.esp
-*watch your step.esp
-*SoapRetex_BIS.esp
-*ImmersiveInteractions.esp
-*FayeFG.esp
-*evgHinterRanger - Adjustments.esp
-*Environs - Greenwood Shack.esp
-*Children of the Hist.esp
-*Children of the Ash.esp
-*Caught Red Handed - OStim Patch.esp
-*HOR_SkyBirdsPatch.esp
-*AX ValSerano-SSEC.esp
-*AX ValSerano-AbyssalTides.esp
-*Children of the First.esp
-*AX ValSerano-ApocyrphaCurrency.esp
-*ABT SE - Rebalanced Crafting.esp
-*ABT SE - Merchants Ammo.esp
-*ABT SE - Increased Progressive Damage.esp
-*LoS II - 3DNPC addon.esp
-*ABT SE - Loot Ammo.esp
-*ABT SE - Progressive Damage.esp
-*ABT SE - Kevkas All-in-One.esp
-*ABT SE - Faster Arrows Improved.esp
+HarvestOverhaul_Redone.esp
+Teayum - Food Integration.esp
+watch your step.esp
+LoS II - 3DNPC addon.esp
+ImmersiveInteractions.esp
+HOR_SkyBirdsPatch.esp
+evgHinterRanger - Adjustments.esp
+DNPCsSimpleWearableLanternsREDUX.esp
+DNPCsFaceMasks.esp
+Children of the Hist.esp
+Children of the First.esp
+Caught Red Handed - OStim Patch.esp
+Children of the Ash.esp
+FayeFG.esp
+SoapRetex_BIS.esp
+AX ValSerano-SSEC.esp
+AX ValSerano-ApocyrphaCurrency.esp
+AX ValSerano-AbyssalTides.esp
+SPIDFacialPiercingsforNPCs.esp
+Environs - Greenwood Shack.esp
+ABT SE - Rebalanced Crafting.esp
+ABT SE - Progressive Damage.esp
+ABT SE - Merchants Ammo.esp
+ABT SE - Kevkas All-in-One.esp
+ABT SE - Faster Arrows Improved.esp
+ABT SE - Increased Progressive Damage.esp
+ABT SE - Loot Ammo.esp
 *Particle Patch for ENB.esp
 *Audio Overhaul Skyrim.esp
 *Reverb and Ambiance Overhaul - Skyrim.esp
@@ -77,11 +91,11 @@
 *TrueStormsSE.esp
 *Obsidian Weathers.esp
 *SMIM-SE-Merged-All.esp
-*SMIM-SE-Merged-NoSolitudeRopes.esp
-*SMIM-SE-Merged-NoRiftenRopes.esp
-*SMIM-SE-Merged-NoRiftenRopes-NoSolitudeRopes.esp
-*SMIM-SE-DragonbornTernFix.esp
-*SMIM-SE-FarmhouseFlickeringFix.esp
+SMIM-SE-Merged-NoSolitudeRopes.esp
+SMIM-SE-Merged-NoRiftenRopes.esp
+SMIM-SE-Merged-NoRiftenRopes-NoSolitudeRopes.esp
+SMIM-SE-DragonbornTernFix.esp
+SMIM-SE-FarmhouseFlickeringFix.esp
 *DepthsOfSkyrim.esp
 *Weapons Armor Clothing & Clutter Fixes.esp
 *Lux Orbis.esp
@@ -98,7 +112,7 @@
 *MysticismMagic.esp
 *JK's Dark Brotherhood Sanctuary.esp
 *Dawn of Skyrim.esp
-*Dawn of Skyrim-AI Overhaul Patch.esp
+Dawn of Skyrim-AI Overhaul Patch.esp
 *JK's Understone Keep.esp
 *Lux Via - plugin.esp
 *JK's Raven Rock.esp
@@ -113,8 +127,8 @@
 *JK's High Hrothgar.esp
 *JK's Thieves Guild.esp
 *SeranaDialogAddon.esp
-*SDA DX Crimson Blood Patch.esp
-*SDA Lustmord Patch.esp
+SDA DX Crimson Blood Patch.esp
+SDA Lustmord Patch.esp
 *JK's Temple of the Divines.esp
 *JK's Sky Haven Temple.esp
 *JK's Windhelm's Outskirts.esp
@@ -132,15 +146,15 @@
 *MoonAndStar_MAS.esp
 *Undeath.esp
 *Gourmet.esp
-*GourmetHandtoHand.esp
-*GourmetAdamantBard.esp
-*Gourmet - Huntsman.esp
+Gourmet - Huntsman.esp
+GourmetHandtoHand.esp
+GourmetAdamantBard.esp
 *waccf_armor and clothing extension.esp
 *Training Dummies & Targets - Falskaar Edition.esp
 *Ryn's Dragon Mounds AIO.esp
 *JK's Sinderion's Field Laboratory.esp
 *BPUFXelzazFollower.esp
-*BPUFXelzazFollowerAE.esp
+BPUFXelzazFollowerAE.esp
 *Populated Lands Roads Paths Legendary.esp
 *AnotherOakwood.esp
 *Ryn's Mehrunes Dagon Shrine.esp
@@ -172,12 +186,12 @@
 *JK's The Bannered Mare.esp
 *HLIORemi.esp
 *PAN_AIO_big.esp
-*PAN_NPCs.esp
+PAN_NPCs.esp
 *CivilWarCheckpoints - All.esp
 *OCW_TGCs_FEPatch.esp
 *MoreColorfulSceneryJars.esp
 *ACatsLife.esp
-*ACatsLifePatchiNeed.esp
+ACatsLifePatchiNeed.esp
 *JK's Sleeping Giant Inn.esp
 *JK's Angelines Aromatics.esp
 *JK's Temple of Talos.esp
@@ -207,7 +221,7 @@
 *018Auri.esp
 *Boulder in Skyrim.esp
 *Bijin AIO.esp
-*Bijin AIO - Hair Physics.esp
+Bijin AIO - Hair Physics.esp
 *Relationship Dialogue Overhaul.esp
 *mihaildwarvenautomatonspack.esp
 *JK's Sadris Used Wares.esp
@@ -228,7 +242,7 @@
 *Hunters Not Bandits.esp
 *mihailseagull.esp
 *PAN_NPCs_Males2.esp
-*PAN_NPCs_Males3.esp
+PAN_NPCs_Males3.esp
 *CiFRPG.esp
 *mihailhangingchickens.esp
 *ZKN.esp
@@ -261,8 +275,8 @@
 *Lux Orbis - Saints and Seducers patch.esp
 *CWB_USSEP Patch.esp
 *WaterfromWells.esp
-*WfW HF Extended Patch.esp
-*WfW - DoS Patch.esp
+WfW HF Extended Patch.esp
+WfW - DoS Patch.esp
 *Lux Orbis - CC Fish patch.esp
 *GrandPaladinSE.esp
 *LockRelatedLoot.esp
@@ -282,7 +296,7 @@
 *mihailowl.esp
 *Soul Hunter Armor.esp
 *Lucien.esp
-*Lucien-AnniversaryEdition-Patch.esp
+Lucien-AnniversaryEdition-Patch.esp
 *Lux Orbis - Embers XD patch.esp
 *mihailcyrodiilianspriggan.esp
 *OCW_SoS_FEPatch.esp
@@ -302,12 +316,12 @@
 *j3x-autocrossbows.esp
 *Aethernautics.esp
 *LoS II - SMIM patch.esp
-*PAN_NPCs_Males.esp
+PAN_NPCs_Males.esp
 *ResplendentRoyals.esp
 *mihailgargoyleexpansion.esp
 *High Poly Head Vampire Fix.esp
 *Aymarandfriends.esp
-*Bijin Warmaidens.esp
+Bijin Warmaidens.esp
 *BVLT - Human.esp
 *Sharkish_Piercings.esp
 *MoreSovgardeStatues.esp
@@ -366,7 +380,6 @@
 *Malignis Sound FX.esp
 *DustEffectsSSE.esp
 *LuminousAtronachs.esp
-*JS Purses and Septims SE Patch.esp
 *Embers XD - Patch - Lux Orbis & LOS2.esp
 *Embers XD - Fire Magick Add-On.esp
 *Embers XD - Patch - Survival Mode.esp
@@ -400,7 +413,7 @@
 *Supreme Fog for Castle Volkihar.esp
 *Supreme Weathers - With Idles and Moving Objects.esp
 *Supreme Weathers - Obsidian Weathers-Rudy ENB Patch.esp
-*Supreme Weathers - Mists of Tamriel-Obsidian Weathers-Rudy ENB Patch.esp
+Supreme Weathers - Mists of Tamriel-Obsidian Weathers-Rudy ENB Patch.esp
 *TrueDirectionalMovement.esp
 *True Storms - Obsidian Weathers - Patch .esp
 *Use Special Markers.esp
@@ -439,11 +452,11 @@
 *AX ValSerano-JKTempleOfDibella.esp
 *AX ValSerano-JKTempleOfMara.esp
 *Even More Competent Giant at Pelagia Farm.esp
-*Bijin NPCs.esp
+Bijin NPCs.esp
 *mihailhircinicaspects.esp
 *BlackreachMudcrabs.esp
 *BBs Uthgerd the Unbroken.esp
-*Bijin Wives.esp
+Bijin Wives.esp
 *Blackreach Mudcrabs - Wyrmstooth Patch.esp
 *Project Cougar - Anise.esp
 *Project Cougar - Hafjorg.esp
@@ -461,7 +474,7 @@
 *ORomancePlus.esp
 *HothFollower.esp
 *PAN_Nameless - Vampires.esp
-*PAN_NPCs_DB.esp
+PAN_NPCs_DB.esp
 *Project Cougar - Idgrod the Younger Optional.esp
 *mihailvampireshadowsandskeletons.esp
 *Refined Auri.esp
@@ -471,8 +484,8 @@
 *RSChildren.esp
 *RSChildren Patch - BS Bruma.esp
 *Lucien-Bruma-Patch.esp
-*PAN_NPCs_Males2 - AI Overhaul SSE patch.esp
-*PAN_NPCs_DG.esp
+PAN_NPCs_Males2 - AI Overhaul SSE patch.esp
+PAN_NPCs_DG.esp
 *ResplendentRoyals_AIOverhaul_Patch.esp
 *Project Cougar - LillithMaidenLoom.esp
 *mihailDsentry.esp
@@ -598,7 +611,7 @@
 *Daedric Dagger from Morrowind by Revoith 2K STANDALONE.esp
 *DanpHravnaDagger.esp
 *DEG_DontEatGlass.esp
-*DontEatGlass_GlassBottleRecycling.esp
+DontEatGlass_GlassBottleRecycling.esp
 *DrSMeadKegPack.esp
 *Dwemer Half Moon Glasses.esp
 *DwemerResearcherArmor.esp
@@ -651,10 +664,10 @@
 *GourmetFishing.esp
 *GourmetMysticism.esp
 *LittleLessons.esp
-Immersive Citizens - AI Overhaul.esp
+*Immersive Citizens - AI Overhaul.esp
 *JK's The Winking Skeever.esp
 *Imperious - Races of Skyrim.esp
-*Trade & Barter.esp
+*trade & barter.esp
 *Complete Crafting Overhaul_Remastered.esp
 *Smithing Perks Overhaul SE.esp
 *FalmerEquipArmor_CCOR_Patch.esp
@@ -677,7 +690,7 @@ Immersive Citizens - AI Overhaul.esp
 *Sacrilege - Minimalistic Vampires of Skyrim.esp
 *Sacrilege - Fishing Compatibility Patch.esp
 *CoverYourHead - Sacrilege.esp
-nwsFollowerFramework.esp
+*nwsFollowerFramework.esp
 *SDA NFF Patch.esp
 *Water for ENB (Shades of Skyrim).esp
 *Water for ENB - Patch - Darker LOD Water.esp
@@ -685,8 +698,8 @@ nwsFollowerFramework.esp
 DynDOLOD.esp
 *Lux - USSEP patch.esp
 *OCW_CellSettings.esp
-CoinPurseIncrease.esp
-Modern Brawl Bug Fix.esp
+*CoinPurseIncrease.esp
+*Modern Brawl Bug Fix.esp
 *Occlusion.esp
 *Skyshards.esp
 *Skyshards - Lite.esp
@@ -694,27 +707,166 @@ Modern Brawl Bug Fix.esp
 *AdditionalRecipes_BCS.esp
 *Alchemy Requires Bottles Redux.esp
 *Awesome Potions Simplified by Revoith.esp
-HOR_AlchemyXP30.esp
+*HOR_AlchemyXP30.esp
 *WiZkiD Forgotten Potions.esp
-lotuspoison.esp
+*lotuspoison.esp
 *Food Integration - CACO.esp
-lotuspoison caco cp.esp
+*lotuspoison caco cp.esp
 *CheeseWheelMaker.esp
-Coffee.esp
+*Coffee.esp
 *Food Integration - CC Fishing.esp
-*Teayum - Food Integration.esp
 *Food integration  - Tamrielic Coffee And Tea.esp
 *Food Integration - Bruma.esp
-mealtimeyum.esp
-Mystic Condenser - USSEP Patch.esp
-Mystic Condenser.esp
+*mealtimeyum.esp
+*Mystic Condenser - USSEP Patch.esp
+*Mystic Condenser.esp
 *Skyrim Food Expansion - Artichoke Plants.esp
 *Skyrim Food Expansion.esp
 *Skyrim On Skooma.esp
-yumcheese.esp
+*yumcheese.esp
+Cheesemod - SkyTEST.esp
 *Food Integration - Cheesemod.esp
 *Cheesemod - Whiterun Skyforge patch.esp
-*Cheesemod - SkyTEST.esp
-Equippable Tomes.esp
-Equippable Tomes - Campfire Add-On.esp
+*Equippable Tomes.esp
+*Equippable Tomes - Campfire Add-On.esp
 *Diverse Chicken Coops.esp
+*JS Barenziah SE - Johnskyrim.esp
+*MLPSoulGems.esp
+*1nivWICCloaks.esp
+*[Imp] Ayleid Piercings.esp
+*[Imp] Ayleid Piercings Slot 60.esp
+*BandolierForNPC.esp
+BandolierForNPC - Merchants - WiC Wearable Lanterns Patch.esp
+*BandolierForNPC - Weapons Armor Clothing Clutter Patch.esp
+*BandolierForNPC - Cutting Room Floor Patch.esp
+*Children Clothes Variations.esp
+*Children Clothes Variations Gifting Addon.esp
+*Cloaks.esp
+*Cloaks - Dawnguard.esp
+*BandolierForNPC - WiC CoS CCOR Patch.esp
+*Cloaks - USSEP Patch.esp
+*Dr_Bandolier.esp
+*BandolierForNPC - Less Common.esp
+*LoweredHoods.esp
+*LoweredHoods_WACCF.esp
+*LoweredHoods_WetAndCold.esp
+*DNPCsForswornStaffs.esp
+*[Caenarvon] Magecore.esp
+*Ultimate Lingerie Collection 2.esp
+*BandagesforNPCs.esp
+*DNPCsCirclets.esp
+*DNPCsGhosuHelmets.esp
+*DNPCsBB.esp
+*DNPCsBlanketScarf.esp
+*DNPCsDogBackpacks.esp
+*DNPCsDruidBackpack.esp
+*DNPCsFishingGear.esp
+*DNPCsHairFlowers.esp
+*DNPCsHipBags.esp
+*DNPCsSkullHeaddress.esp
+*EquipSpellTomesNELRtoNPCs.esp
+*RealisticWaterTwo.esp
+*RealisticWaterTwo - Falskaar.esp
+*RealisticWaterTwo - Waves - Falskaar.esp
+*RealisticWaterTwo - Beyond Reach.esp
+*RealisticWaterTwo - Beyond Skyrim Bruma.esp
+*RealisticWaterTwo - Waves - Wyrmstooth.esp
+*man_sithis.esp
+*UniqueBorderGates-All.esp
+*Fort(ified) Dawnguard.esp
+*Thieves Guild Redone.esp
+*sanctuarycleanup.esp
+*Vokrii - Metric Units Patch.esp
+*GLAM Astrid Gabriella.esp
+*NPCs_Wear_Amulets_Of_Mara.esp
+*Racial Skin Variance - SPID.esp
+*RSV - Add On - Classes.esp
+*BnP - Skinfix.esp
+*Dirt and Blood - Shader Tweak.esp
+*ArcheryLocationalDamage.esp
+*Nerf Enemy Archers.esp
+*FusRoDoor.esp
+*iUnlock - A Simple and Immersive Unlock Spell.esp
+*VampireLordsCanActivate.esp
+*Must be my imagination.esp
+*FollowerWander2.esp
+*FastTravelSpeed.esp
+*StayArrowStayV1.0high-end.esp
+*J42_ArmorRatingRedux.esp
+*ShieldsIncreaseArmorSkill.esp
+*CrimeDecay.esp
+*Realistic Pickpocket Chance.esp
+*suspiciouscityguards.esp
+*Cannabis - animations.esp
+*Conditional Expressions.esp
+*SolitudeTempleFrescoes.esp
+*McmRecorder.esp
+*New Falmers.esp
+*TougherGeneralTullius.esp
+*MoreBrains.esp
+*TravelingMercs.esp
+*RealRabbitsHD.esp
+*LeapsOfFaith.esp
+*Sleep in Lingerie.esp
+*Bandit Lines Expansion.esp
+*ImperialShields.esp
+*StandaloneTopless.esp
+*Apophysis_DPM_SE.esp
+*[AMI] DX Fetish Fashion Volume 1.esp
+*[AMI] DX Necromancer Robes.esp
+*[ELLE] Tribal Scout.esp
+*MasterThiefRemastered.esp
+*Chesko_WearableLantern.esp
+*dovahkiinrelax.esp
+*DX Staff of Necromancy.esp
+*DX Fetish Fashion Volume 1 SE.esp
+*DX Necromancer Robes.esp
+*JS Armored Circlets SE.esp
+*LustmordVampireArmor.esp
+*RegaliaOfTheScorned.esp
+*GS.esp
+*Locked Chests Have Keys.esp
+*Underwater_Treasure.esp
+*Unlimited Charge for Unique Items.esp
+*PipeSmokingSE.esp
+*Unlimited Charge - Unique Uniques Compatibility Patch.esp
+*Salmon Slicer.esp
+*JSCircletReplacer_CCOR_Patch.esp
+*Cloaks_CCOR_Patch.esp
+*1nivWICCloaks_COS_CCOR_Patch.esp
+*CACO_Wintersun.esp
+*gourmet_t&b_patch.esp
+*CCOR_Campfire_Patch.esp
+*cloaks_ace_patch.esp
+*saints&seducers_ccor_patch.esp
+*beyond skyrim bruma_ccor_patch.esp
+*beyondreach_ccor_patch.esp
+*BookCoversSkyrim_CCOR_Patch.esp
+*caco rare curios patch.esp
+*CACO_BookCoversSkyrim_Patch.esp
+*CACO_Falskaar_Patch.esp
+*CACO_Moonpath_Patch.esp
+*caco_saints&seducers.esp
+*CACO_SunHelm.esp
+*CACO_Wyrmstooth_Patch.esp
+*cc-fishing_caco_patch.esp
+*cc-fishing_ccor_patch.esp
+*CCOR_Vokrii.esp
+*hunterborn_ccor_patch.esp
+*cuttingroomfloor_caco_patch.esp
+*cuttingroomfloor_waccf_patch.esp
+*ussep_ace_patch.esp
+*Dr_Bandolier_CCOR_Patch.esp
+*Faction Crossbows_CCOR_Patch.esp
+*ZimsImmersiveArtifacts_WACCF_Patch.esp
+*GemlingQueen_CCOR_Patch.esp
+*gourmet_waccf_patch.esp
+*Hunterborn_CACO-SE_Patch.esp
+*Inigo_CACO_Patch.esp
+*OBIS WACCF Patch.esp
+*Odin_CACO_Patch.esp
+*Sacrilege_CACO_Patch.esp
+*Unique Uniques_CCOR_Patch.esp
+*RelationshipDialogueOverhaul_CACO_Patch.esp
+*RSChildren_WACCF_Patch.esp
+*JS Purses and Septims SE Patch.esp
