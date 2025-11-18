@@ -12,24 +12,27 @@ ccbgssse037-curios.bsa
 ccbgssse025-advdsgs.bsa
 ccbgssse001-fish.bsa
 _ResourcePack.bsa
-unofficial skyrim special edition patch - textures.bsa
 unofficial skyrim special edition patch.bsa
+unofficial skyrim special edition patch - textures.bsa
 Campfire.bsa
 Modern Brawl Bug Fix.bsa
 MCMHelper.bsa
 RaceMenu.bsa
-SkyUI_SE.bsa
-Wildcat - Combat of Skyrim - Textures.bsa
-Wildcat - Combat of Skyrim.bsa
 Next-Gen Decapitations.bsa
 Dismembering Framework.bsa
+Wildcat - Combat of Skyrim.bsa
+Wildcat - Combat of Skyrim - Textures.bsa
 MysticismMagic.bsa
-Odin - Skyrim Magic Overhaul - Textures.bsa
 Odin - Skyrim Magic Overhaul.bsa
-Sacrilege - Minimalistic Vampires of Skyrim - Textures.bsa
+Odin - Skyrim Magic Overhaul - Textures.bsa
+FusRoDoor.bsa
 Sacrilege - Minimalistic Vampires of Skyrim.bsa
+Sacrilege - Minimalistic Vampires of Skyrim - Textures.bsa
+FollowerWander2.bsa
 run for your lives - textures.bsa
 run for your lives.bsa
+Must be my imagination.bsa
+ShieldsIncreaseArmorSkill.bsa
 Vokrii - Minimalistic Perks of Skyrim - Textures.bsa
 Vokrii - Minimalistic Perks of Skyrim.bsa
 NirnrootAlchemyExperience.bsa
@@ -37,25 +40,21 @@ ArcheryDummyXP.bsa
 ReadingIsGood.bsa
 Skyshards.bsa
 SunHelmSurvival.bsa
-Complete Alchemy & Cooking Overhaul.bsa
 Complete Alchemy & Cooking Overhaul - Textures.bsa
+Complete Alchemy & Cooking Overhaul.bsa
 Smithing Perks Overhaul SE.bsa
-Complete Crafting Overhaul_Remastered - Textures.bsa
 Complete Crafting Overhaul_Remastered.bsa
+Complete Crafting Overhaul_Remastered - Textures.bsa
 trade & barter.bsa
+suspiciouscityguards.bsa
 Andromeda - Unique Standing Stones of Skyrim.bsa
 Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
 Imperious - Races of Skyrim - Textures.bsa
 Imperious - Races of Skyrim.bsa
-Wintersun - Faiths of Skyrim - Textures.bsa
 Wintersun - Faiths of Skyrim.bsa
-DeadlyDragons - Textures.bsa
+Wintersun - Faiths of Skyrim - Textures.bsa
 DeadlyDragons.bsa
-FusRoDoor.bsa
-FollowerWander2.bsa
-Must be my imagination.bsa
-ShieldsIncreaseArmorSkill.bsa
-suspiciouscityguards.bsa
+DeadlyDragons - Textures.bsa
 Use Special Markers.bsa
 Cathedral Landscapes.bsa
 Book Covers Skyrim - Textures.bsa
@@ -64,15 +63,15 @@ Lux Via.bsa
 Lux Via - Textures.bsa
 Lux - Resources.bsa
 Lux - Resources - Textures.bsa
+High Poly Head.bsa
 TrueStormsSE.bsa
 TrueStormsSE - Textures.bsa
 Obsidian Weathers.bsa
-MoreColorfulAuroras.bsa
 MoreColorfulAuroras - Textures.bsa
+MoreColorfulAuroras.bsa
 DustEffectsSSE.bsa
 Sanguine Symphony - Textures.bsa
 Sanguine Symphony.bsa
-High Poly Head.bsa
 Footprints.bsa
 Skyrim - Textures0.bsa
 Skyrim - Textures1.bsa
@@ -86,28 +85,28 @@ Skyrim - Textures8.bsa
 Audio Overhaul Skyrim.bsa
 iWant Status Bars.bsa
 UIExtensions.bsa
-Resources - The Great Cities - Textures.bsa
+SkyUI_SE.bsa
 Resources - The Great Cities.bsa
-Dawn of Skyrim.bsa
+Resources - The Great Cities - Textures.bsa
 Dawn of Skyrim - Textures.bsa
-Riften Docks Overhaul - Textures.bsa
+Dawn of Skyrim.bsa
 Riften Docks Overhaul.bsa
+Riften Docks Overhaul - Textures.bsa
 JK's Whiterun's Outskirts.bsa
 AnotherOakwood.bsa
 HammetDungeon01.bsa
 HammetDungeon02.bsa
-Stendarr Rising - Textures.bsa
 Stendarr Rising.bsa
+Stendarr Rising - Textures.bsa
 JK's Sleeping Giant Inn.bsa
 JK's Haelga's Bunkhouse.bsa
 JK's Radiant Raiment.bsa
 JK's Sky Haven Temple.bsa
 JK's Castle Volkihar.bsa
 JK's Castle Dour.bsa
-JK's Dragonsreach.bsa
 JK's High Hrothgar.bsa
-JK's New Gnisis Cornerclub.bsa
 JK's New Gnisis Cornerclub - Textures.bsa
+JK's New Gnisis Cornerclub.bsa
 JK's Palace of the Kings.bsa
 JKs The Drunken Huntsman.bsa
 JK's The Winking Skeever.bsa
@@ -123,22 +122,22 @@ JK's Windhelm's Outskirts.bsa
 JK's Raven Rock.bsa
 JK's Septimus Signus's Outpost.bsa
 Dibellan Baths.bsa
-Falkreath_Bathhouse.bsa
 Falkreath_Bathhouse - Textures.bsa
+Falkreath_Bathhouse.bsa
 Riften_Bathhouse - Textures.bsa
 Riften_Bathhouse.bsa
 OCW_Obscure's_CollegeofWinterhold.bsa
 OCW_Obscure's_CollegeofWinterhold - Textures.bsa
 OCW_CWI Exterior Magelights.bsa
 UniqueBorderGates-All.bsa
-LoS II - Lantern Workers - Textures.bsa
 LoS II - Lantern Workers.bsa
-Lanterns Of Skyrim II - Textures.bsa
+LoS II - Lantern Workers - Textures.bsa
 Lanterns OF Skyrim II.bsa
-BugJarReplacer - Textures.bsa
+Lanterns Of Skyrim II - Textures.bsa
 BugJarReplacer.bsa
-MoreColorfulSceneryJars.bsa
+BugJarReplacer - Textures.bsa
 MoreColorfulSceneryJars - Textures.bsa
+MoreColorfulSceneryJars.bsa
 DestructibleDisplayCases.bsa
 DestructibleDisplayCases - Textures.bsa
 JK's Riverfall Cottage.bsa
@@ -150,13 +149,19 @@ Wyrmstooth - Textures.bsa
 BSAssets - Textures.bsa
 BSAssets.bsa
 BS_DLC_patch.bsa
-arnima.bsa
 arnima - Textures.bsa
+arnima.bsa
 BSHeartland.bsa
 BSHeartland - Textures.bsa
 Immersive Citizens - AI Overhaul.bsa
-RSChildren - Textures.bsa
 RSChildren.bsa
+RSChildren - Textures.bsa
+NPC Appearances Merged - Textures1.bsa
+NPC Appearances Merged - Textures.bsa
+NPC Appearances Merged - Textures0.bsa
+NPC Appearances Merged - Textures2.bsa
+NPC Appearances Merged.bsa
+NPC Appearances Merged0.bsa
 Relationship Dialogue Overhaul.bsa
 FCO - Follower Commentary Overhaul.bsa
 SeranaDialogAddon.bsa
@@ -165,21 +170,21 @@ Inigo.bsa
 Lucien.bsa
 Lucien-AnniversaryEdition-Patch.bsa
 Lucien-Bruma-Patch.bsa
-0Kaidan.bsa
 0Kaidan - Textures.bsa
+0Kaidan.bsa
 FA01RedcapFollower.bsa
 AX ValSerano.bsa
 BPUFXelzazFollowerAE.bsa
-BPUFXelzazFollower - Textures.bsa
 BPUFXelzazFollower.bsa
+BPUFXelzazFollower - Textures.bsa
 HLIORemi - Textures.bsa
-HLIZRemiArnima.bsa
 HLIORemi.bsa
+HLIZRemiArnima.bsa
 HothFollower.bsa
 OBIS SE - Textures.bsa
 New Falmers.bsa
-Bears of the North.bsa
 Bears of the North - Textures.bsa
+Bears of the North.bsa
 Zim's Improved Dremora.bsa
 Zim's Improved Dremora - Textures.bsa
 Ancient Nord Stalhrim.bsa
@@ -187,78 +192,73 @@ Ancient Nord Stalhrim - Textures.bsa
 DynamicAnimalVariantsPlus.bsa
 melyfairy - textures.bsa
 melyfairy.bsa
-ogBogmort.bsa
 ogBogmort - Textures.bsa
+ogBogmort.bsa
 ACatsLife.bsa
 ADogsLife.bsa
 ogSkinshifter - Textures.bsa
 ogSkinshifter.bsa
 DF - Official Creature Pack.bsa
 DF - Official Humanoid Pack.bsa
-BB's College of Winterhold NPC Overhaul Revisited - Men.bsa
-BB's College of Winterhold NPC Overhaul Revisited - Women.bsa
-BB's Dark Brotherhood NPC Overhaul Revisited - Men.bsa
-BB's Dark Brotherhood NPC Overhaul Revisited - Women.bsa
-ResplendentRoyals.bsa
-Pirates Wield Cutlasses.bsa
 Pirates Wield Cutlasses - Textures.bsa
+Pirates Wield Cutlasses.bsa
 Weapons Armor Clothing & Clutter Fixes.bsa
 Weapons Armor Clothing & Clutter Fixes - Textures.bsa
 Radiance - Johnskyrim.bsa
-Apophysis_DPM_SE - Textures.bsa
 Apophysis_DPM_SE.bsa
+Apophysis_DPM_SE - Textures.bsa
 waccf_armor and clothing extension.bsa
 waccf_armor and clothing extension - textures.bsa
-DwemerResearcherArmor - Textures.bsa
 DwemerResearcherArmor.bsa
+DwemerResearcherArmor - Textures.bsa
 FalmerEquipArmor.bsa
-Dr_Bandolier.bsa
 Dr_Bandolier - Textures.bsa
+Dr_Bandolier.bsa
 JS Armored Circlets SE.bsa
-KvetchiMercenary.bsa
 KvetchiMercenary - Textures.bsa
-Chesko_WearableLantern.bsa
+KvetchiMercenary.bsa
 Chesko_WearableLantern - Textures.bsa
+Chesko_WearableLantern.bsa
 ArtifactsOfBoethiah.bsa
 PrvtIRoyalArmory.bsa
-ZIA_Complete Pack.bsa
 ZIA_Complete Pack - Textures.bsa
+ZIA_Complete Pack.bsa
 Gourmet.bsa
 Equippable Tomes - Textures.bsa
 Equippable Tomes.bsa
 ReadingGlasses.bsa
-DrSMeadKegPack.bsa
 DrSMeadKegPack - Textures.bsa
+DrSMeadKegPack.bsa
 Eli_LeatherBackpack.bsa
 Eli_LeatherBackpack - Textures.bsa
 PipeSmokingSE.bsa
-EquipSpellTomesNELRtoNPCs.bsa
 EquipSpellTomesNELRtoNPCs - Textures.bsa
+EquipSpellTomesNELRtoNPCs.bsa
 cutting room floor - textures.bsa
 cutting room floor.bsa
-forgottencity.bsa
 forgottencity - textures.bsa
+forgottencity.bsa
 MoonAndStar_MAS - Textures.bsa
 MoonAndStar_MAS.bsa
 GrandPaladinSE.bsa
 GrandPaladinSE - Textures.bsa
-MzarkWonders - Textures.bsa
 MzarkWonders.bsa
-Clockwork - Textures.bsa
+MzarkWonders - Textures.bsa
 Clockwork.bsa
-Aethernautics.bsa
+Clockwork - Textures.bsa
 Aethernautics - Textures.bsa
-blackreachrailroadnew.bsa
+Aethernautics.bsa
 blackreachrailroadnew - Textures.bsa
+blackreachrailroadnew.bsa
 Glenmoril.bsa
 moonpath - textures.bsa
 moonpath.bsa
-Dwarfsphere.bsa
 Dwarfsphere - Textures.bsa
-Undeath - Textures.bsa
+Dwarfsphere.bsa
 Undeath.bsa
-Tools of Kagrenac - Textures.bsa
+Undeath - Textures.bsa
 Tools of Kagrenac.bsa
+Tools of Kagrenac - Textures.bsa
 WheelsOfLull - Textures.bsa
 WheelsOfLull.bsa
 Vigilant.bsa

@@ -1,4 +1,0 @@
-Timestamp: 10/19/2025 05:10:44
-MO2Base : G:\Skyrim Mods\05-MO2-Portable
-GameRoot: G:\Games\Steam\steamapps\common\Skyrim Special Edition
-UserDocs: C:\Users\Imper\Documents\My Games\Skyrim Special Edition

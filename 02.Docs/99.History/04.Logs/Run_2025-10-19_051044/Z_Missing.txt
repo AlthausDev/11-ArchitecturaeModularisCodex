@@ -1,7 +1,0 @@
-EngineFixes.log
-SSEDisplayTweaks.log
-enbseries.log
-skse64.log
-MO2_logs
-Crashlogs
-po3_PapyrusExtender.log
