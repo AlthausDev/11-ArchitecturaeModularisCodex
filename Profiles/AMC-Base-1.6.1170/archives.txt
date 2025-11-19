@@ -20,14 +20,14 @@ MCMHelper.bsa
 RaceMenu.bsa
 Next-Gen Decapitations.bsa
 Dismembering Framework.bsa
-Wildcat - Combat of Skyrim.bsa
 Wildcat - Combat of Skyrim - Textures.bsa
+Wildcat - Combat of Skyrim.bsa
 MysticismMagic.bsa
-Odin - Skyrim Magic Overhaul.bsa
 Odin - Skyrim Magic Overhaul - Textures.bsa
+Odin - Skyrim Magic Overhaul.bsa
 FusRoDoor.bsa
-Sacrilege - Minimalistic Vampires of Skyrim.bsa
 Sacrilege - Minimalistic Vampires of Skyrim - Textures.bsa
+Sacrilege - Minimalistic Vampires of Skyrim.bsa
 FollowerWander2.bsa
 run for your lives - textures.bsa
 run for your lives.bsa
@@ -43,8 +43,8 @@ SunHelmSurvival.bsa
 Complete Alchemy & Cooking Overhaul - Textures.bsa
 Complete Alchemy & Cooking Overhaul.bsa
 Smithing Perks Overhaul SE.bsa
-Complete Crafting Overhaul_Remastered.bsa
 Complete Crafting Overhaul_Remastered - Textures.bsa
+Complete Crafting Overhaul_Remastered.bsa
 trade & barter.bsa
 suspiciouscityguards.bsa
 Andromeda - Unique Standing Stones of Skyrim.bsa
@@ -57,18 +57,18 @@ DeadlyDragons.bsa
 DeadlyDragons - Textures.bsa
 Use Special Markers.bsa
 Cathedral Landscapes.bsa
-Book Covers Skyrim - Textures.bsa
 Book Covers Skyrim.bsa
-Lux Via.bsa
+Book Covers Skyrim - Textures.bsa
 Lux Via - Textures.bsa
-Lux - Resources.bsa
 Lux - Resources - Textures.bsa
+Lux Via.bsa
+Lux - Resources.bsa
 High Poly Head.bsa
 TrueStormsSE.bsa
 TrueStormsSE - Textures.bsa
 Obsidian Weathers.bsa
-MoreColorfulAuroras - Textures.bsa
 MoreColorfulAuroras.bsa
+MoreColorfulAuroras - Textures.bsa
 DustEffectsSSE.bsa
 Sanguine Symphony - Textures.bsa
 Sanguine Symphony.bsa
@@ -103,7 +103,6 @@ JK's Haelga's Bunkhouse.bsa
 JK's Radiant Raiment.bsa
 JK's Sky Haven Temple.bsa
 JK's Castle Volkihar.bsa
-JK's Castle Dour.bsa
 JK's High Hrothgar.bsa
 JK's New Gnisis Cornerclub - Textures.bsa
 JK's New Gnisis Cornerclub.bsa
@@ -114,36 +113,36 @@ JK's Thieves Guild.bsa
 JK's Understone Keep.bsa
 JK's Blue Palace.bsa
 JK's Dark Brotherhood Sanctuary.bsa
-JK's The Bards College - Textures.bsa
 JK's The Bards College.bsa
+JK's The Bards College - Textures.bsa
 JK's Sinderion's Field Laboratory.bsa
 JK's Fort Dawnguard.bsa
 JK's Windhelm's Outskirts.bsa
 JK's Raven Rock.bsa
 JK's Septimus Signus's Outpost.bsa
 Dibellan Baths.bsa
-Falkreath_Bathhouse - Textures.bsa
 Falkreath_Bathhouse.bsa
-Riften_Bathhouse - Textures.bsa
+Falkreath_Bathhouse - Textures.bsa
 Riften_Bathhouse.bsa
-OCW_Obscure's_CollegeofWinterhold.bsa
+Riften_Bathhouse - Textures.bsa
 OCW_Obscure's_CollegeofWinterhold - Textures.bsa
+OCW_Obscure's_CollegeofWinterhold.bsa
 OCW_CWI Exterior Magelights.bsa
 UniqueBorderGates-All.bsa
-LoS II - Lantern Workers.bsa
+Lanterns Of Skyrim II - Textures.bsa
 LoS II - Lantern Workers - Textures.bsa
 Lanterns OF Skyrim II.bsa
-Lanterns Of Skyrim II - Textures.bsa
-BugJarReplacer.bsa
+LoS II - Lantern Workers.bsa
 BugJarReplacer - Textures.bsa
-MoreColorfulSceneryJars - Textures.bsa
+BugJarReplacer.bsa
 MoreColorfulSceneryJars.bsa
-DestructibleDisplayCases.bsa
+MoreColorfulSceneryJars - Textures.bsa
 DestructibleDisplayCases - Textures.bsa
+DestructibleDisplayCases.bsa
 JK's Riverfall Cottage.bsa
 ForgottenArt.bsa
-Falskaar - Textures.bsa
 Falskaar.bsa
+Falskaar - Textures.bsa
 Wyrmstooth.bsa
 Wyrmstooth - Textures.bsa
 BSAssets - Textures.bsa
@@ -151,14 +150,14 @@ BSAssets.bsa
 BS_DLC_patch.bsa
 arnima - Textures.bsa
 arnima.bsa
-BSHeartland.bsa
 BSHeartland - Textures.bsa
+BSHeartland.bsa
 Immersive Citizens - AI Overhaul.bsa
 RSChildren.bsa
 RSChildren - Textures.bsa
-NPC Appearances Merged - Textures1.bsa
 NPC Appearances Merged - Textures.bsa
 NPC Appearances Merged - Textures0.bsa
+NPC Appearances Merged - Textures1.bsa
 NPC Appearances Merged - Textures2.bsa
 NPC Appearances Merged.bsa
 NPC Appearances Merged0.bsa
@@ -175,25 +174,25 @@ Lucien-Bruma-Patch.bsa
 FA01RedcapFollower.bsa
 AX ValSerano.bsa
 BPUFXelzazFollowerAE.bsa
-BPUFXelzazFollower.bsa
 BPUFXelzazFollower - Textures.bsa
+BPUFXelzazFollower.bsa
 HLIORemi - Textures.bsa
-HLIORemi.bsa
 HLIZRemiArnima.bsa
+HLIORemi.bsa
 HothFollower.bsa
 OBIS SE - Textures.bsa
 New Falmers.bsa
-Bears of the North - Textures.bsa
 Bears of the North.bsa
-Zim's Improved Dremora.bsa
+Bears of the North - Textures.bsa
 Zim's Improved Dremora - Textures.bsa
-Ancient Nord Stalhrim.bsa
+Zim's Improved Dremora.bsa
 Ancient Nord Stalhrim - Textures.bsa
+Ancient Nord Stalhrim.bsa
 DynamicAnimalVariantsPlus.bsa
 melyfairy - textures.bsa
 melyfairy.bsa
-ogBogmort - Textures.bsa
 ogBogmort.bsa
+ogBogmort - Textures.bsa
 ACatsLife.bsa
 ADogsLife.bsa
 ogSkinshifter - Textures.bsa
@@ -202,30 +201,30 @@ DF - Official Creature Pack.bsa
 DF - Official Humanoid Pack.bsa
 Pirates Wield Cutlasses - Textures.bsa
 Pirates Wield Cutlasses.bsa
-Weapons Armor Clothing & Clutter Fixes.bsa
 Weapons Armor Clothing & Clutter Fixes - Textures.bsa
+Weapons Armor Clothing & Clutter Fixes.bsa
 Radiance - Johnskyrim.bsa
 Apophysis_DPM_SE.bsa
 Apophysis_DPM_SE - Textures.bsa
 waccf_armor and clothing extension.bsa
 waccf_armor and clothing extension - textures.bsa
-DwemerResearcherArmor.bsa
 DwemerResearcherArmor - Textures.bsa
+DwemerResearcherArmor.bsa
 FalmerEquipArmor.bsa
 Dr_Bandolier - Textures.bsa
 Dr_Bandolier.bsa
 JS Armored Circlets SE.bsa
-KvetchiMercenary - Textures.bsa
 KvetchiMercenary.bsa
-Chesko_WearableLantern - Textures.bsa
+KvetchiMercenary - Textures.bsa
 Chesko_WearableLantern.bsa
+Chesko_WearableLantern - Textures.bsa
 ArtifactsOfBoethiah.bsa
 PrvtIRoyalArmory.bsa
-ZIA_Complete Pack - Textures.bsa
 ZIA_Complete Pack.bsa
+ZIA_Complete Pack - Textures.bsa
 Gourmet.bsa
-Equippable Tomes - Textures.bsa
 Equippable Tomes.bsa
+Equippable Tomes - Textures.bsa
 ReadingGlasses.bsa
 DrSMeadKegPack - Textures.bsa
 DrSMeadKegPack.bsa
@@ -248,15 +247,15 @@ Clockwork.bsa
 Clockwork - Textures.bsa
 Aethernautics - Textures.bsa
 Aethernautics.bsa
-blackreachrailroadnew - Textures.bsa
 blackreachrailroadnew.bsa
+blackreachrailroadnew - Textures.bsa
 Glenmoril.bsa
-moonpath - textures.bsa
 moonpath.bsa
+moonpath - textures.bsa
 Dwarfsphere - Textures.bsa
 Dwarfsphere.bsa
-Undeath.bsa
 Undeath - Textures.bsa
+Undeath.bsa
 Tools of Kagrenac.bsa
 Tools of Kagrenac - Textures.bsa
 WheelsOfLull - Textures.bsa

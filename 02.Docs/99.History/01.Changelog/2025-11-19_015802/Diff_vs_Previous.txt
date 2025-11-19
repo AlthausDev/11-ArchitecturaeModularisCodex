@@ -1,0 +1,10 @@
+﻿=== Diff de mods HABILITADOS vs snapshot anterior ===
+Actual : 2025-11-19_015802
+Previo : 2025-11-18_225316
+
+ADD (2)
+  + 07.06-World-Interiors-JKs-CastleDour 07.06-World-Interiors-JKs-CastleDour-Castellano
+  + 12.04-Patches-ConflictResolutions-BookCovers-Castellano 12.04-Patches-ConflictResolutions-KryptopyrPatchHu-Castellano
+
+REM (0)
+

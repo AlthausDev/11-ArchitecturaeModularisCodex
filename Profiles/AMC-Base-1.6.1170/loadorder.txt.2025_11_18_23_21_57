@@ -14,7 +14,6 @@ _ResourcePack.esl
 1Dwemer.esl
 1NamelessSaber.esl
 melyfairy.esl
-Skyrim Project Optimization - Full ESL Version.esm
 1YsmirArmorSE.esl
 EVGAnimatedTraversal.esl
 Glenmoril.esm
@@ -62,18 +61,20 @@ unofficial skyrim special edition patch.esp
 VendorGoldScaling.esl
 WheelsOfLull.esp
 Wyrmstooth.esp
+DynDOLOD.esm
 BS_DLC_patch.esp
 Enhanced Landscapes.esp
 Perk Point Awards.esl
 Occ_Skyrim_AnniversaryFreeCC.esp
+Skyrim Project Optimization - Full ESL Version.esm
 1ChitinBow.esl
-AX ValSerano-AbyssalTides.esp
 ABT SE - Kevkas All-in-One.esp
 ABT SE - Loot Ammo.esp
 Caught Red Handed - OStim Patch.esp
+Environs - Greenwood Shack.esp
 DNPCsFaceMasks.esp
 ABT SE - Merchants Ammo.esp
-Environs - Greenwood Shack.esp
+AX ValSerano-AbyssalTides.esp
 evgHinterRanger - Adjustments.esp
 ImmersiveInteractions.esp
 HarvestOverhaul_Redone.esp
@@ -555,10 +556,10 @@ JKs Candlehearth Hall - ELFX Patch.esp
 JKs Candlehearth Hall - ELFX Hardcore Patch.esp
 JKs Candlehearth Hall - ELFX Enhancer Patch.esp
 JKs Candlehearth Hall - Capital Windhelm Expansion patch.esp
-JKs Candlehearth Hall - Art Imports patch.esp
 JKs Candlehearth Hall - Skyrim Unique Drinks Patch.esp
 JKs Candlehearth Hall - 3DNPC - SFCO Patch.esp
 JKs Candlehearth Hall - ESO Imports patch.esp
+JKs Candlehearth Hall - Art Imports patch.esp
 JKs Candlehearth Hall - 3DNPC Patch.esp
 JKs Candlehearth Hall - SFCO Patch.esp
 JKs Candlehearth Hall - JKs Skyrim patch.esp
@@ -1004,7 +1005,7 @@ Coffee.esp
 Food integration  - Tamrielic Coffee And Tea.esp
 College Of Winterhold - Quest Expansion.esp
 Craftable Locpicks - 10.esp
-Cutting Room Floor.esp
+cutting room floor.esp
 RDO - CRF + USSEP Patch.esp
 BandolierForNPC - Cutting Room Floor Patch.esp
 DX Staff of Necromancy.esp
@@ -1237,6 +1238,7 @@ NPC Appearances Merged - Textures1.esp
 NPC Appearances Merged - Textures0.esp
 NPC Appearances Merged - Textures2.esp
 NPC Appearances Merged0.esp
+JK's Castle Dour.esp
 JKs Temple of Dibella - Solitude and Temple Frescoes ESL No Lanterns patch.esp
 JKs Bannered Mare - AI Overhaul patch.esp
 JKs Elgrims Elixirs - Cheesemod Patch.esp
@@ -1411,6 +1413,8 @@ Occ_Skyrim - The Great Village of Kynesgrove patch.esp
 Occ_Skyrim_CuttinRoomFloor.esp
 Occ_Skyrim_Dawn-of-Skyrim_patch.esp
 Occ_Skyrim_JKSkyrim-DawnSkyrim_patch.esp
+DynDOLOD.esp
+Occlusion.esp
 cc-fishing_waccf_patch.esp
 CACO_JSPursesAndSeptims_Patch.esp
 saints&seducers_waccf_patch.esp
