@@ -1,0 +1,10 @@
+﻿=== Diff de mods HABILITADOS vs snapshot anterior ===
+Actual : 2025-11-20_010647
+Previo : 2025-11-19_015802
+
+ADD (2)
+  + 04.14-Visual-Effects – SmokingTorchesAndCandles
+  + 09.07-Items-Food-CoffeeAndTea-Castellano 08.03-NPCs-Appearance-EasyNPC_Output-Castellano 04.03-Visual-Lighting-EmbersXD-KD'sFireplace-ENB Light-Patch 04.03-Visual-Effects – SmokingTorchesAndCandles
+
+REM (0)
+

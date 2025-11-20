@@ -1,155 +1,118 @@
-# 🧩 Visión general – Bloques pendientes AMC v0.6.8 (orden actualizado)
+AMC – Informe de Estado Técnico (v0.7.9 – Build de Integración y Overrides)
 
-| Bloque            | Dificultad | Dependencias directas | Naturaleza             | Tipo de trabajo                                            |
-| :---------------- | :--------- | :-------------------- | :--------------------- | :--------------------------------------------------------- |
-| **09.Items**      | 🟠 Media   | 04 / 02 / 12          | Contenido y equilibrio | Equipamiento, economía, crafting, SPID tangible.           |
-| **11.Adult**      | 🔴 Alta    | 03 / 04.10 / 09       | Técnica avanzada       | Frameworks físicos, overlays, expresividad.                |
-| **08.NPCs**       | 🔴 Alta    | 04 / 11 / 12          | Creativa y técnica     | Replacers humanoides, facegen, coherencia visual, EasyNPC. |
-| **12.Patches**    | 🔶 Media   | Todos (04–11)         | Técnica pura           | Consistency, leveled lists, navmesh, conflict resolution.  |
-| **14.Generators** | 🔹 Baja    | 12                    | Técnica automatizada   | TexGen, DynDOLOD, Nemesis, Synthesis.                      |
-| **15.DevTools**   | 🟢 Baja    | —                     | Utilitaria             | Interfaz C#, automatización AMC.                           |
+Fecha: 2025-11-19
+Responsable: Sam (Aetheris Architect)
+Contexto del trabajo: Consolidación posterior a la segunda pasada de Generators
 
----
+🧩 1. Situación general del proyecto
 
-# ⚙️ Orden lógico de trabajo (**actualizado**)
+El proyecto Architecturae Modularis Codex (AMC) se encuentra en un estado avanzado de integración.
+Los bloques 00–11 están completamente implementados y funcionales.
+Actualmente se trabaja en el tramo final previo a 12.Patches, con enfoque en:
 
-## 💎 1️⃣ Bloque 09.Items – *Ecosistema tangible*
+Corrección de errores visuales y funcionales
 
-**Razón:** el mundo necesita loot, coherencia económica y variedad **antes** de decidir cómo reaccionan NPC y Adult frameworks.
+Overrides selectivos en xEdit
 
-### 🔹 Objetivo
+Validación de assets del merge NPC
 
-Definir el equipamiento global y sus probabilidades.
+Ajuste fino de configuraciones dinámicas (MCM, SPID, OAR, KID)
 
-### 🔧 Aproximación
+La estructura completa del load order está estable y se ha verificado que no existen incompatibilidades críticas.
 
-* Armors/Weapons coherentes con AMC (NordWarUA, Skyrim WE)
-* SPID para roles (guardias, bandidos, mercenarios)
-* Ajuste de peso, rareza, valor
-* Integración con economía (Trade & Barter)
+🔧 2. Generators (estado real tras la segunda pasada)
 
-### ⏱️ Duración estimada
+La segunda pasada completa de Generators se ha ejecutado con éxito excepto BodySlide, pendiente para el cierre.
 
-2–3 sesiones.
+✔️ Finalizado:
 
----
+TexGen: regeneración limpia con overrides ya corregidos
 
-## 🧬 2️⃣ Bloque 11.Adult – *Expresividad física*
+DynDOLOD: build coherente con NPC merge y 07.World cerrado
 
-**Razón:** frameworks de expresividad deben integrarse **antes** del facegen final humanoide para no pisar overlays ni tintmasks.
+Nemesis / OAR bridges: reconstruido tras el cierre de animaciones
 
-### 🔹 Objetivo
+Pandora: flujo estable
 
-Añadir expresividad al ecosistema humanoide.
+FSMP/CBPC: validado en runtime
 
-### 🔧 Aproximación
+⏳ Pendiente:
 
-* OStim NG
-* OBody NG
-* OpenAnimationRe (contexto)
-* MCM tuning
-* Física ligera (CBPC → prueba → SMP opcional)
+BodySlide pass final:
+Será el último paso antes de bloquear el árbol de 04.10/04.11.
 
-### ⏱️ Duración estimada
+🛠️ 3. Overrides y Parcheo Manual
 
-3–5 sesiones.
+Se está aplicando corrección iterativa sobre:
 
----
+NPCs con headparts desalineados
 
-## 🧠 3️⃣ Bloque 08.NPCs – *Ecosistema humanoide*
+overwrites heredados del merge de EasyNPC
 
-**Razón:** después del contenido tangible y expresivo, se congela **facegen**.
+conflictos menores con RSChildren / Realistic Children
 
-### 🔹 Objetivo
+integraciones entre AIO de JK’s Interiors y paquetes grandes
 
-Curar rostros, IA, outfits y coherencia estética.
+normalization de texturas/meshes en criaturas
 
-### 🔧 Aproximación
+comportamientos incorrectos producidos por SPID/KID
 
-1. Instalar todos los replacers humanoides
-2. Aplicar outfits SPID basados en 09
-3. Ejecutar **EasyNPC** una vez
-4. Revisar lighting interior (Lux Orbis)
+ajustes de física (FSMP) en faldones, cofias y capas sueltas
 
-### ⏱️ Duración estimada
+El flujo de trabajo actual es:
 
-4–6 sesiones.
+Identificar error en runtime
 
----
+Corregir en xEdit
 
-## 🧮 4️⃣ Bloque 12.Patches – *Consolidación técnica*
+Validar MCM/behavior en juego
 
-**Razón:** tras 09, 11 y 08 hay conflictos inevitables.
+Registrar override
 
-### 🔹 Objetivo
+Continuar con la siguiente incidencia
 
-Resolver:
+Este sistema garantiza no registrar cambios innecesarios, solo los efectivos.
 
-* Leveled lists
-* Outfit injectors
-* Tintmask overwrites
-* Facegen mismatches
-* Outfits SPID stack
+🪶 4. Post-procesado pendiente
 
-### ⏱️ Duración estimada
+Tras cerrar la fase de correcciones:
 
-3–4 sesiones.
+Exportación y guardado de configuraciones de MCM por mod
 
----
+Normalización de reglas de hechizos → desactivación de spells redundantes o invasivos
 
-## 🌄 5️⃣ Bloque 14.Generators – *Reconstrucción global*
+Limpieza de activos huérfanos (texturas, scripts no referenciados)
 
-**Razón:** solo se ejecutan cuando 12 está estabilizado.
+Validación de consistencia visual y de nombres AMC en 04.10/04.11
 
-### 🔧 Aproximación
+Creación de snapshots de estabilidad (perfil + logs)
 
-* DynDOLOD 3
-* TexGen
-* Nemesis
-* Occlusion
-* Grass Cache
+🔵 5. Próxima fase: 12.Patches
 
-### ⏱️ Duración estimada
+Una vez finalizada la corrección actual, se procederá a:
 
-1–2 sesiones.
+Consolidación profunda de conflictos (CR patches)
 
----
+Integración WACCF/CCOR
 
-## 💻 6️⃣ Bloque 15.DevTools – *Interfaz AMC*
+Ajuste de SPID/KID final
 
-**Razón:** última capa, sin dependencias.
+Integración de interacciones complejas entre mods grandes (Vigilant, Undeath, Bruma, Clockwork…)
 
-### 🔧 Aproximación
+Parches de compatibilidad de todos los merges
 
-* Botones de estado AMC:
-  `Deploy` / `Backup` / `QuickPush` / `Generators`
-* Logging en `15.04-Logs`
+Merge final de Leveled Lists AMC
 
-### ⏱️ Duración estimada
+Este paso marcará la transición hacia la preparación de AMC v0.8.0.
 
-2 sesiones.
+🏁 Resumen ejecutivo
 
----
+08.03 Appearance COMPLETAMENTE CERRADO (Merge único estable)
 
-## ⚔️ 7️⃣ Ajustes finales (02–03 retuning)
+Overrides en curso y avanzados
 
-**Razón:** afinación sobre densidad real del mundo.
+Generators en segunda pasada terminados salvo BodySlide
 
-| Bloque           | Tipo de ajuste                           | Cuándo hacerlo | Qué revisar                                  |
-| :--------------- | :--------------------------------------- | :------------- | :------------------------------------------- |
-| **02.Gameplay**  | Balance de combate, progresión, economía | Después de 08  | Wildcat stamina drain, economía, loot médio. |
-| **03.Animation** | Fluidez, idles, expresividad             | Después de 11  | Packs OAR, compatibilidad TDM.               |
+Sistema altamente estable en runtime
 
----
-
-# 🧭 Hoja de ruta AMC – Orden óptimo (v0.6.9+)
-
-| Orden | Bloque                   | Dificultad | Dependencias | Fase / Versión objetivo |
-| :---- | :----------------------- | :--------- | :----------- | :---------------------- |
-| 1     | **09.Items**             | 🟠 Media   | 04 / 02 / 12 | v0.6.9                  |
-| 2     | **11.Adult**             | 🔴 Alta    | 03 / 09      | v0.6.10                 |
-| 3     | **08.NPCs (EasyNPC)**    | 🔴 Alta    | 04 / 11      | v0.6.11                 |
-| 4     | **12.Patches**           | 🟡 Media   | 04–11        | v0.6.12                 |
-| 5     | **14.Generators**        | 🟢 Baja    | 12           | v0.6.13                 |
-| 6     | **15.DevTools**          | 🟢 Baja    | —            | v0.6.14                 |
-| 7     | **02/03 Retuning final** | 🟡 Media   | 08 / 11      | v0.6.15 (parche menor)  |
+Nueva fase: pulido final y preparación para Patches (Bloque 12)

@@ -10,82 +10,78 @@ ccbgssse037-curios.esl
 ccbgssse025-advdsgs.esm
 _ResourcePack.esl
 1DustAdeptArmor.esl
-1Goblins.esl
 1Dwemer.esl
+1Goblins.esl
 1NamelessSaber.esl
-melyfairy.esl
-Skyrim Project Optimization - Full ESL Version.esm
 1YsmirArmorSE.esl
-EVGAnimatedTraversal.esl
-Glenmoril.esm
-Expressive Facegen Morphs.esl
-arnima.esm
+VendorGoldScaling.esl
+Obsidian Mountain Fogs.esm
 ApachiiHair.esm
-Campfire.esm
-AX ValSerano.esp
-TrueHUD.esl
-iWant Widgets.esl
-Water for ENB.esm
-BSAssets.esm
-HammetDungeon01.esm
-BSHeartland.esm
 Immersive Wenches.esp
-SmoothCam.esl
-Lanterns Of Skyrim II.esm
+AX ValSerano.esp
+Expressive Facegen Morphs.esl
+HammetDungeon01.esm
+arnima.esm
+Campfire.esm
+Lux - Resources.esp
+BSAssets.esm
+BSHeartland.esm
+HyperFusRoDah.esl
+HammetDungeon02.esm
+iWant Widgets.esl
 Dismembering Framework.esm
 Dwarfsphere.esp
+EVGAnimatedTraversal.esl
 EnhancedAIFramework.esm
+mannyBlackRock.esm
 Falskaar.esm
 Forgotten DungeonsSSE.esm
-HammetDungeon02.esm
+Glenmoril.esm
 High Poly Head.esm
-HyperFusRoDah.esl
-Vigilant.esm
-KvetchiMercenary.esl
-Lux - Resources.esp
 RTRWolfWarriorSeax.esl
-mannyBlackRock.esm
-Lux Orbis - Master plugin.esm
-MzarkWonders.esp
+melyfairy.esl
+Wyrmstooth.esp
+PIMS_MagicSaltMining.esl
 Lux - Master plugin.esm
 Lux Via.esp
+Lanterns Of Skyrim II.esm
+KvetchiMercenary.esl
+Lux Orbis - Master plugin.esm
+MzarkWonders.esp
 Night Eye Overhaul.esm
-Obsidian Mountain Fogs.esm
 Occ_Skyrim_Tamriel.esp
 OrganicFactions.esm
-PIMS_MagicSaltMining.esl
 RealisticWaterTwo - Resources.esm
 RSkyrimChildren.esm
 SGHairPackBase.esm
 SkyPatcher Keyword Framework.esl
+Skyrim Project Optimization - Full ESL Version.esm
+SmoothCam.esl
+TrueHUD.esl
 unofficial skyrim special edition patch.esp
-VendorGoldScaling.esl
+Vigilant.esm
+Water for ENB.esm
 WheelsOfLull.esp
-Wyrmstooth.esp
-BS_DLC_patch.esp
-Enhanced Landscapes.esp
-Perk Point Awards.esl
-Occ_Skyrim_AnniversaryFreeCC.esp
 1ChitinBow.esl
-AX ValSerano-AbyssalTides.esp
-ABT SE - Kevkas All-in-One.esp
-ABT SE - Loot Ammo.esp
-Caught Red Handed - OStim Patch.esp
-DNPCsFaceMasks.esp
-ABT SE - Merchants Ammo.esp
-Environs - Greenwood Shack.esp
-evgHinterRanger - Adjustments.esp
-ImmersiveInteractions.esp
 HarvestOverhaul_Redone.esp
-FayeFG.esp
-HOR_SkyBirdsPatch.esp
-DNPCsSimpleWearableLanternsREDUX.esp
-ABT SE - Progressive Damage.esp
-AX ValSerano-SSEC.esp
-ABT SE - Rebalanced Crafting.esp
-ABT SE - Faster Arrows Improved.esp
+AX ValSerano-AbyssalTides.esp
 AX ValSerano-ApocyrphaCurrency.esp
+AX ValSerano-SSEC.esp
+Caught Red Handed - OStim Patch.esp
+HOR_SkyBirdsPatch.esp
+ImmersiveInteractions.esp
+FayeFG.esp
+evgHinterRanger - Adjustments.esp
+DNPCsSimpleWearableLanternsREDUX.esp
+DNPCsFaceMasks.esp
+Environs - Greenwood Shack.esp
 ABT SE - Increased Progressive Damage.esp
+ABT SE - Loot Ammo.esp
+ABT SE - Rebalanced Crafting.esp
+ABT SE - Progressive Damage.esp
+ABT SE - Kevkas All-in-One.esp
+ABT SE - Merchants Ammo.esp
+ABT SE - Faster Arrows Improved.esp
 JKs Blue Palace - DX Dark Knight Armor and Shield Patch.esp
 JKs Dragonsreach - Art Imports Patch.esp
 JKs Dragonsreach - Art of Magicka Patch.esp
@@ -121,6 +117,10 @@ SoapRetex_BIS.esp
 SPIDFacialPiercingsforNPCs.esp
 Teayum - Food Integration.esp
 watch your step.esp
+BS_DLC_patch.esp
+Occ_Skyrim_AnniversaryFreeCC.esp
+Perk Point Awards.esl
+Enhanced Landscapes.esp
 SMIM-SE-FarmhouseFlickeringFix.esp
 SMIM-SE-DragonbornTernFix.esp
 TrueStormsSE.esp
@@ -138,9 +138,6 @@ MysticismMagic.esp
 Lux Via - plugin.esp
 Odin - Skyrim Magic Overhaul.esp
 Supreme Weathers.esp
-Embers XD.esp
-JKs White Phial - Embers XD Patch.esp
-Embers XD - Patch - JKs Dragonsreach.esp
 Training Dummies & Targets - Falskaar Edition.esp
 ArcheryDummyXP.esp
 Wintersun - Faiths of Skyrim.esp
@@ -149,7 +146,6 @@ Hunterborn.esp
 Cathedral Landscapes.esp
 Pinecones.esp
 waterplants.esp
-CinematicFireFX.esp
 Signs_of_Skyrim.esp
 Skyrim Flora Overhaul.esp
 mihailhangingchickens.esp
@@ -163,8 +159,6 @@ LockRelatedLoot.esp
 Lux Orbis - CC Fish patch.esp
 mihailhaystacks.esp
 Lux Orbis - USSEP patch.esp
-Embers XD - Patch - Lux Via.esp
-Lux Orbis - Embers XD patch.esp
 High Poly Head Vampire Fix.esp
 BVLT - Human.esp
 Sharkish_Piercings.esp
@@ -195,12 +189,7 @@ Complete Perk Points Control.esp
 Conditional Expressions.esp
 CrimeDecay.esp
 DustEffectsSSE.esp
-Embers XD - Patch - Lux Orbis & LOS2.esp
-Embers XD - Patch - Remove Snow.esp
-Embers XD - Patch - Survival Mode.esp
-Embers XD - Fire Magick Add-On.esp
 Obsidian Weathers - Patch - Rudy ENB.esp
-ENB Light.esp
 EVGConditionalIdles.esp
 Extra Extra Effect.esp
 Fish Anywhere.esp
@@ -263,7 +252,6 @@ ShieldsIncreaseArmorSkill.esp
 Skyshards.esp
 Skyshards - Lite.esp
 Smart_NPC_Potions.esp
-Smoking Torches And Candles.esp
 SnowOverSkyrim.esp
 Sonders_Keyword_Distribution.esp
 SOSPhysicsManager.esp
@@ -275,7 +263,6 @@ SunAffectsNPCVampires.esp
 SunAffectsNPCVampires-Hooded.esp
 Smart_NPC_Potions_-_SunHelm_Patch.esp
 SunHelmCampfireSkill.esp
-Embers XD - Patch - SunHelm Survival.esp
 SunHelmDiseases.esp
 Supreme Fog for Castle Volkihar.esp
 Supreme Fog for Morthal Region.esp
@@ -328,12 +315,12 @@ Modern Brawl Bug Fix.esp
 JK's Septimus Signus's Outpost.esp
 JKs Septimus Signus Outpost - SIC Patch.esp
 JKs Septimus Signus Outpost - LOTD Patch.esp
-JKs Septimus Signus Outpost - ELFX Patch.esp
-JKs Septimus Signus Outpost - DX Demon Armor Patch.esp
-JKs Septimus Signus Outpost - World of Ducky patch.esp
-JKs Septimus Signus Outpost - BGCollectables Patch.esp
 JKs Septimus Signus Outpost - ESO Imports Patch.esp
+JKs Septimus Signus Outpost - ELFX Patch.esp
+JKs Septimus Signus Outpost - BGCollectables Patch.esp
+JKs Septimus Signus Outpost - World of Ducky patch.esp
 JKs Septimus Signus Outpost - MLU Patch.esp
+JKs Septimus Signus Outpost - DX Demon Armor Patch.esp
 Cultured Orc Furniture.esp
 BosmersHaveAntlers.esp
 Darkend.esp
@@ -353,44 +340,42 @@ Bathing in Skyrim - Wash Me.esp
 BugJarReplacer.esp
 BSHeartland - No Custom Map Markers.esp
 RealisticWaterTwo - Beyond Skyrim Bruma.esp
-Embers XD - Patch - Beyond Skyrim - Bruma.esp
 JK's Angelines Aromatics.esp
-JKs Angelines Aromatics - ELFX patch.esp
-JKs Angelines Aromatics - Art Imports patch.esp
-JKs Angelines Aromatics - Enhanced Solitude Patch.esp
 JKs Angelines Aromatics - Tamrielic Culture patch.esp
+JKs Angelines Aromatics - Enhanced Solitude Patch.esp
+JKs Angelines Aromatics - Art Imports patch.esp
+JKs Angelines Aromatics - ELFX patch.esp
 JKs Angelines Aromatics - SFCO Patch.esp
 Boulder in Skyrim.esp
 ButterfliesUnchained.esp
 JK's Arcadia's Cauldron.esp
 JKs Arcadias Cauldron - Tamrielic Culture patch.esp
-JKs Arcadias Cauldron - Bow of Shadows Patch.esp
-JKs Arcadias Cauldron - Ashe patch.esp
-JKs Arcadias Cauldron - EasierRiders Dungeon Pack Patch.esp
-JKs Arcadias Cauldron - Art Imports patch.esp
-JKs Arcadias Cauldron - ELFX Patch.esp
 JKs Arcadias Cauldron - SFCO Patch.esp
+JKs Arcadias Cauldron - EasierRiders Dungeon Pack Patch.esp
+JKs Arcadias Cauldron - Bow of Shadows Patch.esp
+JKs Arcadias Cauldron - Art Imports patch.esp
+JKs Arcadias Cauldron - Ashe patch.esp
+JKs Arcadias Cauldron - ELFX Patch.esp
 Sleeping Expanded.esp
 JK's The Ragged Flagon.esp
-JKs Ragged Flagon - ESO Imports patch.esp
-JKs Ragged Flagon - SUT Patch.esp
-JKs Ragged Flagon - RFExit Patch.esp
-JKs Ragged Flagon - ELFX - Embers XD Patch.esp
 JKs Ragged Flagon - Thieves Guild Ladder USSEP patch.esp
-JKs Ragged Flagon - ELFX Patch.esp
+JKs Ragged Flagon - Skyrim Unique Drinks Patch.esp
 JKs Ragged Flagon - Thieves Guild Ladder patch.esp
 JKs Ragged Flagon - Aspens Ablaze patch.esp
 JKs Ragged Flagon - Celes Rogue Patch.esp
+JKs Ragged Flagon - SUT Patch.esp
 JKs Ragged Flagon - OTG Patch.esp
 JKs Ragged Flagon - OTG - ELFX Patch.esp
 JKs Ragged Flagon - OTG - ELFX - Embers XD Patch.esp
-JKs Ragged Flagon - Skyrim Unique Drinks Patch.esp
+JKs Ragged Flagon - ESO Imports patch.esp
+JKs Ragged Flagon - ELFX Patch.esp
+JKs Ragged Flagon - RFExit Patch.esp
 JK's The Hag's Cure.esp
-JKs Hags Cure - ELFX Patch.esp
 JKs Hags Cure - Tamrielic Culture patch.esp
-JKs Hags Cure - SUT Patch.esp
 JKs Hags Cure - SFCO Patch.esp
+JKs Hags Cure - ELFX Patch.esp
 JKs Hags Cure - Art Imports patch.esp
+JKs Hags Cure - SUT Patch.esp
 RSChildren.esp
 CWB_USSEP Patch.esp
 Dawn of Skyrim.esp
@@ -398,9 +383,9 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 Dawn of Skyrim-AI Overhaul Patch.esp
 Lux Orbis - Dawn of Skyrim patch.esp
 JK's Temple of Dibella.esp
-JKs Temple of Dibella - Oblivion Artifact Pack Patch.esp
 JKs Temple of Dibella - SUT Patch.esp
 JKs Temple of Dibella - Relighting Skyrim Patch.esp
+JKs Temple of Dibella - Oblivion Artifact Pack Patch.esp
 JKs Temple of Dibella - ELFX Patch.esp
 DDD.esp
 DestructibleDisplayCases.esp
@@ -408,364 +393,364 @@ DesctructibleDisplayCasesPatch.esp
 Dibellan Baths.esp
 JK's Radiant Raiment.esp
 JKs Radiant Raiment - SFCO Patch.esp
+JKs Radiant Raiment - ELFX Patch.esp
 JKs Radiant Raiment - Art Imports patch.esp
 JKs Radiant Raiment - 3DNPC Patch.esp
-JKs Radiant Raiment - ELFX Patch.esp
 Diverse Chicken Coops.esp
 LoS II - Lantern Workers.esp
 JK's Temple of Kynareth.esp
 JKs Temple of Kynareth - Tamrielic Culture patch.esp
-JKs Temple of Kynareth - ESO Imports patch.esp
-JKs Temple of Kynareth - Easierriders Dungeon Pack Patch.esp
-JKs Temple of Kynareth - ELFX Patch.esp
-JKs Temple of Kynareth - Oblivion Artifacts patch.esp
 JKs Temple of Kynareth - SUT patch.esp
+JKs Temple of Kynareth - Konahrik Accoutrements patch.esp
+JKs Temple of Kynareth - ESO Imports patch.esp
 JKs Temple of Kynareth - 3DNPC patch.esp
 JKs Temple of Kynareth - BGCollectables patch.esp
-JKs Temple of Kynareth - Konahrik Accoutrements patch.esp
+JKs Temple of Kynareth - ELFX Patch.esp
 JKs Temple of Kynareth - Emfy Cleric Patch.esp
+JKs Temple of Kynareth - Easierriders Dungeon Pack Patch.esp
+JKs Temple of Kynareth - Oblivion Artifacts patch.esp
 JK's Palace of the Kings.esp
 JKs Palace of the Kings - Ursine Armor Patch.esp
 JKs Palace of the Kings - Sons of Skyrim patch.esp
+JKs Palace of the Kings - Skyrim Sewers Patch.esp
 JKs Palace of the Kings - Second Great War Patch.esp
-JKs Palace of the Kings - Populated Cities and Towns Patch.esp
+JKs Palace of the Kings - Inconsequential NPCs patch.esp
 JKs Palace of the Kings - Handguns of Skyrim patch.esp
 JKs Palace of the Kings - GAR Patch.esp
-JKs Palace of the Kings - ELFX Patch.esp
+JKs Palace of the Kings - GAR Minimal Patch.esp
 JKs Palace of the Kings - ELFX Hardcore Patch.esp
-JKs Palace of the Kings - ELFX Enhancer Patch.esp
-JKs Palace of the Kings - Holidays Patch.esp
 JKs Palace of the Kings - Civil War Champions patch.esp
 JKs Palace of the Kings - Civil War Champions - Reduced Cut patch.esp
-JKs Palace of the Kings - Citizens Complete patch.esp
-JKs Palace of the Kings - BGCollectables Patch.esp
-JKs Palace of the Kings - Art Imports Patch.esp
-JKs Palace of the Kings - LOSII Windhelm Brazier Replacer Patch.esp
-JKs Palace of the Kings - SUT Patch.esp
-JKs Palace of the Kings - Skyrim Sewers Patch.esp
-JKs Palace of the Kings - ezPG patch.esp
-JKs Palace of the Kings - ESO Imports patch.esp
+JKs Palace of the Kings - Capital Windhelm Expansion patch.esp
 JKs Palace of the Kings - AYOP TG patch.esp
-JKs Palace of the Kings - GAR Minimal Patch.esp
+JKs Palace of the Kings - Art Imports Patch.esp
+JKs Palace of the Kings - Populated Cities and Towns Patch.esp
+JKs Palace of the Kings - ELFX Patch.esp
+JKs Palace of the Kings - BGCollectables Patch.esp
+JKs Palace of the Kings - Sons of Skyrim 3BA ESL patch.esp
+JKs Palace of the Kings - Holidays Patch.esp
 JKs Palace of the Kings - EasierRiders Patch.esp
 JKs Palace of the Kings - SFCO Patch.esp
+JKs Palace of the Kings - ELFX Enhancer Patch.esp
+JKs Palace of the Kings - ezPG patch.esp
+JKs Palace of the Kings - Citizens Complete patch.esp
 JKs Palace of the Kings - LAWF patch.esp
-JKs Palace of the Kings - Sons of Skyrim 3BA ESL patch.esp
-JKs Palace of the Kings - Inconsequential NPCs patch.esp
-JKs Palace of the Kings - Capital Windhelm Expansion patch.esp
+JKs Palace of the Kings - ESO Imports patch.esp
+JKs Palace of the Kings - LOSII Windhelm Brazier Replacer Patch.esp
+JKs Palace of the Kings - SUT Patch.esp
 Falkreath_Bathhouse.esp
 JK's Bee and Barb.esp
 JKs Bee and Barb - The Brotherhood of Old Patch.esp
-JKs Bee and Barb - Skyrim Underground Patch.esp
-JKs Bee and Barb - Skyrim Underground - Brotherhood of Old Patch.esp
-JKs Bee and Barb - Mythos patch.esp
-JKs Bee and Barb - Helgen Reborn Patch.esp
-Jks Bee and Barb - ESO Imports patch.esp
 JKs Bee and Barb - Tamrielic Culture patch.esp
-JKs Bee and Barb - Ashe patch.esp
-JKs Bee and Barb - Rigmor Patch.esp
+JKs Bee and Barb - Skyrim Underground - Brotherhood of Old Patch.esp
+JKs Bee and Barb - Helgen Reborn Patch.esp
 JKs Bee and Barb - Banshis Decorations patch.esp
-JKs Bee and Barb - CAS patch.esp
-JKs Bee and Barb - SFCO Patch.esp
-JKs Bee and Barb - ezPG patch.esp
-JKs Bee and Barb - Art Imports patch.esp
+JKs Bee and Barb - Ashe patch.esp
 JKs Bee and Barb - 3DNPC Patch.esp
-JKs Bee and Barb - KIC patch.esp
 JKs Bee and Barb - Gourmet Tables Patch.esp
+JKs Bee and Barb - Skyrim Underground Patch.esp
+JKs Bee and Barb - ezPG patch.esp
+JKs Bee and Barb - SFCO Patch.esp
+JKs Bee and Barb - CAS patch.esp
+JKs Bee and Barb - Rigmor Patch.esp
+JKs Bee and Barb - Art Imports patch.esp
+Jks Bee and Barb - ESO Imports patch.esp
 JKs Bee and Barb - ELFX Patch.esp
+JKs Bee and Barb - Mythos patch.esp
+JKs Bee and Barb - KIC patch.esp
 ForgottenArt.esp
 Fort(ified) Dawnguard.esp
 MoreSovgardeStatues.esp
 Friendlier Taverns.esp
 Immersive Citizens - AI Overhaul.esp
+JKs Temple of the Divines - SFCO patch.esp
+JKs Temple of the Divines - Immersive Citizens (SFCO) patch.esp
 JKs Warmaidens - Immersive Citizens Patch.esp
 JKs Dragonsreach - Immersive Citizens Patch.esp
 Immersive Sounds - Compendium.esp
 JK's The Bannered Mare.esp
-JKs Bannered Mare - Tamrielic Culture patch.esp
-JKs Bannered Mare - Skyrim Unique Drinks Patch.esp
-JKs Bannered Mare - Ashe patch.esp
-JKs Bannered Mare - Art Imports patch.esp
 JKs Bannered Mare - Rigmor of Bruma patch.esp
-JKs Bannered Mare - ELFX patch.esp
-JKs Bannered Mare - SFCO Patch.esp
+JKs Bannered Mare - KIC Patch.esp
 JKs Bannered Mare - Banshis Decorations patch.esp
 JKs Bannered Mare - Gourmet Tables patch.esp
-JKs Bannered Mare - KIC Patch.esp
+JKs Bannered Mare - Art Imports patch.esp
+JKs Bannered Mare - SFCO Patch.esp
+JKs Bannered Mare - Skyrim Unique Drinks Patch.esp
+JKs Bannered Mare - ELFX patch.esp
+JKs Bannered Mare - Tamrielic Culture patch.esp
+JKs Bannered Mare - Ashe patch.esp
 JK's Arnleif and Sons Trading Company.esp
+JKs Arnleif and Sons - SUT Patch.esp
 JKs Arnleif and Sons - SFCO Patch.esp
 JKs Arnleif and Sons - LOTD Patch.esp
-JKs Arnleif and Sons - ELFX Patch.esp
+JKs Arnleif and Sons - ESO Imports patch.esp
 JKs Arnleif and Sons - Art Imports patch.esp
 JKs Arnleif and Sons - Treasure Hunt Patch.esp
-JKs Arnleif and Sons - ESO Imports patch.esp
-JKs Arnleif and Sons - SUT Patch.esp
+JKs Arnleif and Sons - ELFX Patch.esp
 JK's Belethor's General Goods.esp
 JKs Belethors General Goods - Tamrielic Culture patch.esp
+JKs Belethors General Goods - SFCO Patch.esp
 JKs Belethors General Goods - ELFX Patch.esp
 JKs Belethors General Goods - Art Imports patch.esp
-JKs Belethors General Goods - SFCO Patch.esp
 JKs Belethors General Goods - SUT Patch.esp
 JK's Bits and Pieces.esp
+JKs Bits and Pieces - Tamrielic Culture patch.esp
 JKs Bits and Pieces - LOTD Patch.esp
 JKs Bits and Pieces - ELFX Patch.esp
-JKs Bits and Pieces - Tamrielic Culture patch.esp
 JK's Blue Palace.esp
 JKs Blue Palace - World of Ducky patch.esp
-JKs Blue Palace - Thrones Expanded patch.esp
-JKs Blue Palace - Tamrielic Culture Patch.esp
 JKs Blue Palace - Solitude Skyway - LOTD Patch.esp
 JKs Blue Palace - Skyrim Sewers Patch.esp
-JKs Blue Palace - SFCO Patch.esp
 JKs Blue Palace - Red Flame Patch.esp
 JKs Blue Palace - Nature of the Wildlands patch.esp
+JKs Blue Palace - JKs Skyrim Patch.esp
 JKs Blue Palace - JKs Skyrim - Solitude Skyway Patch.esp
-JKs Blue Palace - JKs Skyrim - LOTD - Solitude Skyway Patch.esp
-JKs Blue Palace - Imperial Mail patch.esp
-JKs Blue Palace - Enhanced Solitude Patch.esp
+JKs Blue Palace - JKs Skyrim - LOTD Patch.esp
+JKs Blue Palace - ESO Imports patch.esp
 JKs Blue Palace - Enhanced Solitude - Solitude Skyway Patch.esp
+JKs Blue Palace - Enhanced Solitude - Solitude Skyway - LOTD Patch.esp
+JKs Blue Palace - ELFX Enhancer patch.esp
+JKs Blue Palace - Blue Palace Garden patch.esp
+JKs Blue Palace - Animated Armory Patch.esp
+JKs Blue Palace - Amulets of Skyrim patch.esp
 JKs Blue Palace - Enhanced Solitude - LOTD Patch.esp
 JKs Blue Palace - ELFX Patch.esp
-JKs Blue Palace - ELFX Enhancer patch.esp
+JKs Blue Palace - Imperial Mail patch.esp
+JKs Blue Palace - BGCollectables Patch.esp
 JKs Blue Palace - DX Dark Knight Shield Patch.esp
-JKs Blue Palace - Blue Palace Garden patch.esp
 JKs Blue Palace - 3DNPC - SFCO Patch.esp
 JKs Blue Palace - AYOP TG patch.esp
-JKs Blue Palace - SUT Patch.esp
-JKs Blue Palace - Art Imports Patch.esp
-JKs Blue Palace - JKs Skyrim Patch.esp
-JKs Blue Palace - ESO Imports patch.esp
 JKs Blue Palace - Imperial Mail - SSewers consistency patch.esp
-JKs Blue Palace - JKs Skyrim - LOTD Patch.esp
-JKs Blue Palace - Animated Armory Patch.esp
-JKs Blue Palace - Solitude Skyway Patch.esp
+JKs Blue Palace - Thrones Expanded patch.esp
+JKs Blue Palace - Enhanced Solitude Patch.esp
+JKs Blue Palace - ELFX Hardcore patch.esp
+JKs Blue Palace - SFCO Patch.esp
 JKs Blue Palace - 3DNPC Patch.esp
 JKs Blue Palace - DBMCollectors Patch.esp
-JKs Blue Palace - BGCollectables Patch.esp
-JKs Blue Palace - Amulets of Skyrim patch.esp
-JKs Blue Palace - Enhanced Solitude - Solitude Skyway - LOTD Patch.esp
-JKs Blue Palace - ELFX Hardcore patch.esp
+JKs Blue Palace - Art Imports Patch.esp
+JKs Blue Palace - Solitude Skyway Patch.esp
+JKs Blue Palace - JKs Skyrim - LOTD - Solitude Skyway Patch.esp
+JKs Blue Palace - Tamrielic Culture Patch.esp
+JKs Blue Palace - SUT Patch.esp
 JK's Candlehearth Hall.esp
-JKs Candlehearth Hall - Tamrielic Culture patch.esp
+JKs Candlehearth Hall - Skyrim Unique Drinks Patch.esp
 JKs Candlehearth Hall - Second Great War patch.esp
 JKs Candlehearth Hall - Rigmor Patch.esp
 JKs Candlehearth Hall - KIC Patch.esp
-JKs Candlehearth Hall - Helgen Reborn Patch.esp
-JKs Candlehearth Hall - ELFX Patch.esp
+JKs Candlehearth Hall - JKs Skyrim patch.esp
 JKs Candlehearth Hall - ELFX Hardcore Patch.esp
+JKs Candlehearth Hall - Art Imports patch.esp
+JKs Candlehearth Hall - 3DNPC Patch.esp
+JKs Candlehearth Hall - 3DNPC - SFCO Patch.esp
 JKs Candlehearth Hall - ELFX Enhancer Patch.esp
 JKs Candlehearth Hall - Capital Windhelm Expansion patch.esp
-JKs Candlehearth Hall - Art Imports patch.esp
-JKs Candlehearth Hall - Skyrim Unique Drinks Patch.esp
-JKs Candlehearth Hall - 3DNPC - SFCO Patch.esp
-JKs Candlehearth Hall - ESO Imports patch.esp
-JKs Candlehearth Hall - 3DNPC Patch.esp
 JKs Candlehearth Hall - SFCO Patch.esp
-JKs Candlehearth Hall - JKs Skyrim patch.esp
+JKs Candlehearth Hall - Helgen Reborn Patch.esp
+JKs Candlehearth Hall - Tamrielic Culture patch.esp
+JKs Candlehearth Hall - ESO Imports patch.esp
+JKs Candlehearth Hall - ELFX Patch.esp
 JK's Castle Volkihar.esp
 JK's Dark Brotherhood Sanctuary.esp
 JK's Understone Keep.esp
-JKs Understone Keep - Zulfardin patch.esp
 JKs Understone Keep - Tamrielic Culture Patch.esp
-JKs Understone Keep - Skyrim Underground Patch.esp
 JKs Understone Keep - Skyrim Underground - Zulfardin Patch.esp
-JKs Understone Keep - SFCO patch.esp
-JKs Understone Keep - Second Great War Patch.esp
 JKs Understone Keep - Morrowloot Miscellania Patch.esp
-JKs Understone Keep - Mainland Staff Enchanters patch.esp
-JKs Understone Keep - Immersive Jewelry patch.esp
-JKs Understone Keep - ELFX patch.esp
-JKs Understone Keep - ELFX Enhancer Patch.esp
-JKs Understone Keep - Additional Hearthfire Dolls Patch.esp
 JKs Understone Keep - GAR patch.esp
-JKs Understone Keep - Amulets of Skyrim patch.esp
-JKs Understone Keep - ESO Imports patch.esp
-JKs Understone Keep - Leviathan Axe patch.esp
-JKs Understone Keep - Art Imports Patch.esp
-JKs Understone Keep - ELFX Fixes Patch.esp
-JKs Understone Keep - 3DNPC.esp
+JKs Understone Keep - Mainland Staff Enchanters patch.esp
 JKs Understone Keep - ELFX Hardcore patch.esp
+JKs Understone Keep - ELFX Fixes Patch.esp
+JKs Understone Keep - ELFX Enhancer Patch.esp
+JKs Understone Keep - Amulets of Skyrim patch.esp
+JKs Understone Keep - 3DNPC.esp
+JKs Understone Keep - ESO Imports patch.esp
+JKs Understone Keep - Immersive Jewelry patch.esp
+JKs Understone Keep - SFCO patch.esp
+JKs Understone Keep - Leviathan Axe patch.esp
+JKs Understone Keep - Skyrim Underground Patch.esp
+JKs Understone Keep - Second Great War Patch.esp
+JKs Understone Keep - Art Imports Patch.esp
+JKs Understone Keep - Additional Hearthfire Dolls Patch.esp
+JKs Understone Keep - Zulfardin patch.esp
+JKs Understone Keep - ELFX patch.esp
 JK's Elgrims Elixirs.esp
-JKs Elgrims Elixirs - Skyrim Underground - Brotherhood of Old Patch.esp
-JKs Elgrims Elixirs - ESO Imports patch.esp
-JKs Elgrims Elixirs - ELFX Patch.esp
-JKs Elgrims Elixirs - Skyrim Underground Patch.esp
 JKs Elgrims Elixirs - The Brotherhood of Old Patch.esp
-JKs Bee and Barb - Elgrims Elixirs - Skyrim Underground Patch.esp
-JKs Bee and Barb - Elgrims Elixirs - Skyrim Underground - Brotherhood of Old Patch.esp
-JKs Bee and Barb - Elgrims Elixirs - Brotherhood of Old Patch.esp
+JKs Elgrims Elixirs - Skyrim Underground Patch.esp
+JKs Elgrims Elixirs - Skyrim Underground - Brotherhood of Old Patch.esp
 JKs Elgrims Elixirs - SFCO Patch.esp
+JKs Elgrims Elixirs - ELFX Patch.esp
+JKs Bee and Barb - Elgrims Elixirs - Skyrim Underground Patch.esp
+JKs Bee and Barb - Elgrims Elixirs - Brotherhood of Old Patch.esp
+JKs Elgrims Elixirs - ESO Imports patch.esp
+JKs Bee and Barb - Elgrims Elixirs - Skyrim Underground - Brotherhood of Old Patch.esp
 JK's Fort Dawnguard.esp
 JK's Haelga's Bunkhouse.esp
 JKs Haelgas Bunkhouse - SFCO patch.esp
-JKs Haelgas Bunkhouse - KIC Patch.esp
+JKs Haelgas Bunkhouse - JKs Skyrim Patch.esp
 JKs Haelgas Bunkhouse - ELFX Patch.esp
 JKs Haelgas Bunkhouse - Animated Armory Patch.esp
 JKs Haelgas Bunkhouse - 3DNPC patch.esp
-JKs Haelgas Bunkhouse - ESO Imports Patch.esp
+JKs Haelgas Bunkhouse - KIC Patch.esp
 JKs Haelgas Bunkhouse - Brynjolf Has Time patch.esp
-JKs Haelgas Bunkhouse - JKs Skyrim Patch.esp
+JKs Haelgas Bunkhouse - ESO Imports Patch.esp
 JKs Haelgas Bunkhouse - Art Imports patch.esp
 JK's Mistveil Keep.esp
-JKs Mistveil Keep - SFCO Patch.esp
 JKs Mistveil Keep - MLU patch.esp
+JKs Mistveil Keep - ESO Imports patch.esp
 JKs Mistveil Keep - ELFX Patch.esp
+JKs Mistveil Keep - AYOP TG patch.esp
+JKs Mistveil Keep - Animated Armory Patch.esp
+JKs Mistveil Keep - 3DNPC Patch.esp
+JKs Mistveil Keep - SFCO Patch.esp
+JKs Mistveil Keep - Tamrielic Culture Patch.esp
 JKs Mistveil Keep - BGCollectables Patch.esp
 JKs Mistveil Keep - Art Imports Patch.esp
-JKs Mistveil Keep - 3DNPC Patch.esp
-JKs Mistveil Keep - AYOP TG patch.esp
-JKs Mistveil Keep - ESO Imports patch.esp
-JKs Mistveil Keep - Animated Armory Patch.esp
-JKs Mistveil Keep - Tamrielic Culture Patch.esp
 JK's New Gnisis Cornerclub.esp
 JKs New Gnisis Cornerclub - Tamrielic Culture patch.esp
+JKs New Gnisis Cornerclub - Skyrim Unique Drinks Patch.esp
 JKs New Gnisis Cornerclub - Skyrim Underground Patch.esp
 JKs New Gnisis Cornerclub - SFCO Patch.esp
 JKs New Gnisis Cornerclub - Rigmor Patch.esp
-JKs New Gnisis Cornerclub - Alternate Start DF patch.esp
-JKs New Gnisis Cornerclub - 3DNPC Patch.esp
-JKs New Gnisis Cornerclub - Alternate Start patch.esp
-JKs New Gnisis Cornerclub - ELFX Patch.esp
-JKs New Gnisis Cornerclub - Art Imports patch.esp
-JKs New Gnisis Cornerclub - Skyrim Unique Drinks Patch.esp
 JKs New Gnisis Cornerclub - KIC Patch.esp
+JKs New Gnisis Cornerclub - Art Imports patch.esp
+JKs New Gnisis Cornerclub - Alternate Start DF patch.esp
+JKs New Gnisis Cornerclub - Alternate Start patch.esp
 JKs New Gnisis Cornerclub - MLU patch.esp
+JKs New Gnisis Cornerclub - 3DNPC Patch.esp
+JKs New Gnisis Cornerclub - ELFX Patch.esp
 JK's Nightingale Hall.esp
 LoS II - SMIM patch.esp
 JK's Raven Rock.esp
 JK's Riverfall Cottage.esp
 JK's Riverfall Cottage - CACO Patch.esp
 JK's Riverwood Trader.esp
+JKs Riverwood Trader - Rigmor Patch.esp
+JKs Riverwood Trader - ELFX patch.esp
 JKs Riverwood Trader - BGCollectables patch.esp
+JKs Riverwood Trader - Riverwood Redone patch.esp
+JKs Riverwood Trader - AYOP TG patch.esp
 JKs Riverwood Trader - SFCO patch.esp
 JKs Riverwood Trader - TNOTT Patch.esp
-JKs Riverwood Trader - ELFX patch.esp
-JKs Riverwood Trader - Rigmor Patch.esp
-JKs Riverwood Trader - AYOP TG patch.esp
-JKs Riverwood Trader - Riverwood Redone patch.esp
 JK's Riverwood.esp
 JK's Sadris Used Wares.esp
-JKs Sadris Used Wares - Tamrielic Culture patch.esp
+JKs Sadris Used Wares - SUT Patch.esp
 JKs Sadris Used Wares - SFCO Patch.esp
+JKs Sadris Used Wares - LOTD Patch.esp
+JKs Sadris Used Wares - Tamrielic Culture patch.esp
+JKs Sadris Used Wares - Art Imports patch.esp
 JKs Sadris Used Wares - ELFX patch.esp
 JKs Sadris Used Wares - 3DNPC Patch.esp
-JKs Sadris Used Wares - LOTD Patch.esp
-JKs Sadris Used Wares - Art Imports patch.esp
-JKs Sadris Used Wares - SUT Patch.esp
 JK's Silver-Blood Inn.esp
-JKs Silver-Blood Inn - The Brotherhood of Old Patch.esp
-JKs Silver-Blood Inn - Tamrielic Culture patch.esp
-JKs Silver-Blood Inn - Spell Knight Armor Patch.esp
-JKs Silver-Blood Inn - LOTD Patch.esp
+JKs Silver-Blood Inn - Skyrim Unique Drinks Patch.esp
+JKs Silver-Blood Inn - KIC patch.esp
 JKs Silver-Blood Inn - Gourmet Tables patch.esp
 JKs Silver-Blood Inn - ESO Imports patch.esp
-JKs Silver-Blood Inn - ELFX Patch.esp
 JKs Silver-Blood Inn - Art Imports patch.esp
 JKs Silver-Blood Inn - Alt Dwarven Plate Patch.esp
-JKs Silver-Blood Inn - 3DNPC Patch.esp
-JKs Silver-Blood Inn - KIC patch.esp
-JKs Silver-Blood Inn - Skyrim Unique Drinks Patch.esp
+JKs Silver-Blood Inn - Tamrielic Culture patch.esp
 JKs Silver-Blood Inn - SFCO Patch.esp
+JKs Silver-Blood Inn - ELFX Patch.esp
+JKs Silver-Blood Inn - LOTD Patch.esp
+JKs Silver-Blood Inn - 3DNPC Patch.esp
+JKs Silver-Blood Inn - Spell Knight Armor Patch.esp
+JKs Silver-Blood Inn - The Brotherhood of Old Patch.esp
 JK's Sinderion's Field Laboratory.esp
 JKs Sinderions Field Laboratory - The Blackest Reaches.esp
-JKs Sinderions Field Laboratory - Tamrielic Culture patch.esp
-JKs Sinderions Field Laboratory - Second Great War patch.esp
+JKs Sinderions Field Laboratory - SFCO patch.esp
+JKs Sinderions Field Laboratory - Fyr Manor patch.esp
+JKs Sinderions Field Laboratory - Crimson Nirnroot Satchel patch.esp
+JKs Sinderions Field Laboratory - Art Imports patch.esp
+JKs Sinderions Field Laboratory - Alternate Start patch.esp
+JKs Sinderions Field Laboratory - Alchemical Treatise patch.esp
+JKs Sinderions Field Laboratory - ELFX patch.esp
 JKs Sinderions Field Laboratory - LOTD patch.esp
 JKs Sinderions Field Laboratory - Leviathan Axe patch.esp
-JKs Sinderions Field Laboratory - Fyr Manor patch.esp
-JKs Sinderions Field Laboratory - ELFX patch.esp
-JKs Sinderions Field Laboratory - Alchemical Treatise patch.esp
+JKs Sinderions Field Laboratory - Tamrielic Culture patch.esp
+JKs Sinderions Field Laboratory - Second Great War patch.esp
 JK's Sinderion's Field Laboratory - USMP Patch.esp
-JKs Sinderions Field Laboratory - Art Imports patch.esp
-JKs Sinderions Field Laboratory - Crimson Nirnroot Satchel patch.esp
-JKs Sinderions Field Laboratory - SFCO patch.esp
-JKs Sinderions Field Laboratory - Alternate Start patch.esp
 JK's Sky Haven Temple.esp
 JK's SkyHaven Forge.esp
 JK's Sleeping Giant Inn.esp
-JKs Sleeping Giant Inn - SFCO Patch.esp
-JKs Sleeping Giant Inn - Populated Cities and Towns Patch.esp
-JKs Sleeping Giant Inn - TNOTT Patch.esp
-JKs Sleeping Giant Inn - Art Imports patch.esp
-JKs Sleeping Giant Inn - Riverwood Redone Lux patch.esp
-JKs Sleeping Giant Inn - Skyrim Unique Drinks Patch.esp
-JKs Sleeping Giant Inn - ELFX Fixes Patch.esp
-JKs Sleeping Giant Inn - M'rissi patch.esp
 JKs Sleeping Giant Inn - Tamrielic Culture Patch.esp
+JKs Sleeping Giant Inn - Populated Cities and Towns Patch.esp
+JKs Sleeping Giant Inn - M'rissi patch.esp
+JKs Sleeping Giant Inn - ELFX Patch.esp
+JKs Sleeping Giant Inn - Art Imports patch.esp
 JKs Sleeping Giant Inn - 3DNPC Patch.esp
 JKs Sleeping Giant Inn - KIC Patch.esp
 JKs Sleeping Giant Inn - Populated Skyrim Legendary.esp
-JKs Sleeping Giant Inn - ELFX Patch.esp
+JKs Sleeping Giant Inn - Riverwood Redone Lux patch.esp
+JKs Sleeping Giant Inn - ELFX Fixes Patch.esp
+JKs Sleeping Giant Inn - TNOTT Patch.esp
+JKs Sleeping Giant Inn - SFCO Patch.esp
+JKs Sleeping Giant Inn - Skyrim Unique Drinks Patch.esp
 JKs Sleeping Giant Inn - Riverwood Redone patch.esp
 JK's Temple of Mara.esp
-JKs Temple of Mara - SUT Patch.esp
-JKs Temple of Mara - Oblivion Artifacts Patch.esp
-JKs Temple of Mara - Marriage Mod Patch.esp
-JKs Temple of Mara - Rigmor Patch.esp
-JKs Temple of Mara - SFCO Patch.esp
-JKs Temple of Mara - 3DNPC Patch.esp
-JKs Temple of Mara - Celes Mercy Patch.esp
-JKs Temple of Mara - TBoO Patch.esp
-JKs Temple of Mara - TGR Patch.esp
-JKs Temple of Mara - ESO Imports patch.esp
 JKs Temple of Mara - ELFX Patch.esp
+JKs Temple of Mara - Celes Mercy Patch.esp
+JKs Temple of Mara - 3DNPC Patch.esp
+JKs Temple of Mara - Oblivion Artifacts Patch.esp
+JKs Temple of Mara - SFCO Patch.esp
+JKs Temple of Mara - SUT Patch.esp
+JKs Temple of Mara - Rigmor Patch.esp
+JKs Temple of Mara - Marriage Mod Patch.esp
+JKs Temple of Mara - TGR Patch.esp
+JKs Temple of Mara - TBoO Patch.esp
+JKs Temple of Mara - ESO Imports patch.esp
 JK's Temple of Talos.esp
-JKs Temple of Talos - New Beginnings patch.esp
-JKs Temple of Talos - ELFX Patch.esp
-JKs Temple of Talos - Capital Windhelm Expansion patch.esp
 JKs Temple of Talos - PCE patch.esp
-JKs Temple of Talos - 3DNPC patch.esp
+JKs Temple of Talos - Oblivion Artifacts patch.esp
+JKs Temple of Talos - ELFX Patch.esp
 JKs Temple of Talos - Art Imports patch.esp
 JKs Temple of Talos - Second Great War patch.esp
-JKs Temple of Talos - Oblivion Artifacts patch.esp
-JKs Temple of Talos - SFCO patch.esp
+JKs Temple of Talos - Capital Windhelm Expansion patch.esp
+JKs Temple of Talos - New Beginnings patch.esp
 JKs Temple of Talos - ESO Imports Patch.esp
+JKs Temple of Talos - SFCO patch.esp
+JKs Temple of Talos - 3DNPC patch.esp
 JK's Temple of the Divines.esp
-JKs Temple of the Divines - SUT patch.esp
-JKs Temple of the Divines - Skyrim Sewers patch.esp
+JKs Temple of the Divines - Pilgrim patch.esp
 JKs Temple of the Divines - Oblivion Artifacts patch.esp
 JKs Temple of the Divines - LOTD patch.esp
-JKs Temple of the Divines - Breton Paladin patch.esp
-JKs Temple of the Divines - 3DNPC Patch.esp
-JKs Temple of the Divines - Pilgrim patch.esp
+JKs Temple of the Divines - Enhanced Solitude Patch.esp
 JKs Temple of the Divines - ELFX Patch.esp
 JKs Temple of the Divines - Aran di Kono Patch.esp
 JKs Temple of the Divines - After the Civil War patch.esp
-JKs Temple of the Divines - SFCO patch.esp
-JKs Temple of the Divines - Immersive Citizens (SFCO) patch.esp
-JKs Temple of the Divines - Enhanced Solitude Patch.esp
+JKs Temple of the Divines - 3DNPC Patch.esp
+JKs Temple of the Divines - SUT patch.esp
+JKs Temple of the Divines - Skyrim Sewers patch.esp
+JKs Temple of the Divines - Breton Paladin patch.esp
 JKs Temple of the Divines - Alt Leather Armor Patch.esp
 JK's The Pawned Prawn.esp
 JKs Pawned Prawn - Store Doorbells patch.esp
-JKs Pawned Prawn - PCE Patch.esp
+JKs Pawned Prawn - LOTD Patch.esp
 JKs Pawned Prawn - ESO Imports patch.esp
 JKs Pawned Prawn - ELFX Patch.esp
-JKs Pawned Prawn - LOTD Patch.esp
+JKs Pawned Prawn - PCE Patch.esp
 JK's The Winking Skeever.esp
-JKs Winking Skeever - Thieves Guild Requirements Patch.esp
-JKs Winking Skeever - Skyrim Sewers Patch.esp
-JKs Winking Skeever - KIC Lux patch.esp
-JKs Winking Skeever - Khajiit Will Follow patch.esp
-JKs Winking Skeever - Enhanced Solitude Patch.esp
-JKs Winking Skeever - ELFX patch.esp
-JKs Winking Skeever - ELFX Fixes Patch.esp
-JKs Winking Skeever - CAS patch.esp
-JKs Winking Skeever - Brotherhood of Old Patch.esp
-JKs Winking Skeever - 3DNPC Patch.esp
-JKs Winking Skeever - 3DNPC - SFCO Patch.esp
-JKs Winking Skeever - Immersive Citizens - SFCO patch.esp
-JKs Winking Skeever - Tamrielic Culture patch.esp
-JKs Winking Skeever - Art Imports patch.esp
-JKs Winking Skeever - KIC Patch.esp
-JKs Winking Skeever - Banshis Decorations patch.esp
 JKs Winking Skeever - Skyrim Unique Drinks Patch.esp
-JKs Winking Skeever - Ashe patch.esp
-JKs Winking Skeever - SUT patch.esp
 JKs Winking Skeever - SFCO Patch.esp
 JKs Winking Skeever - Immersive Citizens (SFCO) patch.esp
-JKs Winking Skeever - Fishing (SFCO) patch.esp
-JKs Winking Skeever - 3DNPC (SFCO) patch.esp
 JKs Winking Skeever - Fishing - SFCO patch.esp
+JKs Winking Skeever - Fishing (SFCO) patch.esp
+JKs Winking Skeever - CAS patch.esp
+JKs Winking Skeever - Ashe patch.esp
+JKs Winking Skeever - Art Imports patch.esp
+JKs Winking Skeever - 3DNPC - SFCO Patch.esp
+JKs Winking Skeever - 3DNPC (SFCO) patch.esp
+JKs Winking Skeever - Immersive Citizens - SFCO patch.esp
+JKs Winking Skeever - ELFX Fixes Patch.esp
+JKs Winking Skeever - Brotherhood of Old Patch.esp
+JKs Winking Skeever - Banshis Decorations patch.esp
+JKs Winking Skeever - Enhanced Solitude Patch.esp
+JKs Winking Skeever - 3DNPC Patch.esp
+JKs Winking Skeever - Khajiit Will Follow patch.esp
+JKs Winking Skeever - Thieves Guild Requirements Patch.esp
+JKs Winking Skeever - KIC Patch.esp
+JKs Winking Skeever - Tamrielic Culture patch.esp
+JKs Winking Skeever - Skyrim Sewers Patch.esp
+JKs Winking Skeever - ELFX patch.esp
+JKs Winking Skeever - KIC Lux patch.esp
+JKs Winking Skeever - SUT patch.esp
 JK's Thieves Guild.esp
 JK's Whiterun's Outskirts.esp
 Lux Orbis - JK's Whiterun Outskirts patch.esp
@@ -788,11 +773,11 @@ The Great Village of Kynesgrove.esp
 MoreColorfulSceneryJars.esp
 Use Those Blankets.esp
 JKs The Drunken Huntsman.esp
-JKs Drunken Huntsman - SFCO Patch.esp
-JKs Drunken Huntsman - ELFX Patch.esp
-JKs Drunken Huntsman - Art Imports patch.esp
 JKs Drunken Huntsman - Skyrim Unique Drinks Patch.esp
+JKs Drunken Huntsman - ELFX Patch.esp
 JKs Drunken Huntsman - Civil War Champions Patch.esp
+JKs Drunken Huntsman - Art Imports patch.esp
+JKs Drunken Huntsman - SFCO Patch.esp
 Thieves Guild Redone.esp
 LoS II - Campfire addon.esp
 LoS II - JKs Riverwood patch.esp
@@ -821,7 +806,6 @@ SoS_ObsidianTrueStorms_Patch.esp
 Stendarr Rising - Los II patch.esp
 UniqueBorderGates-All.esp
 Warming Hands.esp
-Warming Hands - Ember XD.esp
 Wyrmstooth Dragonborn Compatibility Patch.esp
 Aymarandfriends.esp
 AX ValSerano-JKNewGnisisCornerclub.esp
@@ -1004,7 +988,7 @@ Coffee.esp
 Food integration  - Tamrielic Coffee And Tea.esp
 College Of Winterhold - Quest Expansion.esp
 Craftable Locpicks - 10.esp
-Cutting Room Floor.esp
+cutting room floor.esp
 RDO - CRF + USSEP Patch.esp
 BandolierForNPC - Cutting Room Floor Patch.esp
 DX Staff of Necromancy.esp
@@ -1039,9 +1023,9 @@ GlassMaking&Recycling.esp
 DontEatGlass_GlassMaking-Patch.esp
 GlassMaking_BSBruma-Patch.esp
 Gourmet.esp
+GourmetHandtoHand.esp
 Gourmet - Huntsman.esp
 GourmetAdamantBard.esp
-GourmetHandtoHand.esp
 GourmetMysticism.esp
 GourmetFishing.esp
 GourmetUSSEP.esp
@@ -1056,8 +1040,8 @@ j3x-autocrossbows.esp
 SkyforgeWeaponReplacer.esp
 LittleLessons.esp
 yumcheese.esp
-JKs Dragonsreach - Cheesemod Patch.esp
 Cheesemod - SkyTEST.esp
+JKs Dragonsreach - Cheesemod Patch.esp
 Cheesemod - Whiterun Skyforge patch.esp
 Food Integration - Cheesemod.esp
 Vampire Armor Expansion.esp
@@ -1256,7 +1240,6 @@ JKs Temple of Mara - Rugnarok patch.esp
 JKs Bee and Barb - Vigilant patch.esp
 JKs Blue Palace - AI Overhaul Patch.esp
 JKs Silver-Blood Inn - AI Overhaul Patch.esp
-JKs Elgrims Elixirs - Embers XD Patch.esp
 JKs Drunken Huntsman - Immersive Wenches Patch.esp
 JKs Temple of Mara - Aspen Patch.esp
 JKs Temple of Dibella - Solitude and Temple Frescoes ESP patch.esp
@@ -1272,10 +1255,8 @@ JKs Sleeping Giant Inn - AI Overhaul SSE Patch.esp
 JKs Drunken Huntsman - Immersive Citizens Patch.esp
 JKs Temple of Dibella - New Dibella Statues Patch.esp
 JKs Candlehearth Hall - Rugnarok patch.esp
-JKs Bee and Barb - Embers XD Patch.esp
 JKs Bannered Mare - Immersion Patch.esp
 JKs Sadris Used Wares - ACE Patch.esp
-JKs Pawned Prawn - Embers XD Patch.esp
 JKs Haelgas Bunkhouse - Solitude and Temple Frescoes ESL patch.esp
 JKs Belethors General Goods - Immersive Citizens Patch.esp
 JKs Haelgas Bunkhouse - Solitude and Temple Frescoes ESP patch.esp
@@ -1323,14 +1304,12 @@ JKs Blue Palace - Mystic Condenser Patch.esp
 JKs Blue Palace - Sounds of Skyrim patch.esp
 JKs Haelgas Bunkhouse - Solitude and Temple Frescoes ESL No Lanterns patch.esp
 JKs Palace of the Kings - Cloaks Patch.esp
-JKs Candlehearth Hall - Embers XD Patch.esp
 JKs Candlehearth Hall - SPO Patch.esp
 JKs Winking Skeever - AI Overhaul Patch.esp
 JKs Sinderions Field Laboratory - Mystic Condenser patch.esp
 JKs Drunken Huntsman - USSEP Patch.esp
 JKs Elgrims Elixirs - Bee and Barb Patch.esp
 JKs Elgrims Elixirs - CRF Patch.esp
-JKs Hags Cure - Embers XD Patch.esp
 JKs Elgrims Elixirs - Rugnarok patch.esp
 JKs Temple of the Divines - Rugnarok patch.esp
 JKs Elgrims Elixirs - SPO Patch.esp
@@ -1341,10 +1320,8 @@ JKs Haelgas Bunkhouse - SDA Patch.esp
 JKs Haelgas Bunkhouse - Solitude and Temple Frescoes patch.esp
 JKs Hags Cure - A Cats Life patch.esp
 JKs Hags Cure - AI Overhaul Patch.esp
-JKs Palace of the Kings - Embers XD Patch.esp
 JKs Hags Cure - Cheesemod Patch.esp
 JKs Mistveil Keep - AI Overhaul Patch.esp
-JKs Mistveil Keep - Embers XD Patch.esp
 JKs New Gnisis Cornerclub - Immersive Citizens Patch.esp
 JKs Temple of Kynareth - Cheesemod Patch.esp
 JKs Palace of the Kings - AI Overhaul patch.esp
@@ -1361,20 +1338,17 @@ JKs Radiant Raiment - Cloaks Patch.esp
 JKs Radiant Raiment - Immersion Patch.esp
 JKs Ragged Flagon - AI Overhaul Patch.esp
 JKs Sadris Used Wares - Rugnarok patch.esp
-JKs Ragged Flagon - Embers XD Patch.esp
 JKs Ragged Flagon - RW2 Patch.esp
 JKs Winking Skeever - USSEP Patch.esp
 JKs Riverwood Trader - Immersive Citizens patch.esp
 JKs Sadris Used Wares - Cheesemod Patch.esp
 JKs Sadris Used Wares - Nekos ceiling and beams fixes (SFCO compatible).esp
-JKs Silver-Blood Inn - Embers XD Patch.esp
 JKs Silver-Blood Inn - Immersion patch.esp
 JKs Temple of Mara - Solitude and Temple Frescoes ESL patch.esp
 JKs Sinderions Field Laboratory - CACO patch.esp
 JKs Sinderions Field Laboratory - CC - Fishing patch.esp
 JKs Winking Skeever - Immersive Citizens patch.esp
 JKs Sleeping Giant Inn - Cheesemod Patch.esp
-JKs Sleeping Giant Inn - Embers XD Patch.esp
 JKs Sleeping Giant Inn - Immersive Citizens Patch.esp
 JKs Sleeping Giant Inn - SPO Patch.esp
 JKs Temple of Dibella - ACE Patch.esp
@@ -1398,7 +1372,6 @@ JKs Temple of the Divines - Cheesemod Patch.esp
 JKs Temple of the Divines - SPO patch.esp
 JKs Temple of the Divines - USSEP Patch.esp
 JKs Understone Keep - Cheesemod Patch.esp
-JKs Understone Keep - Embers XD Patch.esp
 JKs Understone Keep - Mystic Condenser patch.esp
 JKs Understone Keep - USSEP patch.esp
 JKs Winking Skeever - Alternate Start Mods Patch.esp
@@ -1415,3 +1388,33 @@ cc-fishing_waccf_patch.esp
 CACO_JSPursesAndSeptims_Patch.esp
 saints&seducers_waccf_patch.esp
 Unique Uniques_WACCF_Patch.esp
+Coffee-ES.esp
+Smoking Torches And Candles.esp
+Embers XD - Patch - Remove Snow.esp
+CinematicFireFX.esp
+Embers XD - Patch - Beyond Skyrim - Bruma.esp
+Embers XD - Patch - Lux Orbis & LOS2.esp
+Embers XD.esp
+JKs White Phial - Embers XD Patch.esp
+Embers XD - Patch - JKs Dragonsreach.esp
+JKs Ragged Flagon - ELFX - Embers XD Patch.esp
+Embers XD - Patch - Survival Mode.esp
+Embers XD - Patch - SunHelm Survival.esp
+Embers XD - Fire Magick Add-On.esp
+Embers XD - Patch - Lux Via.esp
+Lux Orbis - Embers XD patch.esp
+JKs Mistveil Keep - Embers XD Patch.esp
+JKs Pawned Prawn - Embers XD Patch.esp
+KD - Realistic Fireplaces SE.esp
+ENB Light.esp
+Warming Hands - Ember XD.esp
+JKs Understone Keep - Embers XD Patch.esp
+JKs Silver-Blood Inn - Embers XD Patch.esp
+JKs Palace of the Kings - Embers XD Patch.esp
+JKs Ragged Flagon - Embers XD Patch.esp
+JKs Sleeping Giant Inn - Embers XD Patch.esp
+JKs Candlehearth Hall - Embers XD Patch.esp
+JKs Bee and Barb - Embers XD Patch.esp
+JKs Elgrims Elixirs - Embers XD Patch.esp
+JKs Hags Cure - Embers XD Patch.esp
+NPC Appearances Merged-ES.esp
