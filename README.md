@@ -1,48 +1,62 @@
 # Architecturae Modularis Codex (AMC)
-**Versión:** 0.5.1  
+
+> Arquitectura modular, portable y reproducible para construir y mantener un entorno de modding de **Skyrim Anniversary Edition 1.6.1170** con trazabilidad técnica y una estructura deliberada.
+
+**Versión documental:** 0.5.1  
 **Autor:** Sam Althaus  
-**Estado:** Estable — Octubre 2025  
+**Estado:** estable / documentación viva
 
 ---
 
-## 📘 Descripción general
-**Architecturae Modularis Codex (AMC)** es una **arquitectura técnica y estética** para *Skyrim AE (1.6.1170)*, orientada a la **modularidad**, **portabilidad** y **reproducibilidad total** del entorno.  
+## Qué es AMC
 
-AMC no es una simple lista de mods, sino un **sistema de diseño** que combina documentación, scripts y estructura determinista, garantizando trazabilidad y reconstrucción exacta del entorno.
+**Architecturae Modularis Codex** no pretende ser una lista de mods cerrada. Es un **sistema de organización y operación** para un entorno de Skyrim moddeado: define dónde vive cada pieza, cómo se nombra, cómo se despliega, cómo se exporta un perfil y cómo puede reconstruirse el conjunto sin depender de una instalación opaca o artesanal.
 
----
+El objetivo es tratar el modding como trataríamos un sistema técnico mantenible:
 
-## 🧱 1. Principios fundamentales
-Inspirados en la *Doctrine Aesthetica* (v0.5.1):
+- **modularidad**, para poder sustituir piezas sin desmontar el conjunto;
+- **portabilidad**, evitando dependencias innecesarias de una máquina concreta;
+- **reproducibilidad**, de forma que el estado pueda reconstruirse;
+- **trazabilidad**, manteniendo configuración, perfiles, scripts e historial bajo control de versiones;
+- **separación de responsabilidades**, diferenciando configuración, staging, documentación, automatización y perfiles;
+- **coherencia visual y semántica**, porque la estructura también debe comunicar intención.
 
-- **Forma es estructura:** cada carpeta, nombre y archivo tiene una razón funcional.  
-- **Determinismo visual:** la posición y prefijo definen su función.  
-- **Coherencia total:** todo lo que existe está documentado; lo que se documenta, existe.  
-- **Portabilidad:** ningún archivo escribe en `Data\`.  
-- **Reproducibilidad:** scripts y logs garantizan reconstrucción exacta.  
-- **Disciplina estética:** claridad, ritmo, simetría y silencio técnico.
+AMC se apoya en **Mod Organizer 2 portable** como frontera entre el juego base y el entorno gestionado. La regla general es sencilla: el sistema debe poder entenderse mirando su estructura y reconstruirse siguiendo su documentación.
 
 ---
 
-## 📂 2. Layout del sistema
+## Principios de diseño
 
-```
+La *Doctrine Aesthetica* resume la filosofía del proyecto en unas pocas reglas:
+
+1. **La forma es estructura.** Los nombres, prefijos y ubicaciones tienen significado funcional.
+2. **Lo explícito gana.** Un estado documentado es preferible a una dependencia implícita.
+3. **La instalación del juego permanece limpia.** Siempre que sea posible, los cambios viven fuera de `Data\` y son gestionados por MO2.
+4. **El orden debe ser legible.** La posición de cada bloque ayuda a entender su responsabilidad y prioridad.
+5. **Todo cambio importante debe poder rastrearse.** Perfiles, configuración y documentación forman parte del estado del sistema.
+6. **La estética sirve a la comprensión.** Claridad, ritmo y consistencia no son decoración: reducen fricción operativa.
+
+La doctrina completa está en [`02.Docs/00.Core/AMC — Doctrine Aesthetica.md`](02.Docs/00.Core/AMC%20%E2%80%94%20Doctrine%20Aesthetica.md).
+
+---
+
+## Arquitectura del workspace
+
+AMC está pensado para vivir dentro de un workspace similar a este:
+
+```text
 G:\Skyrim Mods\
+├─ 00-Tools\
+├─ 01-Downloads\
+├─ 02-Archives\
+├─ 03-Backups\
+├─ 04-ArchitecturaeModularisCodex\
+└─ 05-MO2-Portable\
 ```
 
-**Top-level:**
-```
-├─ 00-Tools\                    → Herramientas externas (MO2, LOOT, xEdit, BethINI, CAO, Nemesis.exe, etc.)
-├─ 01-Downloads\                → Descargas crudas (Nexus, manuales)
-├─ 02-Archives\                 → Snapshots/versiones comprimidas
-├─ 03-Backups\                  → Backups automáticos/rápidos
-├─ 04-ArchitecturaeModularisCodex\   → Repositorio Git (docs, perfiles, scripts, config)
-└─ 05-MO2-Portable\             → Entorno portable de MO2 (mods, profiles, overwrite, webcache)
+Una configuración portable típica de MO2 mantiene rutas relativas:
 
-```
-
-**MO2 (Settings → Paths)** — usar rutas relativas:
-```
+```text
 Base="."
 Mods="mods"
 Profiles="profiles"
@@ -50,133 +64,176 @@ Overwrite="overwrite"
 Downloads="..\01-Downloads"
 ```
 
+Esto permite mantener herramientas, descargas, snapshots, repositorio y entorno de ejecución claramente separados.
+
 ---
 
-## 3) Estructura interna del repositorio
-```
-04-ArchitecturaeModularisCodex\
-│
-├─ Profiles\
-│   └─ AMC-Base-1.6.1170\
-│       ├─ categories.dat
-│       ├─ modlist.txt
-│       ├─ plugins.txt
-│       ├─ Skyrim.ini
-│       └─ SkyrimPrefs.ini
-│
-├─ 00.00-Config\                ← Mod de configuración versionado
-│   └─ Data\SKSE\Plugins\
-│       ├─ SSEDisplayTweaks.ini
-│       ├─ EngineFixes.toml
-│       └─ ScrambledBugs.json
-│
-├─ Scripts\
-│   ├─ 00-CreateStructure_v2.bat     → genera estructura AMC en `mods\`
-│   ├─ 02-Deploy-Config.bat          → copia `00.00-Config` → `mods\00.00-Config`
-│   ├─ 03-Export-Profile.bat         → exporta `modlist/plugins/categories/ini` del perfil activo
-│   ├─ 04-Deploy-EngineFixesRoot.bat → instala Engine Fixes Part 2 en raíz del juego
-│   └─ 05-GitQuickPush.bat           → add/commit/push rápido (PowerShell/CMD safe)
-│
-├─ Docs\
-│   ├─ ARCHITECTURE_v0.1.1.md        → arquitectura base
-│   ├─ PORTABILITY_v0.1.1.md         → portabilidad y migración
-│   ├─ Doctrine_Aesthetica_v0.5.1.md → fundamentos filosóficos y estructurales
-│   └─ AMC_Documentation_Guide.md    → guía modular de documentación
-│
+## Estructura real del repositorio
+
+```text
+11-ArchitecturaeModularisCodex/
+├─ 00.Config/          # configuración versionada y desplegable
+├─ 01.Staging/         # área de preparación y trabajo intermedio
+├─ 02.Docs/            # arquitectura, doctrina, portabilidad e histórico
+│  ├─ 00.Core/
+│  └─ 99.History/
+├─ 03.Scripts/         # automatización operativa
+│  ├─ 01.Reporting/
+│  ├─ 02.Deploy/
+│  ├─ 03.Profile/
+│  ├─ 04.Changelog/
+│  └─ 05.Git/
+├─ Profiles/           # snapshots reproducibles de perfiles MO2
+├─ .gitattributes
+├─ .gitignore
 └─ README.md
+```
+
+Esta estructura refleja el modelo actual del repositorio y sustituye a las referencias antiguas a carpetas genéricas `Docs/` y `Scripts/`.
 
 ---
+
+## Convención de categorías AMC
+
+Los mods se ordenan con el formato:
+
+```text
+XX.YY-Parent-SubgroupPascal
 ```
-## 4) Convención de categorías AMC
-**Formato:** `XX.YY-Parent-SubgroupPascal`
 
-- `XX` → bloque principal (00, 01, …, 14, 99).  
-- `YY` → identificador único incremental dentro del bloque.  
-- `Parent/Subgroup` → semántica funcional (Core, Frameworks, Combat, Lighting, etc.).  
-- `PascalCase` → legible y alineado con nombres de proyectos.
+Donde:
 
-**Ejemplos:**
+- `XX` identifica el bloque funcional principal;
+- `YY` mantiene un orden estable dentro del bloque;
+- `Parent/Subgroup` expresa la responsabilidad funcional;
+- `PascalCase` mantiene nombres compactos y legibles.
 
+Ejemplos:
+
+```text
 00.01-Core-AddressLibrary
 01.03-Frameworks-Nemesis
 04.03-Visual-Lighting
 14.01-Generators-NemesisOutput
+```
 
-**Bloques (orden real de carga):**
-| Nº | Nombre | Descripción |
-|----|---------|-------------|
-| 00 | Core | Núcleo técnico, librerías, fixers |
-| 01 | Frameworks | Extensores y dependencias SKSE |
-| 02 | Gameplay | Mecánicas, progresión, supervivencia |
-| 03 | Animation | Movimiento, combate, locomotion |
-| 04 | Visual | Texturas, iluminación, clima |
-| 05 | Audio | Música, ambiente, SFX |
-| 06 | Interface | HUD, menús, MCM, mapas |
-| 07 | World | Entorno, ciudades, flora, LOD |
-| 08 | NPCs | Entidades, criaturas, overhauls |
-| 09 | Items | Armas, armaduras, economía |
-| 10 | Quests | Misiones, diálogos, expansiones |
-| 11 | Adult | Frameworks, animaciones, UI |
-| 12 | Patches | Conflicts, merges, load order fixes |
-| 13 | Overrides | Ajustes tardíos y cosméticos |
-| 14 | Generators | Nemesis, DynDOLOD, TexGen, Synthesis |
-| 15 | DevTools | Logs, debug y herramientas |
-| 99 | Unsorted | Zona de triage temporal |
+### Bloques funcionales
 
----
-
-## 🧩 5. Scripts principales
-| Script | Descripción | Uso |
-|---|---|---|
-| `02-Deploy-Config.bat` | Copia o enlaza `00.Config` hacia MO2 | Tras clonar el repo |
-| `03-Export-Profile.bat` | Exporta perfil activo a `Profiles\` | Antes de commit |
-| `04-Deploy-EngineFixesRoot.bat` | Copia `d3dx9_42.dll` (Engine Fixes Part 2) | En instalación inicial |
-| `06-Generate-Changelog.ps1` | Genera snapshot de mods habilitados y diffs | Al cerrar versión |
-| `05-GitQuickPush.bat` | Commit + Push rápido con mensaje formateado | Tras cada cambio significativo |
+| Bloque | Área | Responsabilidad |
+|---:|---|---|
+| 00 | Core | Núcleo técnico, librerías y fixes |
+| 01 | Frameworks | Extensores, SKSE y dependencias compartidas |
+| 02 | Gameplay | Mecánicas, progresión y supervivencia |
+| 03 | Animation | Movimiento, combate y locomoción |
+| 04 | Visual | Texturas, iluminación y clima |
+| 05 | Audio | Música, ambiente y SFX |
+| 06 | Interface | HUD, menús, MCM y mapas |
+| 07 | World | Mundo, ciudades, flora y LOD |
+| 08 | NPCs | NPC, criaturas y overhauls |
+| 09 | Items | Armas, armaduras, economía y objetos |
+| 10 | Quests | Misiones, diálogos y expansiones |
+| 11 | Adult | Frameworks, animaciones e interfaz asociada |
+| 12 | Patches | Resolución de conflictos y compatibilidad |
+| 13 | Overrides | Ajustes tardíos y sustituciones deliberadas |
+| 14 | Generators | Nemesis, DynDOLOD, TexGen, Synthesis, etc. |
+| 15 | DevTools | Diagnóstico, logs y utilidades de desarrollo |
+| 99 | Unsorted | Triage temporal antes de clasificación |
 
 ---
 
-## 🧭 6. Flujo recomendado
-1. Instalar Skyrim AE limpio.  
-2. Configurar MO2 portable.  
-3. Ejecutar `00-CreateStructure_v2.bat`.  
-4. Desplegar configuración con `02-Deploy-Config.bat`.  
-5. Instalar núcleo técnico (Address Library, Engine Fixes, po3, Display Tweaks).  
-6. Activar frameworks (`Nemesis`, `DAR`, `AMR`, etc.).  
-7. Ejecutar `Nemesis` → mover `overwrite` a `14.01-Generators-NemesisOutput`.  
-8. Generar LODs con `TexGen` / `DynDOLOD`.  
-9. Exportar perfil con `03-Export-Profile.bat`.  
-10. Commit final con `05-GitQuickPush.bat "AMC vX.Y.Z - <Descripción>"`.
+## Automatización
+
+La automatización está agrupada por responsabilidad dentro de [`03.Scripts/`](03.Scripts/):
+
+| Área | Propósito |
+|---|---|
+| `01.Reporting` | inspección, reporting y estado del entorno |
+| `02.Deploy` | despliegue de configuración y componentes externos |
+| `03.Profile` | importación/exportación y mantenimiento de perfiles |
+| `04.Changelog` | snapshots y generación de historial de cambios |
+| `05.Git` | operaciones Git repetitivas del flujo AMC |
+
+El manual de scripts se encuentra en [`03.Scripts/AMC_Manual_v0.1.0.md`](03.Scripts/AMC_Manual_v0.1.0.md).
 
 ---
 
-## 🗃️ 7. Versionado y documentación
-- Addenda y releases en `02.Docs\99.History`.  
-- VersionIndex.md → catálogo oficial de Addenda (0.1–0.5.1).  
-- Doctrine Aesthetica → filosofía de forma, coherencia e intención.  
-- Portability.md → replicación exacta del entorno.  
-- Architecture.md → definición estructural y técnica.  
+## Flujo de trabajo recomendado
+
+```text
+Skyrim limpio
+   ↓
+MO2 portable
+   ↓
+Estructura AMC
+   ↓
+Configuración base
+   ↓
+Core + frameworks
+   ↓
+Gameplay / visual / contenido
+   ↓
+Patches + overrides
+   ↓
+Generators
+   ↓
+Exportar perfil
+   ↓
+Documentar + versionar
+```
+
+En términos prácticos:
+
+1. partir de una instalación limpia de Skyrim AE compatible;
+2. configurar MO2 en modo portable;
+3. desplegar la estructura y configuración AMC;
+4. instalar primero núcleo técnico y frameworks;
+5. incorporar módulos funcionales respetando las categorías;
+6. resolver compatibilidad en `12.Patches` y ajustes tardíos en `13.Overrides`;
+7. regenerar outputs derivados en `14.Generators`;
+8. exportar el perfil activo a `Profiles/`;
+9. revisar cambios y documentación;
+10. cerrar el estado mediante Git.
 
 ---
 
-## 🚀 8. Estado actual (v0.5.1)
-- **Doctrina consolidada** (forma + intención).  
-- **Bloques 00–15** completos y funcionales.  
-- **Releases** hasta `AMC_v0.5.1_DoctrineAesthetica.zip`.  
-- **Documentación viva** y trazable.  
+## Documentación principal
+
+La documentación de referencia vive en [`02.Docs/`](02.Docs/):
+
+- [`ARCHITECTURE_v0.1.1.md`](02.Docs/00.Core/ARCHITECTURE_v0.1.1.md) — arquitectura y responsabilidades del sistema.
+- [`PORTABILITY_v0.1.1.md`](02.Docs/00.Core/PORTABILITY_v0.1.1.md) — criterios de portabilidad y reconstrucción.
+- [`AMC — Doctrine Aesthetica.md`](02.Docs/00.Core/AMC%20%E2%80%94%20Doctrine%20Aesthetica.md) — principios de diseño y coherencia.
+- [`AMC_Documentation_Guide_v0.1.1.md`](02.Docs/AMC_Documentation_Guide_v0.1.1.md) — convención para mantener la documentación.
+- [`Estado actual y roadmap.txt`](02.Docs/00.Core/Estado%20actual%20y%20roadmap.txt) — estado y líneas de evolución.
+- [`99.History/`](02.Docs/99.History/) — histórico y addenda del proyecto.
 
 ---
 
-## 🧭 9. Roadmap AMC v1.0
-- Ampliar Doctrine Aesthetica con subprincipios aplicados.  
-- Integrar automatización total del flujo (CLI único).  
-- Publicar *AMC Modular Core* como entorno reproducible (GitHub).  
-- Documentar casos de portabilidad multiusuario.
+## Estado del proyecto
+
+La rama `master` representa el estado versionado del sistema. AMC mantiene actualmente:
+
+- estructura modular consolidada;
+- configuración separada del contenido instalado;
+- perfiles MO2 versionables;
+- documentación técnica y doctrinal;
+- scripts agrupados por responsabilidad;
+- histórico de evolución del sistema.
+
+El objetivo hacia `v1.0` no es aumentar complejidad por sí misma, sino reducir trabajo manual y hacer que reconstruir, auditar o migrar AMC sea cada vez más determinista.
 
 ---
 
-## 🕯️ 10. Créditos
-- **Diseño y estructura:** Sam Althaus  
-- **Frameworks base:** meh321, aers, ousnius, powerofthree  
-- **Metodología:** Lexy’s LOTD, The Phoenix Flavour  
-- **Inspiración filosófica:** Doctrine Aesthetica (Codex Internum)
+## Alcance y filosofía
+
+AMC es un proyecto personal de ingeniería aplicada al modding. No intenta imponer una única selección de mods ni competir con una modlist automatizada. Su interés está en la **arquitectura que hace mantenible una instalación compleja**.
+
+Si una pieza puede sustituirse sin romper el modelo, si un perfil puede reconstruirse sin depender de memoria informal y si otro estado del sistema puede compararse con Git, AMC está cumpliendo su función.
+
+---
+
+## Créditos
+
+**Diseño y arquitectura:** Sam Althaus  
+**Ecosistema técnico:** comunidad de Skyrim modding y autores de las herramientas integradas  
+**Referencias metodológicas:** proyectos y modlists que han demostrado el valor de la reproducibilidad, separación por capas y documentación mantenible
