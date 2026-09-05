@@ -232,6 +232,14 @@ Si una pieza puede sustituirse sin romper el modelo, si un perfil puede reconstr
 
 ---
 
+## Licencia y atribución
+
+La documentación, scripts y material original de AMC pueden reutilizarse bajo la [licencia de atribución](LICENSE).
+
+Si reutilizas una parte sustancial del proyecto, incluye una referencia razonable a **Sam Althaus / AlthausDev** y, cuando sea práctico, al repositorio original. Mods, herramientas, assets y otros componentes de terceros conservan sus propias licencias y derechos.
+
+---
+
 ## Créditos
 
 **Diseño y arquitectura:** Sam Althaus  
